@@ -24,5 +24,13 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.3.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@duckdb/duckdb-wasm": "^1.26.0",
+		"@observablehq/plot": "^0.6.8",
+		"apache-arrow": "^12.0.0",
+		"arquero": "^5.2.0",
+		"nock": "^13.3.1",
+		"papaparse": "^5.4.1"
+	}
 }

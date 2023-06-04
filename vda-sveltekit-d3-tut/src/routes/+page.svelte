@@ -16,5 +16,6 @@
     <ul>
         {#each data.flowers as flower}
         <li>sepalLength: {flower.sepalLength}</li>
+        <li>id:{flower.id} --- species:{flower.species}</li>
         {/each}
     </ul>
