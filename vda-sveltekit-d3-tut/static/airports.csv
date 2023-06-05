@@ -1,0 +1,3376 @@
+key,name,city,state,country,lat,long,vip
+00M,Thigpen,Bay Springs,MS,USA,31.95,-89.23,False
+00R,Livingston Municipal,Livingston,TX,USA,30.69,-95.02,False
+00V,Meadow Lake,Colorado Springs,CO,USA,38.95,-104.57,False
+01G,Perry-Warsaw,Perry,NY,USA,42.74,-78.05,False
+01J,Hilliard Airpark,Hilliard,FL,USA,30.69,-81.91,False
+01M,Tishomingo County,Belmont,MS,USA,34.49,-88.20,False
+02A,Gragg-Wade,Clanton,AL,USA,32.85,-86.61,False
+02C,Capitol,Brookfield,WI,USA,43.09,-88.18,False
+02G,Columbiana County,East Liverpool,OH,USA,40.67,-80.64,False
+03D,Memphis Memorial,Memphis,MO,USA,40.45,-92.23,False
+04M,Calhoun County,Pittsboro,MS,USA,33.93,-89.34,False
+04Y,Hawley Municipal,Hawley,MN,USA,46.88,-96.35,False
+05C,Griffith-Merrillville,Griffith,IN,USA,41.52,-87.40,False
+05F,Gatesville - City/County,Gatesville,TX,USA,31.42,-97.80,False
+05U,Eureka,Eureka,NV,USA,39.60,-116.01,False
+06A,Moton  Municipal,Tuskegee,AL,USA,32.46,-85.68,False
+06C,Schaumburg,Chicago/Schaumburg,IL,USA,41.99,-88.10,False
+06D,Rolla Municipal,Rolla,ND,USA,48.88,-99.62,False
+06M,Eupora Municipal,Eupora,MS,USA,33.53,-89.31,False
+06N,Randall,Middletown,NY,USA,41.43,-74.39,False
+06U,Jackpot/Hayden,Jackpot,NV,USA,41.98,-114.66,False
+07C,Dekalb County,Auburn,IN,USA,41.31,-85.06,False
+07F,Gladewater Municipal,Gladewater,TX,USA,32.53,-94.97,False
+07G,Fitch H Beach,Charlotte,MI,USA,42.57,-84.81,False
+07K,Central City Municipal,Central City,NE,USA,41.12,-98.05,False
+08A,Wetumpka Municipal,Wetumpka,AL,USA,32.53,-86.33,False
+08D,Stanley Municipal,Stanley,ND,USA,48.30,-102.41,False
+08K,Harvard State,Harvard,NE,USA,40.65,-98.08,False
+08M,Carthage-Leake County,Carthage,MS,USA,32.76,-89.53,False
+09A,Butler-Choctaw County,Butler,AL,USA,32.12,-88.13,False
+09J,Jekyll Island,Jekyll Island,GA,USA,31.07,-81.43,False
+09K,Sargent Municipal,Sargent,NE,USA,41.64,-99.34,False
+09M,Charleston Municipal,Charleston,MS,USA,33.99,-90.08,False
+09W,South Capitol Street,Washington,DC,USA,38.87,-77.01,False
+0A3,Smithville Municipal,Smithville,TN,USA,35.99,-85.81,False
+0A8,Bibb County,Centreville,AL,USA,32.94,-87.09,False
+0A9,Elizabethton Municipal,Elizabethton,TN,USA,36.37,-82.17,False
+0AK,Pilot Station,Pilot Station,AK,USA,61.93,-162.89,False
+0B1,Col. Dyke,Bethel,ME,USA,44.43,-70.81,False
+0B4,Hartington Municipal,Hartington,NE,USA,42.60,-97.25,False
+0B5,Turners Falls,Montague,MA,USA,42.59,-72.52,False
+0B7,Warren-Sugar Bush,Warren,VT,USA,44.12,-72.83,False
+0B8,Elizabeth,Fishers Island,NY,USA,41.25,-72.03,False
+0C0,Dacy,Chicago/Harvard,IL,USA,42.40,-88.63,False
+0C4,Pender Municipal,Pender,NE,USA,42.11,-96.73,False
+0D1,South Haven Municipal,South Haven,MI,USA,42.35,-86.26,False
+0D8,Gettysburg Municipal,Gettysburg,SD,USA,44.99,-99.95,False
+0E0,Moriarty,Moriarty,NM,USA,34.99,-106.01,False
+0E8,Crownpoint,Crownpoint,NM,USA,35.72,-108.20,False
+0F2,Bowie Municipal,Bowie,TX,USA,33.60,-97.78,False
+0F4,Loup City Municipal,Loup City,NE,USA,41.29,-98.99,False
+0F7,Fountainhead Lodge Airpark,Eufaula,OK,USA,35.39,-95.60,False
+0F8,William R Pogue Municipal,Sand Springs,OK,USA,36.18,-96.15,False
+0F9,Tishomingo Airpark,Tishomingo,OK,USA,34.20,-96.68,False
+0G0,North Buffalo Suburban,Lockport,NY,USA,43.10,-78.70,False
+0G3,Tecumseh Municipal,Tecumseh,NE,USA,40.40,-96.17,False
+0G6,Williams County,Bryan,OH,USA,41.47,-84.51,False
+0G7,Finger Lakes Regional,Seneca Falls,NY,USA,42.88,-76.78,False
+0H1,Trego Wakeeney,Wakeeney,KS,USA,39.00,-99.89,False
+0I8,Cynthiana-Harrison County,Cynthiana,KY,USA,38.37,-84.28,False
+0J0,Abbeville Municipal,Abbeville,AL,USA,31.60,-85.24,False
+0J4,Florala Municipal,Florala,AL,USA,31.04,-86.31,False
+0J6,Headland Municipal,Headland,AL,USA,31.36,-85.31,False
+0K7,Humboldt Municipal,Humboldt,IA,USA,42.74,-94.25,False
+0L5,Goldfield,Goldfield,NV,USA,37.72,-117.24,False
+0L7,Jean,Jean,NV,USA,35.77,-115.33,False
+0L9,Echo Bay,Overton,NV,USA,36.31,-114.46,False
+0M0,Dumas Municipal,Dumas,AR,USA,33.88,-91.53,False
+0M1,Scott,Parsons,TN,USA,35.64,-88.13,False
+0M4,Benton County,Camden,TN,USA,36.01,-88.12,False
+0M5,Humphreys County,Waverly,TN,USA,36.12,-87.74,False
+0M6,Panola County,Batesville,MS,USA,34.37,-89.90,False
+0M8,Byerley,Lake Providence,LA,USA,32.83,-91.19,False
+0O3,Calaveras Co-Maury Rasmussen,San Andreas,CA,USA,38.15,-120.65,False
+0O4,Corning Municipal,Corning,CA,USA,39.94,-122.17,False
+0O5,University,Davis,CA,USA,38.53,-121.79,False
+0Q5,Shelter Cove,Shelter Cove,CA,USA,40.03,-124.07,False
+0Q6,Shingletown,Shingletown,CA,USA,40.52,-121.82,False
+0R0,Columbia-Marion County,Columbia,MS,USA,31.30,-89.81,False
+0R1,Atmore Municipal,Atmore,AL,USA,31.02,-87.45,False
+0R3,Abbeville Chris Crusta Memorial,Abbeville,LA,USA,29.98,-92.08,False
+0R4,Concordia Parish,Vidalia,LA,USA,31.57,-91.50,False
+0R5,David G Joyce,Winnfield,LA,USA,31.96,-92.66,False
+0R7,Red River,Coushatta,LA,USA,31.99,-93.31,False
+0S7,Dorothy Scott,Oroville,WA,USA,48.96,-119.41,False
+0S9,Jefferson County International,Port Townsend,WA,USA,48.05,-122.80,False
+0V2,Harriet Alexander,Salida,CO,USA,38.54,-106.05,False
+0V3,Pioneer Village,Minden,NE,USA,40.51,-98.95,False
+0V4,Brookneal/Campbell County,Brookneal,VA,USA,37.14,-79.02,False
+0V6,Mission Sioux,Mission,SD,USA,43.31,-100.63,False
+0V7,Kayenta,Kayenta,AZ,USA,36.71,-110.24,False
+10C,Galt,Chicago/Greenwood/Wonderlake,IL,USA,42.40,-88.38,False
+10D,Winsted Municipal,Winsted,MN,USA,44.95,-94.07,False
+10G,Holmes County,Millersburg,OH,USA,40.54,-81.95,False
+10N,Wallkill,Wallkill,NY,USA,41.63,-74.13,False
+10U,Owyhee,Owyhee,NV,USA,41.95,-116.19,False
+11A,Clayton Municipal,Clayton,AL,USA,31.88,-85.48,False
+11D,Clarion Cty,Clarion,PA,USA,41.23,-79.44,False
+11IS,Schaumburg Heliport,Chicago/Schaumburg,IL,USA,42.05,-88.05,False
+11J,Early County,Blakely,GA,USA,31.40,-84.90,False
+11R,Brenham Municipal,Brenham,TX,USA,30.22,-96.37,False
+12C,Rochelle Municipal,Rochelle,IL,USA,41.89,-89.08,False
+12D,Tower Municipal,Tower,MN,USA,47.82,-92.29,False
+12J,Brewton Municipal,Brewton,AL,USA,31.05,-87.07,False
+12K,Superior Municipal,Superior,NE,USA,40.05,-98.06,False
+12Y,Le Sueur Municipal,Le Sueur,MN,USA,44.44,-93.91,False
+13C,Lakeview,Lakeview,MI,USA,43.45,-85.26,False
+13K,Eureka Municipal,Eureka,KS,USA,37.85,-96.29,False
+13N,Trinca,Andover,NJ,USA,40.97,-74.78,False
+14J,Carl Folsom,Elba,AL,USA,31.41,-86.09,False
+14M,Hollandale Municipal,Hollandale,MS,USA,33.18,-90.83,False
+14Y,Todd Field,Long Prairie,MN,USA,45.90,-94.87,False
+15F,Haskell Municipal,Haskell,TX,USA,33.19,-99.72,False
+15J,Cook County,Adel,GA,USA,31.14,-83.45,False
+15M,Luka,Luka,MS,USA,34.77,-88.17,False
+15Z,McCarthy 2,McCarthy,AK,USA,61.44,-142.90,False
+16A,Nunapitchuk,Nunapitchuk,AK,USA,60.91,-162.44,False
+16G,Seneca County,Tiffin,OH,USA,41.09,-83.21,False
+16J,Dawson Municipal,Dawson,GA,USA,31.74,-84.42,False
+16S,Myrtle Creek Municipal,Myrtle Creek,OR,USA,43.00,-123.31,False
+17G,Port Bucyrus-Crawford County,Bucyrus,OH,USA,40.78,-82.97,False
+17J,Donalsonville Municipal,Donalsonville,GA,USA,31.01,-84.88,False
+17K,Boise City,Boise City,OK,USA,36.77,-102.51,False
+17M,Magee Municipal,Magee,MS,USA,31.86,-89.80,False
+17N,Cross Keys,Cross Keys,NJ,USA,39.71,-75.03,False
+17Z,Manokotak,Manokotak,AK,USA,58.99,-159.05,False
+18A,Franklin County,Canon,GA,USA,34.34,-83.13,False
+18I,McCreary County,Pine Knot,KY,USA,36.70,-84.39,False
+19A,Jackson County,Jefferson,GA,USA,34.17,-83.56,False
+19M,C A Moore,Lexington,MS,USA,33.13,-90.03,False
+19N,Camden,Berlin,NJ,USA,39.78,-74.95,False
+19P,Port Protection SPB,Port Protection,AK,USA,56.33,-133.61,False
+1A3,Martin Campbell,Copperhill,TN,USA,35.02,-84.35,False
+1A5,Macon County,Franklin,NC,USA,35.22,-83.42,False
+1A6,Middlesboro-Bell County,Middlesboro,KY,USA,36.61,-83.74,False
+1A7,Jackson County,Gainesboro,TN,USA,36.40,-85.64,False
+1A9,Autauga County,Prattville,AL,USA,32.44,-86.51,False
+1B0,Dexter Regional,Dexter,ME,USA,45.01,-69.24,False
+1B1,Columbia Cty,Hudson,NY,USA,42.29,-73.71,False
+1B3,Fair Haven,Fair Haven,VT,USA,43.62,-73.27,False
+1B9,Mansfield Municipal,Mansfield,MA,USA,42.00,-71.20,False
+1C5,Clow,Chicago/Plainfield,IL,USA,41.70,-88.13,False
+1D1,Milbank Municipal,Milbank,SD,USA,45.23,-96.57,False
+1D2,Canton -Plymouth -  Mettetal,Plymouth,MI,USA,42.35,-83.46,False
+1D3,Platte Municipal,Platte,SD,USA,43.40,-98.83,False
+1D6,Hector Municipal,Hector,MN,USA,44.73,-94.71,False
+1D7,Webster Municipal,Webster,SD,USA,45.29,-97.51,False
+1D8,Redfield Municipal,Redfield,SD,USA,44.86,-98.53,False
+1F0,Downtown Ardmore,Ardmore,OK,USA,34.15,-97.12,False
+1F1,Lake Murray State Park,Overbrook,OK,USA,34.08,-97.11,False
+1F4,Madill Municipal,Madill,OK,USA,34.14,-96.81,False
+1F9,Bridgeport Municipal,Bridgeport,TX,USA,33.18,-97.83,False
+1G0,Wood County,Bowling Green,OH,USA,41.39,-83.63,False
+1G3,Kent State University,Kent,OH,USA,41.15,-81.42,False
+1G4,Grand Canyon West,Peach Springs,AZ,USA,35.99,-113.82,False
+1G5,Freedom,Medina,OH,USA,41.13,-81.76,False
+1G6,Michael,Cicero,NY,USA,43.18,-76.13,False
+1H0,Creve Coeur,St Louis,MO,USA,38.73,-90.51,False
+1H2,Effingham County Memorial,Effingham,IL,USA,39.07,-88.53,False
+1H3,Linn State Tech. College,Linn,MO,USA,38.47,-91.82,False
+1H8,Casey Municipal,Casey,IL,USA,39.30,-88.00,False
+1I5,Freehold,Freehold,NY,USA,42.36,-74.07,False
+1I9,Delphi Municipal,Delphi,IN,USA,40.54,-86.68,False
+1J0,Tri-County,Bonifay,FL,USA,30.85,-85.60,False
+1K2,Lindsay Municipal,Lindsay,OK,USA,34.85,-97.59,False
+1K4,David J. Perry,Goldsby,OK,USA,35.16,-97.47,False
+1K5,Waynoka Municipal,Waynoka,OK,USA,36.57,-98.85,False
+1K9,Satanta Municipal,Satanta,KS,USA,37.45,-100.99,False
+1L0,St. John the Baptist Parish,Reserve,LA,USA,30.09,-90.58,False
+1L1,Lincoln Co,Panaca,NV,USA,37.79,-114.42,False
+1L7,Escalante Municipal,Escalante,UT,USA,37.75,-111.57,False
+1L9,Parowan,Parowan,UT,USA,37.86,-112.82,False
+1M1,North Little Rock Municipal,No Lit Rock,AR,USA,34.83,-92.26,False
+1M2,Belzoni Municipal,Belzoni,MS,USA,33.15,-90.52,False
+1M4,Posey,Haleyville,AL,USA,34.28,-87.60,False
+1M5,Portland Municipal,Portland,TN,USA,36.59,-86.48,False
+1M7,Fulton,Fulton,KY,USA,36.53,-88.92,False
+1MO,Mountain Grove Memorial,Mountain Grove,MO,USA,37.12,-92.31,False
+1N2,Spadaro,East Moriches,NY,USA,40.83,-72.75,False
+1N4,Woodbine Muni,Woodbine,NJ,USA,39.22,-74.79,False
+1N7,Blairstown,Blairstown,NJ,USA,40.97,-75.00,False
+1N9,Allentown Queen City Muni,Allentown,PA,USA,40.57,-75.49,False
+1ND3,Hamry,Kindred,ND,USA,46.65,-97.01,False
+1O1,Grandfield Municipal,Grandfield,OK,USA,34.24,-98.74,False
+1O2,Lampson,Lakeport,CA,USA,38.99,-122.90,False
+1O3,Lodi,Lodi,CA,USA,38.20,-121.27,False
+1O4,Thomas Municipal,Thomas,OK,USA,35.73,-98.73,False
+1O6,Dunsmuir Municipal-Mott,Dunsmuir,CA,USA,41.26,-122.27,False
+1R1,Jena,Jena,LA,USA,31.67,-92.16,False
+1R7,Brookhaven-Lincoln County,Brookhaven,MS,USA,31.61,-90.41,False
+1R8,Bay Minette Municipal,Bay Minette,AL,USA,30.87,-87.82,False
+1S0,Pierce County,Puyallup,WA,USA,47.10,-122.29,False
+1S3,Tillitt,Forsyth,MT,USA,46.27,-106.62,False
+1S5,Sunnyside Municipal,Sunnyside,WA,USA,46.33,-119.97,False
+1S6,Priest River Muni,Priest River,ID,USA,48.19,-116.91,False
+1U7,Bear Lake County,Paris,ID,USA,42.25,-111.34,False
+1V0,Navajo State Park,Navajo Dam,NM,USA,36.81,-107.65,False
+1V2,Grant County,Hyannis,NE,USA,42.01,-101.77,False
+1V5,Boulder Muni,Boulder,CO,USA,40.04,-105.23,False
+1V6,Fremont County,Canon City,CO,USA,38.43,-105.11,False
+1V9,Blake,Delta,CO,USA,38.79,-108.06,False
+20A,Robbins,Oneonta,AL,USA,33.97,-86.38,False
+20M,Macon Municipal,Macon,MS,USA,33.13,-88.54,False
+20N,Kingston-Ulster,Kingston,NY,USA,41.99,-73.96,False
+20U,Beach,Beach,ND,USA,46.92,-103.98,False
+20V,McElroy Airfield,Kremmling,CO,USA,40.05,-106.37,False
+21D,Lake Elmo,St Paul,MN,USA,45.00,-92.86,False
+21F,Jacksboro Municipal,Jacksboro,TX,USA,33.23,-98.15,False
+22B,Mountain Meadow Airstrip,Burlington,CT,USA,41.77,-73.01,False
+22I,Vinton County,McArthur,OH,USA,39.33,-82.44,False
+22M,Pontotoc County,Pontotoc,MS,USA,34.28,-89.04,False
+22N,Carbon Cty-Jake Arner Memorial,Lehighton,PA,USA,40.81,-75.76,False
+23J,Herlong,Jacksonville,FL,USA,30.28,-81.81,False
+23M,Clarke County,Quitman,MS,USA,32.08,-88.74,False
+23N,Bayport Aerodrome,Bayport,NY,USA,40.76,-73.05,False
+23R,Devine Municipal,Devine,TX,USA,29.14,-98.94,False
+24A,Jackson County,Sylva,NC,USA,35.32,-83.21,False
+24J,Suwannee County,Live Oak,FL,USA,30.30,-83.02,False
+24N,Jicarilla Apache Nation,Dulce,NM,USA,36.83,-106.88,False
+25J,Cuthbert-Randolph,Cuthbert,GA,USA,31.70,-84.82,False
+25M,Ripley,Ripley,MS,USA,34.72,-89.02,False
+25R,International,Edinburg,TX,USA,26.44,-98.13,False
+26A,Ashland/Lineville,Ashland/Lineville,AL,USA,33.29,-85.80,False
+26N,Ocean City Muni cipal,Ocean City,NJ,USA,39.26,-74.61,False
+26R,Jackson County,Edna/Ganado,TX,USA,29.00,-96.58,False
+26U,McDermitt State,McDermitt,OR,USA,42.00,-117.72,False
+27A,Elbert County-Patz,Elberton,GA,USA,34.10,-82.82,False
+27D,Myers,Canby,MN,USA,44.73,-96.26,False
+27J,Newberry Municipal,Newberry,SC,USA,34.31,-81.64,False
+27K,Georgetown-Scott County,Georgetown,KY,USA,38.23,-84.43,False
+28J,Kay Larkin,Palatka,FL,USA,29.66,-81.69,False
+29D,Grove City,Grove City,PA,USA,41.15,-80.17,False
+29G,Portage County,Ravenna,OH,USA,41.21,-81.25,False
+29S,Gardiner,Gardiner,MT,USA,45.05,-110.75,False
+2A0,Mark Anton,Dayton,TN,USA,35.49,-84.93,False
+2A1,Jamestown Municipal,Jamestown,TN,USA,36.35,-84.95,False
+2A3,Larsen Bay,Larsen Bay,AK,USA,57.54,-153.98,False
+2A9,Kotlik,Kotlik,AK,USA,63.03,-163.53,False
+2AK,Lime Village,Lime Village,AK,USA,61.36,-155.44,False
+2B3,Parlin,Newport,NH,USA,43.39,-72.19,False
+2B7,Pittsfield Municipal,Pittsfield,ME,USA,44.77,-69.37,False
+2B9,Post Mills,Post Mills,VT,USA,43.88,-72.25,False
+2D1,Barber,Alliance,OH,USA,40.97,-81.10,False
+2D5,Oakes Municipal,Oakes,ND,USA,46.17,-98.08,False
+2F5,Lamesa Municipal,Lamesa,TX,USA,32.76,-101.92,False
+2F6,Skiatook Municipal,Skiatook,OK,USA,36.36,-96.01,False
+2F7,Commerce Municipal,Commerce,TX,USA,33.29,-95.90,False
+2F8,Morehouse Memorial,Bastrop,LA,USA,32.76,-91.88,False
+2G2,Jefferson County Airpark,Steubenville,OH,USA,40.36,-80.70,False
+2G3,Connellsville,Connellsville,PA,USA,39.96,-79.66,False
+2G4,Garrett County,Oakland,MD,USA,39.58,-79.34,False
+2G9,Somerset County,Somerset,PA,USA,40.04,-79.01,False
+2H0,Shelby County,Shelbyville,IL,USA,39.41,-88.85,False
+2H2,Aurora Memorial Municipal,Aurora,MO,USA,36.96,-93.70,False
+2I0,Madisonville Municipal,Madisonville,KY,USA,37.36,-87.40,False
+2I5,Chanute,Rantoul,IL,USA,40.29,-88.14,False
+2IS,Airglades,Clewiston,FL,USA,26.74,-81.05,False
+2J2,Liberty County,Hinesville,GA,USA,31.78,-81.64,False
+2J3,Louisville Municipal,Louisville,GA,USA,32.99,-82.39,False
+2J5,Millen,Millen,GA,USA,32.89,-81.97,False
+2J9,Quincy Municipal,Quincy,FL,USA,30.60,-84.56,False
+2K3,Stanton County Municipal,Johnson,KS,USA,37.58,-101.73,False
+2K4,Scott,Mangum,OK,USA,34.89,-99.53,False
+2K5,Telida,Telida,AK,USA,63.39,-153.27,False
+2M0,Princeton-Caldwell County,Princeton,KY,USA,37.12,-87.86,False
+2M2,Lawrenceburg Municipal,Lawrenceburg,TN,USA,35.23,-87.26,False
+2M3,Sallisaw Municipal,Sallisaw,OK,USA,35.44,-94.80,False
+2M4,G. V. Montgomery,Forest,MS,USA,32.35,-89.49,False
+2M8,Charles W. Baker,Millington,TN,USA,35.28,-89.93,False
+2O1,Gansner,Quincy,CA,USA,39.94,-120.95,False
+2O3,Angwin-Parrett,Angwin,CA,USA,38.58,-122.44,False
+2O6,Chowchilla,Chowchilla,CA,USA,37.11,-120.25,False
+2O7,Independence,Independence,CA,USA,36.81,-118.21,False
+2O8,Hinton Municipal,Hinton,OK,USA,35.51,-98.34,False
+2P2,Washington Island,Washington Island,WI,USA,45.39,-86.92,False
+2Q3,Yolo Co-Davis/Woodland/Winters,Davis/Woodland/Winters,CA,USA,38.58,-121.86,False
+2R0,Waynesboro Municipal,Waynesboro,MS,USA,31.65,-88.63,False
+2R4,Peter Prince,Milton,FL,USA,30.64,-86.99,False
+2R5,St Elmo,St Elmo,AL,USA,30.50,-88.28,False
+2R9,Karnes County,Kenedy,TX,USA,28.83,-97.87,False
+2S1,Vashon Municipal,Vashon,WA,USA,47.46,-122.48,False
+2S6,Sportsman Airpark,Newberg,OR,USA,45.30,-122.96,False
+2S7,Chiloquin State,Chiloquin,OR,USA,42.58,-121.88,False
+2S8,Wilbur,Wilbur,WA,USA,47.75,-118.74,False
+2T1,Muleshoe Municipal,Muleshoe,TX,USA,34.19,-102.64,False
+2V1,Stevens,Pagosa Springs,CO,USA,37.28,-107.06,False
+2V2,Vance Brand,Longmont,CO,USA,40.16,-105.16,False
+2V5,Wray Municipal,Wray,CO,USA,40.10,-102.24,False
+2V6,Yuma Municipal,Yuma,CO,USA,40.10,-102.71,False
+2W5,Maryland,Indian Head,MD,USA,38.60,-77.07,False
+2W6,Captain Walter Francis Duke Regional,Leonardtown,MD,USA,38.32,-76.55,False
+2Y3,Yakutat SPB,Yakutat,AK,USA,59.56,-139.74,False
+2Y4,Rockwell City Municipal,Rockwell City,IA,USA,42.39,-94.62,False
+31F,Gaines County,Seminole,TX,USA,32.68,-102.65,False
+32M,Norfolk,Norfolk,MA,USA,42.13,-71.37,False
+32S,Stevensville,Stevensville,MT,USA,46.53,-114.05,False
+33J,Geneva Municipal,Geneva,AL,USA,31.06,-85.88,False
+33M,Water Valley,Water Valley,MS,USA,34.17,-89.69,False
+33N,Delaware Airpark,Dover,DE,USA,39.22,-75.60,False
+33S,Pru,Ritzville,WA,USA,47.12,-118.39,False
+34A,Laurens County,Laurens,SC,USA,34.51,-81.95,False
+35A,Union County Troy Shelton,Union,SC,USA,34.69,-81.64,False
+35D,Padgham,Allegan,MI,USA,42.53,-85.83,False
+35S,Wasco State,Wasco,OR,USA,45.59,-120.67,False
+36K,Lakin,Lakin,KS,USA,37.97,-101.26,False
+36S,Happy Camp,Happy Camp,CA,USA,41.79,-123.39,False
+36U,Heber City Municipal/Russ McDonald,Heber,UT,USA,40.48,-111.43,False
+37T,Calico Rock-Izard County,Calico Rock,AR,USA,36.17,-92.15,False
+37W,Harnett County,Erwin,NC,USA,35.38,-78.73,False
+38A,Shaktoolik,Shaktoolik,AK,USA,64.36,-161.20,False
+38S,Deer Lodge-City-County,Deer Lodge,MT,USA,46.39,-112.77,False
+38U,Wayne Wonderland,Loa,UT,USA,38.36,-111.60,False
+39N,Princeton,Princeton,NJ,USA,40.40,-74.66,False
+3A0,Grove Hill Municipal,Grove Hill,AL,USA,31.69,-87.76,False
+3A1,Folsom,Cullman,AL,USA,34.27,-86.86,False
+3A2,New Tazewell Municipal,Tazewell,TN,USA,36.41,-83.56,False
+3A3,Anson County,Wadesboro,NC,USA,35.02,-80.08,False
+3AU,Augusta Municipal,Augusta,KS,USA,37.67,-97.08,False
+3B0,Southbridge Municipal,Southbridge,MA,USA,42.10,-72.04,False
+3B1,Greenville Municipal,Greenville,ME,USA,45.46,-69.55,False
+3B2,Marshfield,Marshfield,MA,USA,42.10,-70.67,False
+3B9,Chester,Chester,CT,USA,41.38,-72.51,False
+3BS,Jack Barstow,Midland,MI,USA,43.66,-84.26,False
+3CK,Lake In The Hills,Lake In The Hills,IL,USA,42.21,-88.32,False
+3CM,James Clements Municipal,Bay City,MI,USA,43.55,-83.90,False
+3CU,Cable Union,Cable,WI,USA,46.19,-91.25,False
+3D2,Ephraim/Gibraltar,Ephraim,WI,USA,45.14,-87.19,False
+3D4,Frankfort Dow Memorial,Frankfort,MI,USA,44.63,-86.20,False
+3F3,De Soto Parish,Mansfield,LA,USA,32.07,-93.77,False
+3F4,Vivian,Vivian,LA,USA,32.86,-94.01,False
+3F7,Jones Memorial,Bristow,OK,USA,35.81,-96.42,False
+3FM,Fremont Municipal,Fremont,MI,USA,43.44,-85.99,False
+3FU,Faulkton Municipal,Faulkton,SD,USA,45.03,-99.12,False
+3G3,Wadsworth Municipal,Wadsworth,OH,USA,41.00,-81.76,False
+3G4,Ashland County,Ashland,OH,USA,40.90,-82.26,False
+3G7,Williamson/Sodus,Williamson,NY,USA,43.23,-77.12,False
+3GM,Grand Haven Memorial Airpark,Grand Haven,MI,USA,43.03,-86.20,False
+3I2,Mason County,Point Pleasant,WV,USA,38.91,-82.10,False
+3I7,Phillipsburg,Phillipsburg,OH,USA,39.91,-84.40,False
+3J1,Ridgeland,Ridgeland,SC,USA,32.49,-80.99,False
+3J7,Greene County Airpark,Greensboro,GA,USA,33.60,-83.14,False
+3JC,Freeman,Junction City,KS,USA,39.04,-96.84,False
+3K3,Syracuse-Hamilton County Municipal,Syracuse,KS,USA,37.99,-101.75,False
+3K6,St Louis-Metro East,Troy/Marine/St. Louis,IL,USA,38.73,-89.81,False
+3K7,Mark Hoard Memorial,Leoti,KS,USA,38.46,-101.35,False
+3LC,Logan County,Lincoln,IL,USA,40.16,-89.33,False
+3LF,Litchfield Municipal,Litchfield,IL,USA,39.17,-89.67,False
+3M7,Lafayette Municipal,Lafayette,TN,USA,36.52,-86.06,False
+3M8,North Pickens,Reform,AL,USA,33.39,-88.01,False
+3M9,Warren Municipal,Warren,AR,USA,33.56,-92.09,False
+3MY,Mt. Hawley Auxiliary,Peoria,IL,USA,40.80,-89.61,False
+3N6,Old Bridge,Old Bridge,NJ,USA,40.33,-74.35,False
+3N8,Mahnomen County,Mahnomen,MN,USA,47.26,-95.93,False
+3ND0,Northwood Municipal,Northwood,ND,USA,47.72,-97.59,False
+3O1,Gustine,Gustine,CA,USA,37.26,-120.96,False
+3O3,Municipal,Purcell,OK,USA,34.98,-97.39,False
+3O4,Sayre Municipal,Sayre,OK,USA,35.17,-99.66,False
+3O5,Walters Municipal,Walters,OK,USA,34.37,-98.41,False
+3O7,Hollister Municipal,Hollister,CA,USA,36.89,-121.41,False
+3O9,Grand Lake Regional,Afton,OK,USA,36.58,-94.86,False
+3R0,Beeville Municipal,Beeville,TX,USA,28.36,-97.79,False
+3R1,Bay City Municipal,Bay City,TX,USA,28.97,-95.86,False
+3R2,Le Gros Memorial,Crowley,LA,USA,30.16,-92.48,False
+3R4,Hart,Many,LA,USA,31.54,-93.49,False
+3R7,Jennings,Jennings,LA,USA,30.24,-92.67,False
+3S4,Illinois Valley,Illinois Valley (Cave Junction),OR,USA,42.10,-123.68,False
+3S8,Grants Pass,Grants Pass,OR,USA,42.51,-123.39,False
+3S9,Condon State-Pauling,Condon,OR,USA,45.25,-120.17,False
+3SG,Harry W Browne,Saginaw - H.Browne,MI,USA,43.43,-83.86,False
+3SQ,St Charles,St Charles,MO,USA,38.85,-90.50,False
+3T3,Boyceville Municipal,Boyceville,WI,USA,45.04,-92.03,False
+3T5,Fayette Regional Air Center,La Grange,TX,USA,29.91,-96.95,False
+3TR,Jerry Tyler Memorial,Niles,MI,USA,41.84,-86.23,False
+3U3,Bowman,Anaconda,MT,USA,46.15,-112.87,False
+3U7,Benchmark,Benchmark,MT,USA,47.48,-112.87,False
+3U8,Big Sandy,Big Sandy,MT,USA,48.16,-110.11,False
+3V4,Fort Morgan Municipal,Fort Morgan,CO,USA,40.33,-103.80,False
+3WO,Shawano Municipal,Shawano,WI,USA,44.79,-88.56,False
+3Y2,George L Scott Municipal,West Union,IA,USA,42.99,-91.79,False
+3Y3,Winterset Madison County,Winterset,IA,USA,41.36,-94.02,False
+3Z9,Haines SPB,Haines,AK,USA,59.23,-135.44,False
+40J,Perry-Foley,Perry,FL,USA,30.07,-83.58,False
+40N,Chester Cty-G O Carlson,Coatesville,PA,USA,39.98,-75.87,False
+40U,Manila,Manila,UT,USA,40.99,-109.68,False
+41U,Manti-Ephraim,Manti,UT,USA,39.33,-111.61,False
+42A,Melbourne Municipal,Melbourne,AR,USA,36.07,-91.83,False
+42C,White Cloud,White Cloud,MI,USA,43.56,-85.77,False
+42J,Keystone Airpark,Keystone Heights,FL,USA,29.84,-82.05,False
+42S,Poplar,Poplar,MT,USA,48.12,-105.18,False
+43A,Montgomery County,Star,NC,USA,35.39,-79.79,False
+44B,Dover/Foxcroft,Dover-Foxcroft,ME,USA,45.18,-69.23,False
+44N,Sky Acres,Millbrook,NY,USA,41.71,-73.74,False
+45J,Rockingham-Hamlet,Rockingham,NC,USA,34.89,-79.76,False
+45OH,North Bass Island,North Bass Island,OH,USA,41.72,-82.82,False
+45R,Kountz - Hawthorne,Kountze/Silsbee,TX,USA,30.34,-94.26,False
+46A,Blairsville,Blairsville,GA,USA,34.86,-84.00,False
+46D,Carrington Municipal,Carrington,ND,USA,47.45,-99.15,False
+46N,Sky Park,Red Hook,NY,USA,41.98,-73.84,False
+47A,Cherokee County,Canton,GA,USA,34.31,-84.42,False
+47J,Cheraw Municipal,Cheraw,SC,USA,34.71,-79.96,False
+47N,Central Jersey Regional,Manville,NJ,USA,40.52,-74.60,False
+47V,Curtis Municipal,Curtis,NE,USA,40.64,-100.47,False
+48A,Cochran,Cochran,GA,USA,32.40,-83.28,False
+48D,Clare Municipal,Clare,MI,USA,43.83,-84.74,False
+48I,Braxton County,Sutton,WV,USA,38.69,-80.65,False
+48K,Ness City Municipal,Ness City,KS,USA,38.47,-99.91,False
+48S,Harlem,Harlem,MT,USA,48.57,-108.77,False
+48V,Tri-County,Erie,CO,USA,40.01,-105.05,False
+49A,Gilmer County,Ellijay,GA,USA,34.63,-84.52,False
+49T,Downtown Heliport,Dallas,TX,USA,32.77,-96.80,False
+49X,Chemehuevi Valley,Chemehuevi Valley,CA,USA,34.53,-114.43,False
+49Y,Fillmore County,Preston,MN,USA,43.68,-92.18,False
+4A2,Atmautluak,Atmautluak,AK,USA,60.87,-162.27,False
+4A4,Cornelius-Moore,Cedartown,GA,USA,34.02,-85.15,False
+4A5,Marshall-Searcy County,Marshall,AR,USA,35.90,-92.66,False
+4A6,Scottsboro Municipal,Scottsboro,AL,USA,34.69,-86.01,False
+4A7,Clayton County,Hampton,GA,USA,33.39,-84.33,False
+4A9,Isbell,Fort Payne,AL,USA,34.47,-85.72,False
+4B0,South Albany,South Bethlehem,NY,USA,42.56,-73.83,False
+4B1,Duanesburg,Duanesburg,NY,USA,42.76,-74.13,False
+4B6,Ticonderoga Muni,Ticonderoga,NY,USA,43.88,-73.41,False
+4B7,Schroon Lake,Schroon Lake,NY,USA,43.86,-73.74,False
+4B8,Robertson,Plainville,CT,USA,41.69,-72.86,False
+4B9,Simsbury Tri-Town,Simsbury,CT,USA,41.92,-72.78,False
+4C8,Albia Municipal,Albia,IA,USA,40.99,-92.76,False
+4D0,Abrams Municipal,Grandledge,MI,USA,42.77,-84.73,False
+4D9,Alma Municipal,Alma,NE,USA,40.11,-99.35,False
+4F2,Panola County-Sharpe,Carthage,TX,USA,32.18,-94.30,False
+4F4,Gilmer-Upshur County,Gilmer,TX,USA,32.70,-94.95,False
+4G1,Greenville Muni,Greenville,PA,USA,41.45,-80.39,False
+4G2,Hamburg Inc.,Hamburg,NY,USA,42.70,-78.91,False
+4G5,Monroe County,Woodsfield,OH,USA,39.78,-81.10,False
+4G6,Hornell Muni,Hornell,NY,USA,42.38,-77.68,False
+4G7,Fairmont Muni,Fairmont,WV,USA,39.45,-80.17,False
+4I0,Mingo County,Williamson,WV,USA,37.69,-82.26,False
+4I3,Knox County,Mount Vernon,OH,USA,40.33,-82.52,False
+4I7,Putnam County,Greencastle,IN,USA,39.63,-86.81,False
+4I9,Morrow County,Mt. Gilead,OH,USA,40.52,-82.85,False
+4J1,Brantley County,Nahunta,GA,USA,31.21,-81.91,False
+4J2,Berrien County,Nashville,GA,USA,31.21,-83.23,False
+4J5,Quitman-Brooks County,Quitman,GA,USA,30.81,-83.59,False
+4J6,St Marys,St Marys,GA,USA,30.75,-81.56,False
+4K0,Pedro Bay,Pedro Bay,AK,USA,59.79,-154.12,False
+4K5,Ouzinkie,Ouzinkie,AK,USA,57.92,-152.50,False
+4K6,Bloomfield Municipal,Bloomfield,IA,USA,40.73,-92.43,False
+4KA,Tununak,Tununak,AK,USA,60.58,-165.27,False
+4M1,Carroll County,Berryville,AR,USA,36.38,-93.62,False
+4M3,Carlisle Municipal,Carlisle,AR,USA,34.81,-91.71,False
+4M4,Clinton Municipal,Clinton,AR,USA,35.60,-92.45,False
+4M7,Russellville-Logan County,Russellville,KY,USA,36.80,-86.81,False
+4M8,Clarendon Municipal,Clarendon,AR,USA,34.65,-91.39,False
+4M9,Corning Municipal,Corning,AR,USA,36.40,-90.65,False
+4N1,Greenwood Lake,West Milford,NJ,USA,41.13,-74.35,False
+4O3,Blackwell-Tonkawa Municipal,Blackwell-Tonkawa,OK,USA,36.75,-97.35,False
+4O4,McCurtain County Regional,Idabel,OK,USA,33.91,-94.86,False
+4O5,Cherokee Municipal,Cherokee,OK,USA,36.78,-98.35,False
+4PH,Polacca,Polacca,AZ,USA,35.79,-110.42,False
+4R1,I H Bass Jr Memorial,Lumberton,MS,USA,31.02,-89.48,False
+4R3,Jackson Municipal,Jackson,AL,USA,31.47,-87.89,False
+4R4,Fairhope Municipal,Fairhope,AL,USA,30.46,-87.88,False
+4R5,Madeline Island,La Pointe,WI,USA,46.79,-90.76,False
+4R7,Eunice,Eunice,LA,USA,30.47,-92.42,False
+4R9,Dauphin Island,Dauphin Island,AL,USA,30.26,-88.13,False
+4S1,Gold Beach Muni,Gold Beach,OR,USA,42.41,-124.42,False
+4S2,Hood River,Hood River,OR,USA,45.67,-121.54,False
+4S3,Joseph State,Joseph,OR,USA,45.36,-117.25,False
+4S9,Portland-Mulino,Mulino (Portland),OR,USA,45.22,-122.59,False
+4SD,Reno/Stead,Reno,NV,USA,39.67,-119.88,False
+4T6,Mid-Way,Midlothian-Waxahachie,TX,USA,32.46,-96.91,False
+4U3,Liberty County,Chester,MT,USA,48.51,-110.99,False
+4U6,Circle Town County,Circle,MT,USA,47.42,-105.56,False
+4V0,Rangely,Rangely,CO,USA,40.09,-108.76,False
+4V1,Johnson,Walsenburg,CO,USA,37.70,-104.78,False
+4V9,Antelope County,Neligh,NE,USA,42.11,-98.04,False
+4W1,Elizabethtown Municipal,Elizabethtown,NC,USA,34.60,-78.58,False
+4Z4,Holy Cross,Holy Cross,AK,USA,62.19,-159.77,False
+4Z7,Hyder SPB,Hyder,AK,USA,55.90,-130.01,False
+50I,Kentland Municipal,Kentland,IN,USA,40.76,-87.43,False
+50J,Berkeley County,Moncks Corner,SC,USA,33.19,-80.04,False
+50K,Pawnee City Municipal,Pawnee City,NE,USA,40.12,-96.19,False
+50R,Lockhart Municipal,Lockhart,TX,USA,29.85,-97.67,False
+51D,Edgeley Municipal,Edgeley,ND,USA,46.35,-98.74,False
+51Z,Minto (New),Minto,AK,USA,65.14,-149.37,False
+52A,Madison Municipal,Madison,GA,USA,33.61,-83.46,False
+52E,Timberon,Timberon,NM,USA,32.63,-105.69,False
+52J,Lee County,Bishopville,SC,USA,34.24,-80.24,False
+53A,Dr. C.P. Savage Sr.,Montezuma,GA,USA,32.30,-84.01,False
+53K,Osage City Municipal,Osage City,KS,USA,38.63,-95.81,False
+54J,Defuniak Springs,Defuniak Springs,FL,USA,30.73,-86.15,False
+55D,Grayling Army Airfield,Grayling,MI,USA,44.68,-84.73,False
+55J,Fernandina Beach Municipal,Fernandina Beach,FL,USA,30.61,-81.46,False
+55S,Packwood,Packwood,WA,USA,46.60,-121.68,False
+56D,Wyandot County,Upper Sandusky,OH,USA,40.88,-83.31,False
+56M,Warsaw Municipal,Warsaw,MO,USA,38.35,-93.35,False
+56S,Seaside Municipal,Seaside,OR,USA,46.02,-123.91,False
+57B,Islesboro,Islesboro,ME,USA,44.30,-68.91,False
+57C,East Troy Municipal,East Troy,WI,USA,42.80,-88.37,False
+59B,Newton,Jackman,ME,USA,45.63,-70.25,False
+5A4,Okolona Mun.-Richard M. Stovall,Okolona,MS,USA,34.02,-88.73,False
+5A6,Winona-Montgomery County,Winona,MS,USA,33.47,-89.73,False
+5A8,Aleknagik,Aleknagik,AK,USA,59.28,-158.62,False
+5A9,Roosevelt Memorial,Warm Springs,GA,USA,32.93,-84.69,False
+5B2,Saratoga Cty,Saratoga Springs,NY,USA,43.05,-73.86,False
+5B3,Danielson,Danielson,CT,USA,41.82,-71.90,False
+5B7,Rensselaer Air Park,Troy,NY,USA,42.69,-73.58,False
+5CD,Chandalar Shelf,Chandalar Camp,AK,USA,68.07,-149.58,False
+5D3,Owosso Community,Owosso,MI,USA,42.99,-84.14,False
+5F1,Post-Garza County Municipal,Post,TX,USA,33.20,-101.34,False
+5F4,Homer Municipal,Homer,LA,USA,32.79,-93.00,False
+5G0,Leroy,Le Roy,NY,USA,42.98,-77.94,False
+5G7,Bluffton,Bluffton,OH,USA,40.89,-83.87,False
+5G8,Pittsburgh Boquet Airpark,Jeanette,PA,USA,40.38,-79.61,False
+5G9,Toledo Suburban,Lambertville,MI,USA,41.74,-83.66,False
+5HO,Hope,Hope,AK,USA,60.90,-149.62,False
+5I4,Sheridan,Sheridan,IN,USA,40.18,-86.22,False
+5J0,John Day State,John Day,OR,USA,44.40,-118.96,False
+5J9,Twin City,Loris,SC,USA,34.09,-78.86,False
+5K2,Tribune Municipal,Tribune,KS,USA,38.45,-101.75,False
+5M0,Rountree,Hartselle,AL,USA,34.41,-86.93,False
+5M1,De Witt Municipal,De Witt,AR,USA,34.26,-91.31,False
+5M4,Fordyce Municipal,Fordyce,AR,USA,33.85,-92.37,False
+5M9,Marion-Crittenden County,Marion,KY,USA,37.34,-88.11,False
+5N8,Casselton Regional,Casselton,ND,USA,46.85,-97.21,False
+5ND6,Hillsboro Municipal,Hillsboro,ND,USA,47.36,-97.06,False
+5NI,Nikolai,Nikolai,AK,USA,63.02,-154.36,False
+5NK,Naknek,Naknek,AK,USA,58.73,-157.02,False
+5NN,Nondalton,Nondalton,AK,USA,59.98,-154.84,False
+5R3,Rusty Allen,Lago Vista,TX,USA,30.50,-97.97,False
+5R4,Foley Municipal,Foley,AL,USA,30.43,-87.70,False
+5R5,Wharton Municipal,Wharton,TX,USA,29.25,-96.15,False
+5R8,De Quincy Industrial Airpark,De Quincy,LA,USA,30.44,-93.47,False
+5S8,St. Michael,St. Michael,AK,USA,63.49,-162.11,False
+5T5,Hillsboro Municipal,Hillsboro,TX,USA,32.08,-97.10,False
+5T6,Dona Ana County  At Santa Teresa,Santa Teresa,NM,USA,31.88,-106.70,False
+5T9,Maverick County Meml Intl,Eagle Pass,TX,USA,28.86,-100.51,False
+5TE,Tetlin,Tetlin,AK,USA,63.13,-142.52,False
+5U3,Ennis - Big Sky,Ennis,MT,USA,45.27,-111.65,False
+5U8,Geraldine,Geraldine,MT,USA,47.60,-110.27,False
+5V5,Shiprock Airstrip,Shiprock,NM,USA,36.70,-108.70,False
+5V8,Kadoka Municipal,Kadoka,SD,USA,43.83,-101.50,False
+5W8,Siler City Municipal,Siler City,NC,USA,35.70,-79.51,False
+5Z1,Juneau Harbor,Juneau,AK,USA,58.30,-134.41,False
+5Z5,Kantishna,Kantishna,AK,USA,63.54,-150.99,False
+60F,Seymour Municipal,Seymour,TX,USA,33.65,-99.26,False
+60J,Ocean Isle,Ocean Isle Beach,NC,USA,33.91,-78.44,False
+61A,Camden Municipal,Camden,AL,USA,31.98,-87.34,False
+61B,Boulder City Municipal,Boulder City,NV,USA,35.95,-114.86,False
+61C,Fort Atkinson Municipal,Fort Atkinson,WI,USA,42.96,-88.82,False
+61J,Portland Downtown Heliport,Portland,OR,USA,45.53,-122.67,False
+61S,Cottage Grove State,Cottage Grove,OR,USA,43.80,-123.03,False
+62D,Warren,Warren,OH,USA,41.27,-80.93,False
+62H,Giddings-Lee County,Giddings,TX,USA,30.17,-96.98,False
+62S,Christmas Valley,Christmas Valley,OR,USA,43.24,-120.67,False
+63A,Lloyd R. Roundtree Seaplane Facility,Petersburg,AK,USA,56.81,-132.96,False
+63C,Adams County Legion,Adams/Friendship,WI,USA,43.96,-89.79,False
+63S,Colville Municipal,Colville,WA,USA,48.54,-117.88,False
+65J,Wrens Memorial,Wrens,GA,USA,33.22,-82.38,False
+65S,Boundary County,Bonners Ferry,ID,USA,48.73,-116.30,False
+66D,Sturgis Municipal,Sturgis,SD,USA,44.42,-103.37,False
+67L,Mesquite,Mesquite,NV,USA,36.83,-114.06,False
+68A,Wrangell SPB,Wrangell,AK,USA,56.47,-132.38,False
+68S,Davenport,Davenport,WA,USA,47.65,-118.17,False
+6A1,Butler Municipal,Butler,GA,USA,32.57,-84.25,False
+6A2,Griffin-Spaulding County,Griffin,GA,USA,33.23,-84.27,False
+6A3,Andrews-Murphy,Andrews,NC,USA,35.19,-83.86,False
+6A4,Johnson County,Mountain City,TN,USA,36.42,-81.83,False
+6A8,Allakaket,Allakaket,AK,USA,66.55,-152.62,False
+6B0,Middlebury State,Middlebury,VT,USA,43.98,-73.10,False
+6B4,Frankfort-Highland,Utica/Frankfort,NY,USA,43.02,-75.17,False
+6B6,Minute Man Airfield,Stow,MA,USA,42.46,-71.52,False
+6B8,Caledonia County State,Lyndonville,VT,USA,44.57,-72.02,False
+6B9,Skaneateles Aero Drome,Skaneateles,NY,USA,42.91,-76.44,False
+6D6,Greenville Municipal,Greenville,MI,USA,43.14,-85.25,False
+6D8,Barnes County Municipal,Valley City,ND,USA,46.94,-98.02,False
+6F1,Talihina Municipal,Talihina,OK,USA,34.71,-95.07,False
+6G1,Titusville,Titusville,PA,USA,41.61,-79.74,False
+6G5,Barnesville - Bradfield,Barnesville,OH,USA,40.00,-81.19,False
+6I2,Lebanon-Springfield,Springfield,KY,USA,37.63,-85.24,False
+6J0,Corporate,Pelion,SC,USA,33.79,-81.25,False
+6J2,St George,St George,SC,USA,33.20,-80.51,False
+6J4,Saluda County,Saluda,SC,USA,33.93,-81.79,False
+6K3,Creighton Municipal,Creighton,NE,USA,42.47,-97.88,False
+6K4,Fairview Municipal,Fairview,OK,USA,36.29,-98.48,False
+6K8,Tok Junction,Tok,AK,USA,63.33,-142.95,False
+6L4,Logan County,Logan,WV,USA,37.86,-81.92,False
+6M2,Horseshoe Bend,Horseshoe Bend,AR,USA,36.22,-91.75,False
+6M6,Lewis County Regional,Monticello,MO,USA,40.13,-91.68,False
+6M7,Lee County-Marianna,Marianna,AR,USA,34.78,-90.81,False
+6M8,Marked Tree Municipal,Marked Tree,AR,USA,35.53,-90.40,False
+6N5,E 34th St Heliport,New York,NY,USA,40.74,-73.97,False
+6N7,New York Skyports Inc. SPB,New York,NY,USA,40.73,-73.97,False
+6N8,Thomas County,Thedford,NE,USA,41.96,-100.57,False
+6R3,Cleveland Municipal,Cleveland,TX,USA,30.36,-95.01,False
+6R7,Old Harbor (New),Old Harbor,AK,USA,57.22,-153.27,False
+6R9,Llano Municipal,Llano,TX,USA,30.78,-98.66,False
+6S0,Big Timber,Big Timber,MT,USA,45.81,-109.98,False
+6S2,Florence Muni,Florence,OR,USA,43.98,-124.11,False
+6S3,Columbus,Columbus,MT,USA,45.63,-109.25,False
+6S5,Ravalli County,Hamilton,MT,USA,46.25,-114.13,False
+6S8,Laurel Municipal,Laurel,MT,USA,45.70,-108.76,False
+6V0,Edgemont Municipal,Edgemont,SD,USA,43.30,-103.84,False
+6V3,Tazewell County,Richlands,VA,USA,37.06,-81.80,False
+6V4,Wall Municipal,Wall,SD,USA,43.99,-102.25,False
+6V6,Hopkins,Nucla,CO,USA,38.24,-108.56,False
+70J,Cairo-Grady County,Cairo,GA,USA,30.89,-84.15,False
+71J,Blackwell,Ozark,AL,USA,31.43,-85.62,False
+72S,Rosalia Municipal,Rosalia,WA,USA,47.24,-117.42,False
+73C,Lancaster,Lancaster,WI,USA,42.78,-90.68,False
+73J,Beaufort County,Beaufort,SC,USA,32.41,-80.63,False
+74D,Marshall Cty,Moundsville,WV,USA,39.88,-80.74,False
+74S,Anacortes,Anacortes,WA,USA,48.50,-122.66,False
+74V,Roosevelt Municipal,Roosevelt,UT,USA,40.28,-110.05,False
+75J,Turner County,Ashburn,GA,USA,31.69,-83.63,False
+76G,Marine City,Marine City,MI,USA,42.72,-82.60,False
+77G,Marlette Township,Marlette,MI,USA,43.31,-83.09,False
+77S,Hobby,Creswell,OR,USA,43.93,-123.01,False
+78D,Caro Municipal,Caro,MI,USA,43.46,-83.45,False
+79D,Philippi-Barbour County Regional,Philippi,WV,USA,39.17,-80.06,False
+79J,Andalusia,Andalusia,AL,USA,31.31,-86.39,False
+79S,Fort Benton,Fort Benton,MT,USA,47.85,-110.63,False
+7A0,Greensboro Municipal,Greensboro,AL,USA,32.68,-87.66,False
+7A2,Demopolis Municipal,Demopolis,AL,USA,32.46,-87.95,False
+7A3,Lanett Municipal,Lanett,AL,USA,32.81,-85.23,False
+7A5,Roanoke Municipal,Roanoke,AL,USA,33.13,-85.37,False
+7A8,Avery County/Morrison,Spruce Pine,NC,USA,35.94,-82.00,False
+7B2,La Fleur,Northampton,MA,USA,42.33,-72.61,False
+7D2,Troy-Oakland,Troy,MI,USA,42.54,-83.18,False
+7F3,Caddo Mills Municipal,Caddo Mills,TX,USA,33.04,-96.24,False
+7F6,Clarksville-Red River County,Clarksville,TX,USA,33.59,-95.06,False
+7F7,Clifton Municipal,Clifton,TX,USA,31.82,-97.57,False
+7F9,Comanche County-City,Comanche,TX,USA,31.92,-98.60,False
+7G0,Ledgedale Airpark,Brockport,NY,USA,43.18,-77.91,False
+7G8,Geauga County,Middlefield,OH,USA,41.45,-81.06,False
+7I7,Bellefontaine Municipal,Bellefontaine,OH,USA,40.41,-83.74,False
+7K0,Pike County-Hatcher,Pikeville,KY,USA,37.56,-82.57,False
+7K2,Skagway SPB,Skagway,AK,USA,59.45,-135.32,False
+7K4,Ohio County,Hartford,KY,USA,37.46,-86.85,False
+7K8,Martin,South Sioux City,NE,USA,42.45,-96.47,False
+7KA,Tatitlek,Tatitlek,AK,USA,60.87,-146.69,False
+7M1,McGehee Municipal,McGehee,AR,USA,33.62,-91.36,False
+7M3,Bearce,Mount Ida,AR,USA,34.53,-93.53,False
+7M4,Osceola Municipal,Osceola,AR,USA,35.69,-90.01,False
+7M5,Ozark-Franklin County,Ozark,AR,USA,35.51,-93.84,False
+7M7,Piggott Municipal,Piggott,AR,USA,36.38,-90.17,False
+7N0,New Orleans Downtown Heliport,New Orleans,LA,USA,29.95,-90.08,False
+7N1,Corning-Painted Post,Corning,NY,USA,42.18,-77.11,False
+7N7,Spitfire Aerodrome,Pedrictown,NJ,USA,39.74,-75.40,False
+7S0,Ronan,Ronan,MT,USA,47.57,-114.10,False
+7S1,Twin Bridges,Twin Bridges,MT,USA,45.53,-112.31,False
+7S5,Independence State,Independence,OR,USA,44.87,-123.20,False
+7S6,White Sulphur Springs,White Sulphur Springs,MT,USA,46.50,-110.91,False
+7S7,Valier,Valier,MT,USA,48.30,-112.25,False
+7V1,Buena Vista Muni,Buena Vista,CO,USA,38.81,-106.12,False
+7V7,Red Cloud Municipal,Red Cloud,NE,USA,40.08,-98.54,False
+7W6,Hyde County,Englehard,NC,USA,35.56,-75.96,False
+80F,Antlers Municipal,Antlers,OK,USA,34.19,-95.65,False
+81B,Oxford County Regional,Norway,ME,USA,44.16,-70.48,False
+82C,Mauston-New Lisbon Union,New Lisbon,WI,USA,43.84,-90.14,False
+82V,Pine Bluffs Municipal,Pine Bluffs,WY,USA,41.15,-104.13,False
+83D,Mackinac County,St Ignace,MI,USA,45.89,-84.74,False
+84D,Cheyenne Eagle Butte,Eagle Butte,SD,USA,44.98,-101.25,False
+84K,Meyers Chuck SPB,Meyers Chuck,AK,USA,55.74,-132.26,False
+84R,Smithville Municipal,Smithville,TX,USA,30.03,-97.17,False
+85V,Ganado,Ganado,AZ,USA,35.70,-109.51,False
+86F,Carnegie Municipal,Carnegie,OK,USA,35.12,-98.58,False
+87I,Yazoo County,Yazoo City,MS,USA,32.88,-90.46,False
+87Y,Blackhawk Airfield,Madison,WI,USA,43.10,-89.19,False
+88C,Palmyra Municipal,Palmyra,WI,USA,42.88,-88.60,False
+88J,Allendale County,Allendale,SC,USA,33.00,-81.27,False
+88M,Eureka,Eureka,MT,USA,48.97,-115.07,False
+89D,Kelleys Island Land,Kelleys Island,OH,USA,41.60,-82.68,False
+8A0,Albertville Municipal,Albertville,AL,USA,34.23,-86.26,False
+8A1,Guntersville Municipal,Guntersville,AL,USA,34.40,-86.27,False
+8A3,Livingston Municipal,Livingston,TN,USA,36.41,-85.31,False
+8B0,Rangeley Municipal,Rangeley,ME,USA,44.99,-70.66,False
+8D1,New Holstein Municipal,New Holstein,WI,USA,43.94,-88.11,False
+8D3,Sisseton Municipal,Sisseton,SD,USA,45.67,-97.00,False
+8D4,Sparta,Sparta,MI,USA,43.13,-85.68,False
+8D7,Clark County,Clark,SD,USA,44.90,-97.71,False
+8D9,Howard Municipal,Howard,SD,USA,44.03,-97.54,False
+8F7,Decatur Municipal,Decatur,TX,USA,33.25,-97.58,False
+8G2,Lawrence,Corry,PA,USA,41.91,-79.64,False
+8G6,Harrison County,Cadiz,OH,USA,40.24,-81.01,False
+8G7,Zelienople,Zelienople,PA,USA,40.80,-80.16,False
+8K8,Cimarron Municipal,Cimarron,KS,USA,37.83,-100.35,False
+8K9,Murphys Pullout SPB,Ketchikan,AK,USA,55.39,-131.74,False
+8M1,Booneville-Baldwyn,Booneville,MS,USA,34.59,-88.65,False
+8S1,Polson,Polson,MT,USA,47.70,-114.19,False
+8S2,Cashmere-Dryden,Cashmere,WA,USA,47.51,-120.48,False
+8S5,East Cooper,Mt Pleasant,SC,USA,32.90,-79.78,False
+8U6,Terry,Terry,MT,USA,46.78,-105.30,False
+8U8,Townsend,Townsend,MT,USA,46.33,-111.48,False
+8V2,Stuart-Atkinson Municipal,Atkinson,NE,USA,42.56,-99.04,False
+8Y2,Buffalo Municipal,Buffalo,MN,USA,45.16,-93.84,False
+91C,Sauk - Prairie,Prairie Du Sac,WI,USA,43.30,-89.76,False
+91F,Arrowhead,Canadian,OK,USA,35.15,-95.62,False
+93B,Stonington,Stonington,ME,USA,44.18,-68.68,False
+93C,Richland,Richland Center,WI,USA,43.28,-90.30,False
+93F,Mignon Laird Municipal,Cheyenne,OK,USA,35.60,-99.70,False
+93Y,David City Municipal,David City,NE,USA,41.23,-97.12,False
+94K,Cassville Municipal,Cassville,MO,USA,36.70,-93.90,False
+95F,Cleveland Municipal,Cleveland,OK,USA,36.28,-96.46,False
+96D,Walhalla Municipal,Walhalla,ND,USA,48.94,-97.90,False
+96Z,North Whale SPB,North Whale Pass,AK,USA,56.12,-133.12,False
+97M,Ekalaka,Ekalaka,MT,USA,45.88,-104.54,False
+98D,Onida Municipal,Onida,SD,USA,44.70,-100.11,False
+99N,Bamburg County,Bamburg,SC,USA,33.31,-81.11,False
+99Y,Greeley Municipal,Greeley,NE,USA,41.56,-98.55,False
+9A1,Covington Municipal,Covington,GA,USA,33.63,-83.85,False
+9A3,Chuathbaluk,Chuathbaluk,AK,USA,61.58,-159.24,False
+9A4,Lawrence County,Courtland,AL,USA,34.66,-87.35,False
+9A5,Barwick-LaFayette,LaFayette,GA,USA,34.69,-85.29,False
+9A6,Chester Municipal,Chester,SC,USA,34.79,-81.20,False
+9A8,Ugashik,Ugashik,AK,USA,57.53,-157.40,False
+9C8,Evart Municipal,Evart,MI,USA,43.90,-85.28,False
+9D0,Highmore Municipal,Highmore,SD,USA,44.54,-99.45,False
+9D1,Gregory Municipal,Gregory,SD,USA,43.22,-99.40,False
+9D2,Harding County,Buffalo,SD,USA,45.58,-103.53,False
+9D7,Cando Municipal,Cando,ND,USA,48.48,-99.24,False
+9D9,Hastings Municipal,Hastings,MI,USA,42.66,-85.35,False
+9G0,Buffalo Airfield,Buffalo,NY,USA,42.86,-78.72,False
+9G1,West Penn,Tarentum,PA,USA,40.60,-79.82,False
+9G3,Akron,Akron,NY,USA,43.02,-78.48,False
+9G5,Royalton,Gasport,NY,USA,43.18,-78.56,False
+9G8,Ebensburg,Ebensburg,PA,USA,40.46,-78.78,False
+9I0,Havana Regional,Havana,IL,USA,40.22,-90.02,False
+9I3,West Liberty,West Liberty,KY,USA,37.91,-83.25,False
+9K2,Kokhanok,Kokhanok,AK,USA,59.43,-154.80,False
+9K4,Skyhaven,Warrensburg,MO,USA,38.78,-93.80,False
+9K7,Ellsworth Municipal,Ellsworth,KS,USA,38.75,-98.23,False
+9K8,Kingman Municipal,Kingman,KS,USA,37.67,-98.12,False
+9M4,Ackerman-Choctaw County,Ackerman,MS,USA,33.30,-89.23,False
+9M6,Kelly,Oak Grove,LA,USA,32.85,-91.40,False
+9M8,Sheridan-Grant County Regional,Sheridan,AR,USA,34.33,-92.35,False
+9S2,Scobey,Scobey,MT,USA,48.81,-105.44,False
+9S4,Mineral County,Superior,MT,USA,47.17,-114.85,False
+9S5,Three Forks,Three Forks,MT,USA,45.88,-111.57,False
+9S7,Winifred,Winifred,MT,USA,47.55,-109.38,False
+9S9,Lexington,Lexington,OR,USA,45.45,-119.69,False
+9U0,Turner,Turner,MT,USA,48.85,-108.41,False
+9U3,Austin,Austin,NV,USA,39.47,-117.20,False
+9U4,Dixon,Dixon,WY,USA,41.04,-107.50,False
+9V5,Modisett,Rushville,NE,USA,42.74,-102.44,False
+9V6,Martin Municipal,Martin,SD,USA,43.17,-101.71,False
+9V9,Chamberlain Municipal,Chamberlain,SD,USA,43.77,-99.32,False
+9W7,Currituck County,Currituck,NC,USA,36.40,-76.02,False
+A04,Centre Municipal,Centre,AL,USA,34.16,-85.64,False
+A14,Portage Creek,Portage Creek,AK,USA,58.91,-157.71,False
+A29,Sitka SPB,Sitka,AK,USA,57.05,-135.35,False
+A30,Scott Valley,Fort Jones,CA,USA,41.56,-122.86,False
+A32,Butte Valley,Dorris,CA,USA,41.89,-121.98,False
+A61,Tuntutuliak,Tuntutuliak,AK,USA,60.34,-162.67,False
+A63,Twin Hills,Twin Hills,AK,USA,59.08,-160.27,False
+A79,Chignik Lake,Chignik Lake,AK,USA,56.26,-158.78,False
+A85,Kwigillingok,Kwigillingok,AK,USA,59.88,-163.17,False
+AAF,Apalachicola Municipal,Apalachicola,FL,USA,29.73,-85.03,False
+AAO,Colonel James Jabara,Wichita,KS,USA,37.75,-97.22,False
+AAS,Taylor County,Cambellsville,KY,USA,37.36,-85.31,False
+AAT,Alturas Municipal,Alturas,CA,USA,41.48,-120.57,False
+ABE,Lehigh Valley International,Allentown,PA,USA,40.65,-75.44,False
+ABI,Abilene Regional,Abilene,TX,USA,32.41,-99.68,False
+ABO,Antonio (Nery) Juarbe Pol,Arecibo,PR,USA,18.45,-66.68,False
+ABQ,Albuquerque International,Albuquerque,NM,USA,35.04,-106.61,False
+ABR,Aberdeen Regional,Aberdeen,SD,USA,45.45,-98.42,False
+ABY,Southwest Georgia Regional,Albany,GA,USA,31.54,-84.19,False
+ACB,Antrim County,Bellaire,MI,USA,44.99,-85.20,False
+ACJ,Souther,Americus,GA,USA,32.11,-84.19,False
+ACK,Nantucket Memorial,Nantucket,MA,USA,41.25,-70.06,False
+ACQ,Waseca Municipal,Waseca,MN,USA,44.07,-93.55,False
+ACT,Waco Regional,Waco,TX,USA,31.61,-97.23,False
+ACV,Arcata,Arcata/Eureka,CA,USA,40.98,-124.11,False
+ACY,Atlantic City International,Atlantic City,NJ,USA,39.46,-74.58,False
+ACZ,Henderson,Wallace,NC,USA,34.72,-78.00,False
+ADC,Wadena Municipal,Wadena,MN,USA,46.45,-95.21,False
+ADG,Lenawee County,Adrian,MI,USA,41.87,-84.07,False
+ADH,Ada Municipal,Ada,OK,USA,34.80,-96.67,False
+ADK,Adak,Adak,AK,USA,51.88,-176.65,False
+ADM,Ardmore Municipal,Ardmore,OK,USA,34.30,-97.02,False
+ADQ,Kodiak,Kodiak,AK,USA,57.75,-152.49,False
+ADS,Addison,Dallas/Addison,TX,USA,32.97,-96.84,False
+ADT,Atwood-Rawlins County City-County,Atwood,KS,USA,39.84,-101.04,False
+ADU,Audubon Municipal,Audubon,IA,USA,41.70,-94.92,False
+AEG,Double Eagle II,Albuquerque,NM,USA,35.15,-106.80,False
+AEL,Albert Lea Municipal,Albert Lea,MN,USA,43.68,-93.37,False
+AEX,Alexandria International,Alexandria,LA,USA,31.33,-92.55,False
+AFE,Kake,Kake,AK,USA,56.96,-133.91,False
+AFJ,Washington County,Washington,PA,USA,40.14,-80.29,False
+AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.61,-95.87,False
+AFM,Ambler,Ambler,AK,USA,67.11,-157.85,False
+AFN,Jaffrey Municipal Silver Ranch,Jaffrey,NH,USA,42.81,-72.00,False
+AFO,Afton Municipal,Afton,WY,USA,42.71,-110.94,False
+AFW,Fort Worth Alliance,Fort Worth,TX,USA,32.99,-97.32,False
+AGC,Allegheny Cty,Pittsburgh,PA,USA,40.35,-79.93,False
+AGN,Angoon SPB,Angoon,AK,USA,57.50,-134.59,False
+AGO,Magnolia Municipal,Magnolia,AR,USA,33.23,-93.22,False
+AGS,Bush,Augusta,GA,USA,33.37,-81.96,False
+AGZ,Wagner Municipal,Wagner,SD,USA,43.06,-98.30,False
+AHH,Amery Municipal,Amery,WI,USA,45.28,-92.38,False
+AHN,Athens Municipal,Athens,GA,USA,33.95,-83.33,False
+AHP,Port Alexander SPB,Port Alexander,AK,USA,56.25,-134.65,False
+AHQ,Wahoo Municipal,Wahoo,NE,USA,41.24,-96.59,False
+AIA,Alliance Municipal,Alliance,NE,USA,42.05,-102.80,False
+AID,Anderson Municipal,Anderson,IN,USA,40.11,-85.61,False
+AIG,Langlade County,Antigo,WI,USA,45.15,-89.11,False
+AIK,Aiken Municipal,Aiken,SC,USA,33.65,-81.68,False
+AIO,Atlantic Municipal,Atlantic,IA,USA,41.41,-95.05,False
+AIT,Aitkin Municipal,Aitkin,MN,USA,46.55,-93.68,False
+AIV,George Downer,Aliceville,AL,USA,33.11,-88.20,False
+AIY,Atlantic City Municipal,Atlantic City,NJ,USA,39.36,-74.46,False
+AIZ,Lee C Fine Memorial,Kaiser/Lake Ozark,MO,USA,38.10,-92.55,False
+AJC,Chignik (Anchorage Bay),Chignik,AK,USA,56.31,-158.37,False
+AJG,Mt Carmel Municipal,Mt Carmel,IL,USA,38.61,-87.73,False
+AJO,Corona Municipal,Corona,CA,USA,33.90,-117.60,False
+AJR,Habersham County,Cornelia,GA,USA,34.50,-83.55,False
+AK5,Perryville,Perryville,AK,USA,55.91,-159.16,False
+AKA,Atka,Atka,AK,USA,52.22,-174.21,False
+AKH,Gastonia Municipal,Gastonia,NC,USA,35.20,-81.15,False
+AKI,Akiak,Akiak,AK,USA,60.90,-161.23,False
+AKK,Akhiok,Akhiok,AK,USA,56.94,-154.18,False
+AKN,King Salmon,King Salmon,AK,USA,58.68,-156.65,False
+AKO,Akron-Washington Co,Akron,CO,USA,40.18,-103.22,False
+AKP,Anaktuvuk Pass,Anaktuvuk Pass,AK,USA,68.13,-151.74,False
+AKR,Akron Fulton Intl.,Akron,OH,USA,41.04,-81.47,False
+AKW,Klawock,Klawock,AK,USA,55.58,-133.08,False
+AL08,Vaiden,Marion,AL,USA,32.51,-87.39,False
+ALB,Albany Cty,Albany,NY,USA,42.75,-73.80,False
+ALI,Alice International,Alice,TX,USA,27.74,-98.03,False
+ALM,Alamogordo-White Sands Regional,Alamogordo,NM,USA,32.84,-105.99,False
+ALN,St. Louis Regional,Alton/St. Louis,IL,USA,38.89,-90.05,False
+ALO,Waterloo Municipal,Waterloo,IA,USA,42.56,-92.40,False
+ALS,San Luis Valley Regional/Bergman,Alamosa,CO,USA,37.43,-105.87,False
+ALW,Walla Walla Regional,Walla Walla,WA,USA,46.09,-118.29,False
+ALX,Thomas C Russell,Alexander City,AL,USA,32.91,-85.96,False
+AMA,Amarillo International,Amarillo,TX,USA,35.22,-101.71,True
+AMG,Bacon County,Alma,GA,USA,31.54,-82.51,False
+AMN,Gratiot Community,Alma,MI,USA,43.32,-84.69,False
+AMT,Alexander Salamon,West Union,OH,USA,38.85,-83.57,False
+AMW,Ames Municipal,Ames,IA,USA,41.99,-93.62,False
+ANB,Anniston Metropolitan,Anniston,AL,USA,33.59,-85.86,False
+ANC,Ted Stevens Anchorage International,Anchorage,AK,USA,61.17,-150.00,False
+AND,Anderson County,Anderson,SC,USA,34.49,-82.71,False
+ANE,Anoka County,Minneapolis,MN,USA,45.15,-93.21,False
+ANI,Aniak,Aniak,AK,USA,61.58,-159.54,False
+ANQ,Steuben County-Tri State,Angola,IN,USA,41.64,-85.08,False
+ANV,Anvik,Anvik,AK,USA,62.65,-160.19,False
+ANW,Ainsworth Municipal,Ainsworth,NE,USA,42.58,-99.99,False
+ANY,Anthony Municipal,Anthony,KS,USA,37.16,-98.08,False
+AOC,Arco-Butte County,Arco,ID,USA,43.60,-113.33,False
+AOH,Allen County,Lima,OH,USA,40.71,-84.03,False
+AOO,Altoona-Blair Cty,Altoona,PA,USA,40.30,-78.32,False
+APA,Centennial,Denver,CO,USA,39.57,-104.85,False
+APC,Napa County,Napa,CA,USA,38.21,-122.28,False
+APF,Naples Municipal,Naples,FL,USA,26.15,-81.78,False
+APN,Alpena County Regional,Alpena,MI,USA,45.08,-83.56,False
+APT,Marion County-Brown,Jasper,TN,USA,35.06,-85.59,False
+APV,Apple Valley,Apple Valley,CA,USA,34.58,-117.19,False
+AQC,Klawock SPB,Klawock,AK,USA,55.55,-133.10,False
+AQH,Kwinhagak,Quinhagak,AK,USA,59.76,-161.88,False
+AQT,Nuiqsut,Nuiqsut,AK,USA,70.21,-151.01,False
+AQW,Harriman And West,North Adams,MA,USA,42.70,-73.17,False
+AQY,Girdwood,Girdwood,AK,USA,60.97,-149.13,False
+ARA,Acadiana Regional,New Iberia,LA,USA,30.04,-91.88,False
+ARB,Ann Arbor Municipal,Ann Arbor,MI,USA,42.22,-83.75,False
+ARC,Arctic Village,Arctic Village,AK,USA,68.12,-145.58,False
+ARG,Walnut Ridge Regional,Walnut Ridge,AR,USA,36.13,-90.92,False
+ARR,Aurora Municipal,Chicago/Aurora,IL,USA,41.77,-88.48,False
+ART,Watertown Intl,Watertown,NY,USA,43.99,-76.02,False
+ARV,Lakeland,Minocqua-Woodruff,WI,USA,45.93,-89.73,False
+ASD,Slidell,Slidell,LA,USA,30.35,-89.82,False
+ASE,Aspen-Pitkin Co/Sardy,Aspen,CO,USA,39.22,-106.87,False
+ASG,Springdale Municipal,Springdale,AR,USA,36.18,-94.12,False
+ASH,Boire,Nashua,NH,USA,42.78,-71.51,False
+ASJ,Tri-County,Ahoskie,NC,USA,36.30,-77.17,False
+ASL,Marshall - Harrison County,Marshall,TX,USA,32.52,-94.31,False
+ASN,Talladega Municipal,Talladega,AL,USA,33.57,-86.05,False
+AST,Astoria Regional,Astoria,OR,USA,46.16,-123.88,False
+ASW,Warsaw Municipal,Warsaw,IN,USA,41.27,-85.84,False
+ASX,John F Kennedy Memorial,Ashland,WI,USA,46.55,-90.92,False
+ATA,Hall-Miller Municipal,Atlanta,TX,USA,33.10,-94.20,False
+ATK,Atqasuk,Atqasuk,AK,USA,70.47,-157.44,False
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA,33.64,-84.43,True
+ATS,Artesia Municipal,Artesia,NM,USA,32.85,-104.47,False
+ATW,Outagamie County Regional,Appleton,WI,USA,44.26,-88.52,False
+ATY,Watertown Municipal,Watertown,SD,USA,44.91,-97.15,False
+AUG,Augusta State,Augusta,ME,USA,44.32,-69.80,False
+AUH,Aurora Municipal,Aurora,NE,USA,40.89,-97.99,False
+AUK,Alakanuk,Alakanuk,AK,USA,62.68,-164.66,False
+AUM,Austin Municipal,Austin,MN,USA,43.66,-92.93,False
+AUN,Auburn Municipal,Auburn,CA,USA,38.95,-121.08,False
+AUO,Auburn-Opelik,Auburn,AL,USA,32.62,-85.43,False
+AUS,Austin-Bergstrom International,Austin,TX,USA,30.19,-97.67,False
+AUW,Wausau Municipal,Wausau,WI,USA,44.93,-89.63,False
+AVC,Mecklenburg-Brunswick Regional,South Hill,VA,USA,36.69,-78.05,False
+AVK,Alva Regional,Alva,OK,USA,36.77,-98.67,False
+AVL,Asheville Regional,Asheville,NC,USA,35.44,-82.54,False
+AVO,Avon Park Municipal,Avon Park,FL,USA,27.59,-81.53,False
+AVP,Wilkes-Barre/Scranton Intl,Wilkes-Barre/Scranton,PA,USA,41.34,-75.72,False
+AVQ,Marana Northwest Regional,Marana,AZ,USA,32.41,-111.22,False
+AVX,Catalina,Avalon,CA,USA,33.40,-118.42,False
+AWG,Washington Municipal,Washington,IA,USA,41.28,-91.67,False
+AWI,Wainwright,Wainwright,AK,USA,70.64,-159.99,False
+AWM,West Memphis Municipal,West Memphis,AR,USA,35.14,-90.23,False
+AWO,Arlington Municipal,Arlington,WA,USA,48.16,-122.16,False
+AXA,Algona Municipal,Algona,IA,USA,43.08,-94.27,False
+AXN,Chandler,Alexandria,MN,USA,45.87,-95.39,False
+AXS,Altus Municipal,Altus,OK,USA,34.70,-99.34,False
+AXV,Neil Armstrong,Wapakoneta,OH,USA,40.49,-84.30,False
+AXX,Angel Fire,Angel Fire,NM,USA,36.42,-105.29,False
+AYS,Waycross-Ware County,Waycross,GA,USA,31.25,-82.40,False
+AZC,Colorado City Municipal,Colorado City,AZ,USA,36.96,-113.01,False
+AZE,Hazelhurst,Hazelhurst,GA,USA,31.88,-82.65,False
+AZO,Kalamazoo County,Kalamazoo,MI,USA,42.23,-85.55,False
+B01,Granville,Granville,NY,USA,43.43,-73.26,False
+B08,Silver Springs,Silver Springs,NV,USA,39.40,-119.25,False
+B16,Whitford,Weedsport,NY,USA,43.08,-76.54,False
+B19,Biddeford Municipal,Biddeford,ME,USA,43.46,-70.47,False
+B21,Sugarloaf Regional,Carrabasset,ME,USA,45.09,-70.22,False
+BAF,Barnes Municipal,Westfield,MA,USA,42.16,-72.72,False
+BAK,Columbus Municipal,Columbus,IN,USA,39.26,-85.90,False
+BAM,Battle Mountain,Battle Mountain,NV,USA,40.60,-116.87,False
+BAX,Huron County Memorial,Bad Axe,MI,USA,43.78,-82.99,False
+BAZ,New Braunfels Municipal,New Braunfels,TX,USA,29.70,-98.04,False
+BBB,Benson Municipal,Benson,MN,USA,45.33,-95.65,False
+BBD,Curtis,Brady,TX,USA,31.18,-99.32,False
+BBP,Marlboro County,Bennettsville,SC,USA,34.62,-79.73,False
+BBW,Broken Bow Municipal,Broken Bow,NE,USA,41.44,-99.64,False
+BCB,Virginia Tech,Blacksburg,VA,USA,37.21,-80.41,False
+BCE,Bryce Canyon,Bryce Canyon,UT,USA,37.71,-112.15,False
+BCK,Black River Falls Area,Black River Falls,WI,USA,44.25,-90.86,False
+BCT,Boca Raton,Boca Raton,FL,USA,26.38,-80.11,False
+BCV,Birchwood,Birchwood,AK,USA,61.42,-149.51,False
+BDE,Baudette International,Baudette,MN,USA,48.73,-94.61,False
+BDG,Blanding Muni,Blanding,UT,USA,37.58,-109.48,False
+BDL,Bradley International,Windsor Locks,CT,USA,41.94,-72.68,False
+BDQ,Morrilton Municipal,Morrilton,AR,USA,35.14,-92.71,False
+BDR,Igor I Sikorsky Memorial,Bridgeport,CT,USA,41.16,-73.13,False
+BDX,Broadus,Broadus,MT,USA,45.43,-105.42,False
+BED,Laurence G Hanscom,Bedford,MA,USA,42.47,-71.29,False
+BEH,Southwest Michigan Regional,Benton Harbor,MI,USA,42.13,-86.43,False
+BET,Bethel,Bethel,AK,USA,60.78,-161.84,False
+BFD,Bradford Reg,Bradford,PA,USA,41.80,-78.64,False
+BFF,Scotts Bluff County,Scottsbluff,NE,USA,41.87,-103.60,False
+BFI,Boeing Field/King County Intl,Seattle,WA,USA,47.53,-122.30,False
+BFK,Buffalo Municipal,Buffalo,OK,USA,36.86,-99.62,False
+BFL,Meadows,Bakersfield,CA,USA,35.43,-119.06,False
+BFM,Mobile Downtown,Mobile,AL,USA,30.63,-88.07,False
+BFR,Virgil I Grissom Municipal,Bedford,IN,USA,38.84,-86.45,False
+BFW,Silver Bay Municipal,Silver Bay,MN,USA,47.25,-91.42,False
+BGD,Hutchinson County,Borger,TX,USA,35.70,-101.39,False
+BGE,Decatur County Industrial Airpark,Bainbridge,GA,USA,30.97,-84.64,False
+BGF,Winchester Municipal,Winchester,TN,USA,35.18,-86.07,False
+BGM,Binghamton Regional,Binghamton,NY,USA,42.21,-75.98,False
+BGQ,Big Lake Strip Nr 2,Big Lake,AK,USA,61.54,-149.81,False
+BGR,Bangor International,Bangor,ME,USA,44.81,-68.83,False
+BHB,Hancock Co-Bar Harbor,Bar Harbor,ME,USA,44.45,-68.36,False
+BHC,Baxley Municipal,Baxley,GA,USA,31.71,-82.39,False
+BHK,Baker Muni,Baker City,MT,USA,46.35,-104.26,False
+BHM,Birmingham International,Birmingham,AL,USA,33.56,-86.75,False
+BID,Block Island State,Block Island,RI,USA,41.17,-71.58,False
+BIE,Beatrice Municipal,Beatrice,NE,USA,40.30,-96.75,False
+BIG,Allen AAF,Delta Junction,AK,USA,63.99,-145.72,False
+BIH,Bishop,Bishop,CA,USA,37.37,-118.36,False
+BIL,Billings Logan Intl,Billings,MT,USA,45.81,-108.54,False
+BIS,Bismarck Municipal,Bismarck,ND,USA,46.77,-100.75,False
+BIV,Tulip City,Holland,MI,USA,42.74,-86.11,False
+BJC,Jeffco,Denver,CO,USA,39.91,-105.12,False
+BJI,Bemidji-Beltrami County,Bemidji,MN,USA,47.51,-94.93,False
+BJJ,Wayne County,Wooster,OH,USA,40.87,-81.89,False
+BKD,Breckenridge Stephens County,Breckenridge,TX,USA,32.72,-98.89,False
+BKE,Baker City Municipal,Baker City,OR,USA,44.84,-117.81,False
+BKL,Burke Lakefront,Cleveland,OH,USA,41.52,-81.68,False
+BKV,Hernando County,Brooksville,FL,USA,28.47,-82.46,False
+BKW,Raleigh Cty Memorial,Beckley,WV,USA,37.79,-81.12,False
+BKX,Brookings Municipal,Brookings,SD,USA,44.30,-96.82,False
+BLF,Mercer Cty,Bluefield,WV,USA,37.30,-81.21,False
+BLH,Blythe,Blythe,CA,USA,33.62,-114.72,False
+BLI,Bellingham Intl,Bellingham,WA,USA,48.79,-122.54,False
+BLM,Allaire Arpt,Belmar/Farmingdale,NJ,USA,40.19,-74.12,False
+BLV,Scott AFB/MidAmerica,Belleville/St. Louis,IL,USA,38.55,-89.84,False
+BMC,Brigham City,Brigham City,UT,USA,41.55,-112.06,False
+BMG,Monroe County,Bloomington,IN,USA,39.15,-86.62,False
+BMI,Central Illinois Regional,Bloomington,IL,USA,40.48,-88.92,False
+BML,Berlin Municipal,Berlin,NH,USA,44.58,-71.18,False
+BMQ,Burnet Muni-Kate Craddock,Burnet,TX,USA,30.74,-98.24,False
+BMT,Beaumont Municipal,Beaumont,TX,USA,30.07,-94.22,False
+BNA,Nashville International,Nashville,TN,USA,36.12,-86.68,False
+BNF,Baranof Warm Springs SPB,Baranof Warm Springs,AK,USA,57.09,-134.83,False
+BNG,Banning Municipal,Banning,CA,USA,33.92,-116.85,False
+BNL,Barnwell County,Barnwell,SC,USA,33.26,-81.39,False
+BNO,Burns Muni,Burns,OR,USA,43.59,-118.95,False
+BNW,Boone Municipal,Boone,IA,USA,42.05,-93.85,False
+BOI,Boise Air Terminal,Boise,ID,USA,43.56,-116.22,False
+BOK,Brookings,Brookings,OR,USA,42.07,-124.29,False
+BOS,Gen Edw L Logan Intl,Boston,MA,USA,42.36,-71.01,False
+BOW,Bartow Municipal,Bartow,FL,USA,27.94,-81.78,False
+BPI,Big Piney-Marbleton,Big Piney,WY,USA,42.59,-110.11,False
+BPK,Baxter County Regional,Mountain Home,AR,USA,36.37,-92.47,False
+BPT,Southeast Texas Regional,Beaumont/Port Arthur,TX,USA,29.95,-94.02,False
+BQK,Glynco Jetport,Brunswick,GA,USA,31.26,-81.47,False
+BQN,Rafael Hernandez,Aguadilla,PR,USA,18.49,-67.13,False
+BRD,Brainerd-Crow Wing County Regional,Brainerd,MN,USA,46.40,-94.14,False
+BRL,Burlington Municipal,Burlington,IA,USA,40.78,-91.13,False
+BRO,Brownsville/S.Padre Island International,Brownsville,TX,USA,25.91,-97.43,False
+BRW,Wiley Post Will Rogers Memorial,Barrow,AK,USA,71.29,-156.77,False
+BRY,Samuels,Bardstown,KY,USA,37.81,-85.50,False
+BST,Belfast Municipal,Belfast,ME,USA,44.41,-69.01,False
+BTI,Barter Island,Kaktovik,AK,USA,70.13,-143.58,False
+BTL,W K Kellogg Regional,Battle Creek,MI,USA,42.31,-85.25,False
+BTM,Bert Mooney,Butte,MT,USA,45.95,-112.50,False
+BTN,Britton Municipal,Britton,SD,USA,45.82,-97.74,False
+BTP,Butler Cty,Butler,PA,USA,40.78,-79.95,False
+BTR,Baton Rouge Metropolitan Ryan,Baton Rouge,LA,USA,30.53,-91.15,False
+BTT,Bettles,Bettles,AK,USA,66.92,-151.53,False
+BTV,Burlington International,Burlington,VT,USA,44.47,-73.15,False
+BTY,Beatty,Beatty,NV,USA,36.86,-116.79,False
+BUB,Cram,Burwell,NE,USA,41.78,-99.15,False
+BUF,Buffalo Niagara Intl,Buffalo,NY,USA,42.94,-78.73,False
+BUM,Butler Memorial,Butler,MO,USA,38.29,-94.34,False
+BUR,Burbank-Glendale-Pasadena,Burbank,CA,USA,34.20,-118.36,False
+BUY,Burlington Municipal,Burlington,NC,USA,36.05,-79.47,False
+BVI,Beaver County,Beaver Falls,PA,USA,40.77,-80.39,False
+BVK,Buckland,Buckland,AK,USA,65.98,-161.15,False
+BVN,Albion Municipal,Albion,NE,USA,41.73,-98.06,False
+BVO,Bartlesville Municipal,Bartlesville,OK,USA,36.76,-96.01,False
+BVS,Skagit Regional/Bay View,Burlington/Mount Vernon,WA,USA,48.47,-122.42,False
+BVX,Batesville Regional,Batesville,AR,USA,35.73,-91.65,False
+BVY,Beverly Municipal,Beverly,MA,USA,42.58,-70.92,False
+BWC,Brawley Municipal,Brawley,CA,USA,32.99,-115.52,False
+BWD,Brownwood Municipal,Brownwood,TX,USA,31.79,-98.96,False
+BWG,Bowling Green-Warren County,Bowling Green,KY,USA,36.96,-86.42,False
+BWI,Baltimore-Washington International,Baltimore,MD,USA,39.18,-76.67,False
+BWP,Harry Stern,Wahpeton,ND,USA,46.25,-96.61,False
+BXA,George R Carr Memorial,Bogalusa,LA,USA,30.81,-89.86,False
+BXG,Burke County,Waynesboro,GA,USA,33.04,-82.00,False
+BXK,Buckeye Municipal,Buckeye,AZ,USA,33.42,-112.69,False
+BYA,Boundary,Boundary,AK,USA,64.08,-141.11,False
+BYG,Johnson County,Buffalo,WY,USA,44.38,-106.72,False
+BYI,Burley Municipal,Burley,ID,USA,42.54,-113.77,False
+BZN,Gallatin,Bozeman,MT,USA,45.78,-111.15,False
+C00,Mercer County,Aledo,IL,USA,41.25,-90.74,False
+C05,Chenega Bay,Chenega,AK,USA,60.08,-147.99,False
+C09,Morris Municipal,Morris,IL,USA,41.43,-88.42,False
+C15,Pekin Municipal,Pekin,IL,USA,40.49,-89.68,False
+C17,Marion,Marion,IA,USA,42.03,-91.53,False
+C18,Frankfort,Chicago/Frankfort,IL,USA,41.48,-87.84,False
+C25,Waverly Municipal,Waverly,IA,USA,42.74,-92.51,False
+C29,Morey,Middleton,WI,USA,43.11,-89.53,False
+C34,Gibson City Municipal,Gibson City,IL,USA,40.49,-88.27,False
+C35,Reedsburg Municipal,Reedsburg,WI,USA,43.53,-89.98,False
+C47,Portage Municipal,Portage,WI,USA,43.56,-89.48,False
+C52,Burlington Municipal,Burlington,WI,USA,42.69,-88.30,False
+C56,Sanger,Chicago/Monee,IL,USA,41.38,-87.68,False
+C62,Kendallville Municipal,Kendallville,IN,USA,41.47,-85.26,False
+C65,Plymouth Municipal,Plymouth,IN,USA,41.37,-86.30,False
+C66,Monmouth Municipal,Monmouth,IL,USA,40.93,-90.63,False
+C71,Crosby Municipal,Crosby,MS,USA,31.30,-91.05,False
+C73,Dixon Muni-Charles R Walgreen,Dixon,IL,USA,41.83,-89.45,False
+C75,Marshall County,Lacon,IL,USA,41.02,-89.39,False
+C77,Poplar Grove,Poplar Grove,IL,USA,42.32,-88.84,False
+C80,New Coalinga Municipal,Coalinga,CA,USA,36.16,-120.29,False
+C81,Campbell,Chicago/Round Lake Park,IL,USA,42.32,-88.07,False
+C83,Byron,Byron,CA,USA,37.83,-121.63,False
+C91,Dowagiac Municipal,Dowagiac,MI,USA,41.99,-86.13,False
+CAD,Wexford County,Cadillac,MI,USA,44.28,-85.42,False
+CAE,Columbia Metropolitan,Columbia,SC,USA,33.94,-81.12,False
+CAG,Craig-Moffat,Craig,CO,USA,40.50,-107.52,False
+CAK,Akron-Canton Regional,Akron,OH,USA,40.92,-81.44,False
+CAO,Clayton Municipal Airpark,Clayton,NM,USA,36.45,-103.15,False
+CAR,Caribou Municipal,Caribou,ME,USA,46.87,-68.02,False
+CAV,Clarion Municipal,Clarion,IA,USA,42.74,-93.76,False
+CBE,Cumberland Regional,Cumberland,MD,USA,39.62,-78.76,False
+CBF,Council Bluffs Municipal,Council Bluffs,IA,USA,41.26,-95.76,False
+CBG,Cambridge Municipal,Cambridge,MN,USA,45.56,-93.26,False
+CBK,Shaltz,Colby,KS,USA,39.43,-101.05,False
+CCB,Cable,Upland,CA,USA,34.11,-117.69,False
+CCO,Newnan-Coweta County,Newnan,GA,USA,33.31,-84.77,False
+CCR,Buchanan,Concord,CA,USA,37.99,-122.06,False
+CCY,Charles City Municipal,Charles City,IA,USA,43.07,-92.61,False
+CDB,Cold Bay,Cold Bay,AK,USA,55.21,-162.72,False
+CDC,Cedar City Muni,Cedar City,UT,USA,37.70,-113.10,False
+CDH,Harrell,Camden,AR,USA,33.62,-92.76,False
+CDI,Cambridge Municipal,Cambridge,OH,USA,39.98,-81.58,False
+CDK,George T Lewis,Cedar Key,FL,USA,29.14,-83.05,False
+CDN,Woodward,Camden,SC,USA,34.28,-80.56,False
+CDR,Chadron Municipal,Chadron,NE,USA,42.84,-103.10,False
+CDV,Merle K (Mudhole) Smith,Cordova,AK,USA,60.49,-145.48,False
+CDW,Essex Cty Arpt,Caldwell,NJ,USA,40.88,-74.28,False
+CEC,Jack McNamara,Crescent City,CA,USA,41.78,-124.24,False
+CEF,Westover AFB,Chicopee,MA,USA,42.20,-72.53,False
+CEK,Crete Municipal,Crete,NE,USA,40.62,-96.92,False
+CEM,Central,Central,AK,USA,65.57,-144.78,False
+CEU,Oconee County Regional,Clemson,SC,USA,34.67,-82.89,False
+CEV,Mettel,Connersville,IN,USA,39.70,-85.13,False
+CEW,Bob Sikes,Crestview,FL,USA,30.78,-86.52,False
+CEY,Kyle-Oakley,Murray,KY,USA,36.66,-88.37,False
+CEZ,Cortez Muni,Cortez,CO,USA,37.30,-108.63,False
+CFD,Coulter,Bryan,TX,USA,30.72,-96.33,False
+CFJ,Crawfordsville Municipal,Crawfordsville,IN,USA,39.98,-86.92,False
+CFK,Chefornak,Chefornak,AK,USA,60.15,-164.29,False
+CFT,Greenlee County,Clifton-Morenci,AZ,USA,32.95,-109.21,False
+CFV,Coffeyville Municipal,Coffeyville,KS,USA,37.09,-95.57,False
+CGA,Craig SPB,Craig,AK,USA,55.48,-133.15,False
+CGC,Crystal River,Crystal River,FL,USA,28.87,-82.57,False
+CGE,Cambridge-Dorchester,Cambridge,MD,USA,38.54,-76.03,False
+CGF,Cuyahoga County,Cleveland,OH,USA,41.57,-81.49,False
+CGI,Cape Girardeau Municipal,Cape Girardeau,MO,USA,37.23,-89.57,False
+CGS,College Park,College Park,MD,USA,38.98,-76.92,False
+CGX,Chicago Meigs,Chicago,IL,USA,41.86,-87.61,False
+CGZ,Casa Grande Municipal,Casa Grande,AZ,USA,32.95,-111.77,False
+CHA,Lovell,Chattanooga,TN,USA,35.04,-85.20,False
+CHD,Chandler Municipal,Chandler,AZ,USA,33.27,-111.81,False
+CHK,Chickasha Municipal,Chickasha,OK,USA,35.10,-97.97,False
+CHO,Charlottesville-Albermarle,Charlottesville,VA,USA,38.14,-78.45,False
+CHP,Circle Hot Springs,Circle Hot Springs,AK,USA,65.49,-144.61,False
+CHS,Charleston AFB/International,Charleston,SC,USA,32.90,-80.04,False
+CHT,Chillicothe Municipal,Chillicothe,MO,USA,39.78,-93.50,False
+CHU,Houston County,Caledonia,MN,USA,43.60,-91.50,False
+CIC,Chico Municipal,Chico,CA,USA,39.80,-121.86,False
+CID,Eastern Iowa,Cedar Rapids,IA,USA,41.88,-91.71,False
+CII,Choteau,Choteau,MT,USA,47.83,-112.17,False
+CIK,Chalkyitsik,Chalkyitsik,AK,USA,66.65,-143.74,False
+CIN,Arthur N Neu,Carroll,IA,USA,42.05,-94.79,False
+CIR,Cairo,Cairo,IL,USA,37.06,-89.22,False
+CIU,Chippewa County International,Sault Ste. Marie,MI,USA,46.25,-84.47,False
+CJR,Culpeper Regional,Culpeper,VA,USA,38.53,-77.86,False
+CJX,Crooked Creek,Crooked Creek,AK,USA,61.87,-158.14,False
+CKB,Benedum,Clarksburg,WV,USA,39.30,-80.23,False
+CKC,Grand Marais/Cook County,Grand Marais,MN,USA,47.84,-90.38,False
+CKF,Crisp County - Cordele,Cordele,GA,USA,31.99,-83.77,False
+CKI,Williamsburg County,Kingstree,SC,USA,33.72,-79.86,False
+CKM,Fletcher,Clarksdale,MS,USA,34.30,-90.51,False
+CKN,Crookston Muni Kirkwood,Crookston,MN,USA,47.84,-96.62,False
+CKP,Cherokee Municipal,Cherokee,IA,USA,42.73,-95.56,False
+CKU,Cordova Muni,Cordova,AK,USA,60.54,-145.73,False
+CKV,Outlaw,Clarksville,TN,USA,36.62,-87.41,False
+CKX,Chicken,Chicken,AK,USA,64.07,-141.95,False
+CLD,MC Clellan-Palomar Airport,,,USA,33.13,-117.28,False
+CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA,41.41,-81.85,False
+CLI,Clintonville Municipal,Clintonville,WI,USA,44.61,-88.73,False
+CLK,Clinton Municipal,Clinton,OK,USA,35.54,-98.93,False
+CLL,Easterwood,College Station,TX,USA,30.59,-96.36,False
+CLM,William R Fairchild Intl,Port Angeles,WA,USA,48.12,-123.50,False
+CLP,Clarks Point,Clarks Point,AK,USA,58.84,-158.55,False
+CLS,Chehalis-Centralia,Chehalis,WA,USA,46.68,-122.98,False
+CLT,Charlotte/Douglas International,Charlotte,NC,USA,35.21,-80.94,False
+CLW,Clearwater Air Park,Clearwater,FL,USA,27.98,-82.76,False
+CMA,Camarillo,Camarillo,CA,USA,34.21,-119.09,False
+CMH,Port Columbus Intl,Columbus,OH,USA,40.00,-82.89,False
+CMI,University of Illinois-Willard,Champaign/Urbana,IL,USA,40.04,-88.28,False
+CMX,Houghton County Memorial,Hancock,MI,USA,47.17,-88.49,False
+CMY,Sparta/Fort McCoy,Sparta,WI,USA,43.96,-90.74,False
+CNC,Chariton Municipal,Chariton,IA,USA,41.02,-93.36,False
+CNH,Claremont Municipal,Claremont,NH,USA,43.37,-72.37,False
+CNK,Blosser Municipal,Concordia,KS,USA,39.55,-97.65,False
+CNM,Cavern City Air Terminal,Carlsbad,NM,USA,32.34,-104.26,False
+CNO,Chino,Chino,CA,USA,33.97,-117.64,False
+CNP,Billy G Ray,Chappell,NE,USA,41.08,-102.46,False
+CNU,Chanute Martin Johnson,Chanute,KS,USA,37.67,-95.49,False
+CNW,TSTC-Waco,Waco,TX,USA,31.64,-97.07,False
+CNY,Canyonlands,Moab,UT,USA,38.75,-109.75,False
+COD,Yellowstone Regional,Cody,WY,USA,44.52,-109.02,False
+COE,Coeur D'Alene Air Terminal,Coeur D'Alene,ID,USA,47.77,-116.82,False
+COI,Merritt Island,Merritt Island,FL,USA,28.34,-80.69,False
+COM,Coleman Municipal,Coleman,TX,USA,31.84,-99.40,False
+CON,Concord Municipal,Concord,NH,USA,43.20,-71.50,False
+COQ,Cloquet-Carlton County,Cloquet,MN,USA,46.70,-92.51,False
+COS,City of Colorado Springs Muni,Colorado Springs,CO,USA,38.81,-104.70,False
+COT,Cotulla-Lasalle County,Cotulla,TX,USA,28.46,-99.22,False
+COU,Columbia Regional,Columbia,MO,USA,38.82,-92.22,False
+CPC,Columbus County Municipal,Whiteville,NC,USA,34.27,-78.71,False
+CPK,Chesapeake Municipal,Norfolk,VA,USA,36.67,-76.32,False
+CPM,Compton/Woodley,Compton,CA,USA,33.89,-118.24,False
+CPR,Natrona County Intl,Casper,WY,USA,42.91,-106.46,False
+CPS,St. Louis Downtown,Cahokia/St. Louis,IL,USA,38.57,-90.16,False
+CPX,Benjamin Rivera Noriega,Isla De Culebra,PR,USA,18.31,-65.30,False
+CQA,Lakefield,Celina,OH,USA,40.48,-84.56,False
+CQB,Chandler Municipal,Chandler,OK,USA,35.72,-96.82,False
+CQX,Chatham Municipal,Chatham,MA,USA,41.69,-69.99,False
+CRC,Circle City,Circle,AK,USA,65.83,-144.08,False
+CRE,Grand Strand,North Myrtle Beach,SC,USA,33.81,-78.72,False
+CRG,Craig Municipal,Jacksonville,FL,USA,30.34,-81.51,False
+CRO,Corcoran,Corcoran,CA,USA,36.10,-119.59,False
+CRP,Corpus Christi International,Corpus Christi,TX,USA,27.77,-97.50,False
+CRQ,McClellan-Palomar,Carlsbad,CA,USA,33.13,-117.28,False
+CRS,C Davis Campbell -Corsicana Muni,Corsicana,TX,USA,32.03,-96.40,False
+CRT,Crossett Municipal,Crossett,AR,USA,33.18,-91.88,False
+CRW,Yeager,Charleston,WV,USA,38.37,-81.59,False
+CRX,Roscoe Turner,Corinth,MS,USA,34.91,-88.60,False
+CSB,Cambridge Municipal,Cambridge,NE,USA,40.31,-100.16,False
+CSG,Columbus Metropolitan,Columbus,GA,USA,32.52,-84.94,False
+CSM,Clinton-Sherman,Clinton,OK,USA,35.34,-99.20,False
+CSQ,Creston Municipal,Creston,IA,USA,41.02,-94.36,False
+CSV,Crossville Memorial,Crossville,TN,USA,35.95,-85.08,False
+CTB,Cut Bank Muni,Cut Bank,MT,USA,48.61,-112.38,False
+CTJ,West Georgia Regional,Carrollton,GA,USA,33.63,-85.15,False
+CTK,Ingersoll,Canton,IL,USA,40.57,-90.07,False
+CTY,Cross City,Cross City,FL,USA,29.64,-83.10,False
+CTZ,Sampson County,Clinton,NC,USA,34.98,-78.36,False
+CUB,Columbia Owens Downtown,Columbia,SC,USA,33.97,-81.00,False
+CUH,Cushing Municipal,Cushing,OK,USA,35.95,-96.77,False
+CUL,Carmi Municipal,Carmi,IL,USA,38.09,-88.12,False
+CUT,Custer County,Custer,SD,USA,43.73,-103.62,False
+CVG,Cincinnati Northern Kentucky Intl,Covington,KY,USA,39.05,-84.66,False
+CVK,Sharp County Regional,Ash Flat,AR,USA,36.26,-91.56,False
+CVN,Clovis Municipal,Clovis,NM,USA,34.43,-103.08,False
+CVO,Corvallis Muni,Corvallis,OR,USA,44.50,-123.29,False
+CVX,Charlevoix Municipal,Charlevoix,MI,USA,45.30,-85.27,False
+CWA,Central Wisconsin,Mosinee,WI,USA,44.78,-89.67,False
+CWF,Chennault International,Lake Charles,LA,USA,30.21,-93.14,False
+CWI,Clinton Municipal,Clinton,IA,USA,41.83,-90.33,False
+CWV,Claxton-Evans County,Claxton,GA,USA,32.20,-81.87,False
+CXC,Chitina,Chitina,AK,USA,61.58,-144.43,False
+CXE,Chase City Municipal,Chase City,VA,USA,36.79,-78.50,False
+CXF,Coldfoot,Coldfoot,AK,USA,67.25,-150.21,False
+CXL,Calexico International,Calexico,CA,USA,32.67,-115.51,False
+CXO,Montgomery County,Conroe,TX,USA,30.35,-95.41,False
+CXP,Carson,Carson City,NV,USA,39.19,-119.73,False
+CXU,Camilla-Mitchell County,Camilla,GA,USA,31.21,-84.24,False
+CXY,Capital City,Harrisburg,PA,USA,40.22,-76.85,False
+CYO,Pickaway County Memorial,Circleville,OH,USA,39.52,-82.98,False
+CYS,Cheyenne,Cheyenne,WY,USA,41.16,-104.81,False
+CYW,Clay Center Municipal,Clay Center,KS,USA,39.39,-97.16,False
+CZD,Cozad Municipal,Cozad,NE,USA,40.87,-100.00,False
+CZG,Tri-Cities,Endicott,NY,USA,42.08,-76.10,False
+CZL,Tom B David,Calhoun,GA,USA,34.46,-84.94,False
+CZN,Chisana,Chisana,AK,USA,62.07,-142.05,False
+CZT,Dimmit County,Carrizo Springs,TX,USA,28.52,-99.82,False
+D04,Bowman Municipal,Bowman,ND,USA,46.19,-103.43,False
+D05,Garrison Municipal,Garrison,ND,USA,47.66,-101.44,False
+D07,Faith Municipal,Faith,SD,USA,45.04,-102.02,False
+D09,Bottineau Municipal,Bottineau,ND,USA,48.83,-100.42,False
+D19,Quentin Aanenson,Luverne,MN,USA,43.62,-96.22,False
+D22,Angola,Angola,NY,USA,42.66,-78.99,False
+D25,Manitowish Waters,Manitowish Waters,WI,USA,46.12,-89.88,False
+D38,Canandaiga,Canandaiga,NY,USA,42.91,-77.32,False
+D42,Springfield Municipal,Springfield,MN,USA,44.23,-95.00,False
+D50,Crosby Municipal,Crosby,ND,USA,48.93,-103.30,False
+D55,Robertson,Langdon,ND,USA,48.75,-98.39,False
+D57,Glen Ullin Municipal,Glen Ullin,ND,USA,46.81,-101.86,False
+D60,Tioga Municipal,Tioga,ND,USA,48.38,-102.90,False
+D73,Monroe-Walton County,Monroe,GA,USA,33.78,-83.69,False
+D77,Lancaster,Lancaster,NY,USA,42.92,-78.61,False
+D87,Harbor Springs,Harbor Springs,MI,USA,45.43,-84.91,False
+D95,Dupont-Lapeer,Lapeer,MI,USA,43.07,-83.27,False
+D98,Romeo,Romeo,MI,USA,42.80,-82.98,False
+DAB,Daytona Beach International,Daytona Beach,FL,USA,29.18,-81.06,False
+DAG,Barstow-Daggett,Daggett,CA,USA,34.85,-116.79,False
+DAL,Dallas Love,Dallas,TX,USA,32.85,-96.85,False
+DAN,Danville Regional,Danville,VA,USA,36.57,-79.34,False
+DAW,Skyhaven,Rochester,NH,USA,43.28,-70.93,False
+DAY,James M Cox Dayton Intl,Dayton,OH,USA,39.90,-84.22,False
+DBQ,Dubuque Municipal,Dubuque,IA,USA,42.40,-90.71,False
+DCA,Ronald Reagan Washington National,Arlington,VA,USA,38.85,-77.04,False
+DCK,Dahl Creek,Dahl Creek,AK,USA,66.94,-156.90,False
+DCU,Pryor  Regional,Decatur,AL,USA,34.65,-86.95,False
+DCY,Daviess County,Washington,IN,USA,38.70,-87.13,False
+DDC,Dodge City Regional,Dodge City,KS,USA,37.76,-99.97,False
+DDH,William H. Morse State,Bennington,VT,USA,42.89,-73.25,False
+DEC,Decatur,Decatur,IL,USA,39.83,-88.87,False
+DED,Deland Municipal-Taylor,Deland,FL,USA,29.07,-81.28,False
+DEE,Deering,Deering,AK,USA,66.07,-162.77,False
+DEH,Decorah Municipal,Decorah,IA,USA,43.28,-91.74,False
+DEN,Denver Intl,Denver,CO,USA,39.86,-104.67,False
+DEQ,J Lynn Helms Sevier County,De Queen,AR,USA,34.05,-94.40,False
+DET,Detroit City,Detroit,MI,USA,42.41,-83.01,False
+DEW,Deer Park,Deer Park,WA,USA,47.97,-117.43,False
+DFI,Defiance Memorial,Defiance,OH,USA,41.34,-84.43,False
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA,32.90,-97.04,True
+DGW,Converse County,Douglas,WY,USA,42.80,-105.39,False
+DHN,Dothan,Dothan,AL,USA,31.32,-85.45,False
+DHT,Dalhart Municipal,Dalhart,TX,USA,36.02,-102.55,False
+DIK,Dickinson Municipal,Dickinson,ND,USA,46.80,-102.80,False
+DKB,Dekalb-Taylor Municipal,Dekalb,IL,USA,41.93,-88.71,False
+DKK,Dunkirk Municipal,Dunkirk,NY,USA,42.49,-79.27,False
+DKX,Knoxville Downtown Island,Knoxville,TN,USA,35.96,-83.87,False
+DLG,Dillingham,Dillingham,AK,USA,59.05,-158.50,False
+DLH,Duluth International,Duluth,MN,USA,46.84,-92.19,False
+DLL,Baraboo - Wisconsin Dells,Baraboo,WI,USA,43.52,-89.77,False
+DLN,Dillon,Dillon,MT,USA,45.26,-112.55,False
+DLO,Delano Municipal,Delano,CA,USA,35.75,-119.24,False
+DLS,Columbia Gorge Regional,The Dalles,OR,USA,45.62,-121.17,False
+DLZ,Delaware Municipal,Delaware,OH,USA,40.28,-83.11,False
+DM2,Diomede Heliport,Diomede,AK,USA,65.76,-168.95,False
+DMN,Deming Municipal,Deming,NM,USA,32.26,-107.72,False
+DMO,Sedalia Memorial,Sedalia,MO,USA,38.71,-93.18,False
+DMW,Carroll County,Westminster,MD,USA,39.61,-77.01,False
+DNL,Daniel,Augusta,GA,USA,33.47,-82.04,False
+DNN,Dalton Municipal,Dalton,GA,USA,34.72,-84.87,False
+DNS,Denison Municipal,Denison,IA,USA,41.99,-95.38,False
+DNV,Vermilion County,Danville,IL,USA,40.20,-87.60,False
+DOV,Dover Air Force Base,Dover,DE,USA,39.13,-75.47,False
+DPA,Du Page,Chicago/West Chicago,IL,USA,41.91,-88.25,False
+DPL,P B Raiford,Kenansville,NC,USA,35.00,-77.98,False
+DQH,Douglas Municipal,Douglas,GA,USA,31.48,-82.86,False
+DRI,Beauregard Parish,De Ridder,LA,USA,30.83,-93.34,False
+DRO,Durango-La Plata County,Durango,CO,USA,37.15,-107.75,False
+DRT,Del Rio International,Del Rio,TX,USA,29.37,-100.92,False
+DSM,Des Moines International,Des Moines,IA,USA,41.53,-93.66,False
+DSV,Dansville Muni,Dansville,NY,USA,42.57,-77.71,False
+DTA,Delta Municipal,Delta,UT,USA,39.38,-112.51,False
+DTL,Detroit Lakes -Wething,Detroit Lakes,MN,USA,46.83,-95.89,False
+DTN,Shreveport Downtown,Shreveport,LA,USA,32.54,-93.75,False
+DTO,Denton Municipal,Denton,TX,USA,33.20,-97.20,False
+DTS,Destin-Ft. Walton Beach,Destin,FL,USA,30.40,-86.47,False
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA,42.21,-83.35,False
+DUA,Eaker,Durant,OK,USA,33.94,-96.39,False
+DUC,Halliburton,Duncan,OK,USA,34.47,-97.96,False
+DUG,Bisbee Douglas International,Douglas Bisbee,AZ,USA,31.47,-109.60,False
+DUJ,Du Bois-Jefferson Cty,Du Bois,PA,USA,41.18,-78.90,False
+DUT,Unalaska,Unalaska,AK,USA,53.90,-166.54,False
+DUX,Moore County,Dumas,TX,USA,35.86,-102.01,False
+DUY,Kongiganak,Kongiganak,AK,USA,59.96,-162.88,False
+DVK,Stuart Powell,Danville,KY,USA,37.58,-84.77,False
+DVL,Devils Lake Municipal-Knoke,Devils Lake,ND,USA,48.11,-98.91,False
+DVN,Davenport Municipal,Davenport,IA,USA,41.61,-90.59,False
+DVO,Gnoss,Novato,CA,USA,38.14,-122.56,False
+DVT,Phoenix-Deer Valley,Phoenix,AZ,USA,33.69,-112.08,False
+DWH,David Wayne Hooks Memorial,Houston,TX,USA,30.06,-95.55,False
+DWU,Ashland-Boyd County,Ashland,KY,USA,38.55,-82.74,False
+DXE,Dexter Municipal,Dexter,MO,USA,36.78,-89.94,False
+DXR,Danbury Municipal,Danbury,CT,USA,41.37,-73.48,False
+DXX,Madison-Lac Qui Parle County,Madison,MN,USA,44.99,-96.18,False
+DYB,Summerville,Summerville,SC,USA,33.06,-80.28,False
+DYL,Doylestown,Doylestown,PA,USA,40.33,-75.12,False
+DYR,Dyersburg Municipal,Dyersburg,TN,USA,36.00,-89.41,False
+DYT,Sky Harbor,Duluth,MN,USA,46.72,-92.04,False
+E01,Monahans-Roy Hurd Memorial,Monahans,TX,USA,31.58,-102.91,False
+E04,Eunice,Eunice,NM,USA,32.46,-103.24,False
+E05,Hatch Muni,Hatch,NM,USA,32.66,-107.20,False
+E06,Lea County-Zip Franklin Memorial,Lovington,NM,USA,32.95,-103.41,False
+E07,Lea County/Tatum,Tatum,NM,USA,33.26,-103.28,False
+E11,Andrews County,Andrews,TX,USA,32.33,-102.53,False
+E15,Graham Municipal,Graham,TX,USA,33.11,-98.56,False
+E19,Gruver Municipal,Gruver,TX,USA,36.23,-101.43,False
+E24,Whiteriver,Whiteriver,AZ,USA,33.81,-109.99,False
+E25,Wickenburg Municipal,Wickenburg,AZ,USA,33.97,-112.80,False
+E26,Lea County,Jal,NM,USA,32.13,-103.15,False
+E35,Fabens,Fabens,TX,USA,31.52,-106.15,False
+E38,Alpine-Casparis Municipal,Alpine,TX,USA,30.38,-103.68,False
+E42,Spearman Municipal,Spearman,TX,USA,36.22,-101.19,False
+E51,Bagdad,Bagdad,AZ,USA,34.60,-113.17,False
+E52,Oldham County,Vega,TX,USA,35.23,-102.40,False
+E60,Eloy Municipal,Eloy,AZ,USA,32.81,-111.59,False
+E63,Gila Bend Municipal,Gila Bend,AZ,USA,32.96,-112.68,False
+E80,Alexander Municipal,Belen,NM,USA,34.65,-106.83,False
+E89,Conchas State Park,Conchas Dam,NM,USA,35.37,-104.19,False
+E91,Chinle Municipal,Chinle,AZ,USA,36.11,-109.58,False
+E94,Glenwood-Catron County,Glenwood,NM,USA,33.35,-108.87,False
+E95,Benson Municipal,Benson,AZ,USA,32.00,-110.36,False
+EAA,Eagle,Eagle,AK,USA,64.78,-141.15,False
+EAN,Phifer Airfield,Wheatland,WY,USA,42.06,-104.93,False
+EAR,Kearney Municipal,Kearney,NE,USA,40.73,-99.01,False
+EAT,Pangborn Memorial,Wenatchee,WA,USA,47.40,-120.21,False
+EAU,Chippewa Valley Regional,Eau Claire,WI,USA,44.87,-91.49,False
+EBS,Webster City Municipal,Webster City,IA,USA,42.44,-93.87,False
+ECG,Elizabeth City CG Air Station/Municipal,Elizabeth City,NC,USA,36.26,-76.17,False
+ECS,Mondell,Newcastle,WY,USA,43.89,-104.32,False
+EDE,Edenton Municipal,Edenton,NC,USA,36.03,-76.57,False
+EDN,Enterprise Municipal,Enterprise,AL,USA,31.30,-85.90,False
+EED,Needles,Needles,CA,USA,34.77,-114.62,False
+EEK,Eek,Eek,AK,USA,60.22,-162.01,False
+EEN,Dillant-Hopkins,Keene,NH,USA,42.90,-72.27,False
+EEO,Meeker,Meeker,CO,USA,40.05,-107.89,False
+EET,Shelby County,Alabaster,AL,USA,33.18,-86.78,False
+EFC,Belle Fourche Municipal,Belle Fourche,SD,USA,44.73,-103.86,False
+EFD,Ellington,Houston,TX,USA,29.61,-95.16,False
+EFK,Newport State,Newport,VT,USA,44.89,-72.23,False
+EFT,Monroe Municipal,Monroe,WI,USA,42.61,-89.59,False
+EFW,Jefferson Municipal,Jefferson,IA,USA,42.01,-94.34,False
+EGE,Eagle County Regional,Eagle,CO,USA,39.64,-106.92,False
+EGQ,Emmetsburg Municipal,Emmetsburg,IA,USA,43.10,-94.70,False
+EGT,Wellington Municipal,Wellington,KS,USA,37.32,-97.39,False
+EGV,Eagle River Union,Eagle River,WI,USA,45.93,-89.27,False
+EHA,Elkhart-Morton County,Elkhart,KS,USA,37.00,-101.88,False
+EHO,Shelby Municipal,Shelby,NC,USA,35.26,-81.60,False
+EHR,Henderson City-County,Henderson,KY,USA,37.81,-87.69,False
+EII,Egegik,Egegik,AK,USA,58.19,-157.38,False
+EIW,County Memorial,New Madrid,MO,USA,36.54,-89.60,False
+EKA,Murray,Eureka,CA,USA,40.80,-124.11,False
+EKM,Elkhart Municipal,Elkhart,IN,USA,41.72,-86.00,False
+EKN,Elkins-Randolph Co-Jennings Randolph,Elkins,WV,USA,38.89,-79.86,False
+EKO,Elko Regional,Elko,NV,USA,40.82,-115.79,False
+EKQ,Wayne County,Monticello,KY,USA,36.86,-84.86,False
+EKX,Elizabethtown,Elizabethtown,KY,USA,37.69,-85.92,False
+EKY,Bessemer Municipal,Bessemer,AL,USA,33.31,-86.93,False
+ELA,Eagle Lake Municipal,Eagle Lake,TX,USA,29.60,-96.32,False
+ELD,South Arkansas Regional At Goodwin,El Dorado,AR,USA,33.22,-92.81,False
+ELI,Elim,Elim,AK,USA,64.61,-162.27,False
+ELK,Elk City Municipal,Elk City,OK,USA,35.43,-99.39,False
+ELM,Elmira/Corning Regional,Elmira,NY,USA,42.16,-76.89,False
+ELN,Bowers,Ellensburg,WA,USA,47.03,-120.53,False
+ELO,Ely Municipal,Ely,MN,USA,47.82,-91.83,False
+ELP,El Paso International,El Paso,TX,USA,31.81,-106.38,False
+ELV,Elfin Cove SPB,Elfin Cove,AK,USA,58.20,-136.35,False
+ELY,Ely Arpt (Yelland ),Ely,NV,USA,39.30,-114.84,False
+ELZ,Wellsville Muni Tarantine,Wellsville,NY,USA,42.11,-77.99,False
+EMM,Kemmerer Municipal,Kemmerer,WY,USA,41.82,-110.56,False
+EMP,Emporia Municipal,Emporia,KS,USA,38.33,-96.19,False
+EMT,El Monte,El Monte,CA,USA,34.09,-118.03,False
+EMV,Emporia-Greensville Regional,Emporia,VA,USA,36.69,-77.48,False
+ENA,Kenai Municipal,Kenai,AK,USA,60.57,-151.25,False
+ENL,Centralia Municipal,Centralia,IL,USA,38.51,-89.09,False
+ENM,Emmonak,Emmonak,AK,USA,62.79,-164.49,False
+ENN,Nenana Municipal,Nenana,AK,USA,64.55,-149.07,False
+ENV,Wendover,Wendover,UT,USA,40.72,-114.03,False
+ENW,Kenosha Regional,Kenosha,WI,USA,42.60,-87.93,False
+EOK,Keokuk Municipal,Keokuk,IA,USA,40.46,-91.43,False
+EOS,Neosho Memorial,Neosho,MO,USA,36.81,-94.39,False
+EPH,Ephrata Muni,Ephrata,WA,USA,47.31,-119.52,False
+EPM,Eastport Municipal,Eastport,ME,USA,44.91,-67.01,False
+EQA,Captain Jack Thomas,El Dorado,KS,USA,37.77,-96.82,False
+EQY,Monroe,Monroe,NC,USA,35.02,-80.62,False
+ERI,Erie Intl,Erie,PA,USA,42.08,-80.18,False
+ERV,Kerrville Muni/Louis Schreiner,Kerrville,TX,USA,29.98,-99.09,False
+ERY,Luce County Hale,Newberry,MI,USA,46.31,-85.46,False
+ESC,Delta County,Escanaba,MI,USA,45.72,-87.09,False
+ESF,Esler Regional,Alexandria,LA,USA,31.39,-92.30,False
+ESN,Easton /Newnam,Easton,MD,USA,38.80,-76.07,False
+EST,Estherville Municipal,Estherville,IA,USA,43.41,-94.75,False
+ETB,West Bend Municipal,West Bend,WI,USA,43.42,-88.13,False
+ETC,Edgecombe County,Tarboro,NC,USA,35.94,-77.55,False
+ETH,Wheaton Municipal,Wheaton,MN,USA,45.78,-96.54,False
+ETN,Eastland Municipal,Eastland,TX,USA,32.41,-98.81,False
+EUF,Weedon,Eufaula,AL,USA,31.95,-85.13,False
+EUG,Mahlon Sweet,Eugene,OR,USA,44.12,-123.22,False
+EUL,Caldwell Industrial,Caldwell (Boise),ID,USA,43.64,-116.64,False
+EVB,New Smyrna Beach Municipal,New Smyrna Beach,FL,USA,29.06,-80.95,False
+EVM,Eveleth-Virginia Muni,Eveleth,MN,USA,47.43,-92.50,False
+EVU,Maryville Memorial,Maryville,MO,USA,40.35,-94.92,False
+EVV,Evansville Regional,Evansville,IN,USA,38.04,-87.53,False
+EVW,Evanston-Uinta County Burns,Evanston,WY,USA,41.27,-111.03,False
+EVY,Summit Airpark,Middletown,DE,USA,39.52,-75.72,False
+EWB,New Bedford Municipal,New Bedford,MA,USA,41.68,-70.96,False
+EWK,Newton-City-County,Newton,KS,USA,38.06,-97.28,False
+EWN,Craven County Regional,New Bern,NC,USA,35.07,-77.04,False
+EWR,Newark Intl,Newark,NJ,USA,40.69,-74.17,False
+EWU,Newtok,Newtok,AK,USA,60.94,-164.64,False
+EXI,Excursion Inlet SPB,Excursion Inlet,AK,USA,58.42,-135.45,False
+EXX,Davidson County,Lexington,NC,USA,35.78,-80.30,False
+EYE,Eagle Creek Airpark,Indianapolis,IN,USA,39.83,-86.29,False
+EYW,Key West International,Key West,FL,USA,24.56,-81.76,False
+EZI,Kewanee Municipal,Kewanee,IL,USA,41.21,-89.96,False
+EZM,Eastman-Dodge County,Eastman,GA,USA,32.21,-83.13,False
+EZZ,Cameron Memorial,Cameron,MO,USA,39.73,-94.28,False
+F00,Jones,Bonham,TX,USA,33.61,-96.18,False
+F01,Quanah Municipal,Quanah,TX,USA,34.28,-99.76,False
+F05,Vernon - Wilbarger County,Vernon,TX,USA,34.23,-99.28,False
+F06,Marian Airpark,Wellington,TX,USA,34.85,-100.20,False
+F08,Eufaula Municipal,Eufaula,OK,USA,35.30,-95.63,False
+F10,Henryetta Municipal,Henryetta,OK,USA,35.41,-96.02,False
+F12,Rusk County,Henderson,TX,USA,32.14,-94.85,False
+F17,Center Municipal,Center,TX,USA,31.83,-94.16,False
+F18,Cleburne Municipal,Cleburne,TX,USA,32.35,-97.43,False
+F21,Memphis Municipal,Memphis,TX,USA,34.74,-100.53,False
+F22,Perry Municipal,Perry,OK,USA,36.39,-97.28,False
+F24,Minden-Webster,Minden,LA,USA,32.65,-93.30,False
+F28,El Reno Municipal,El Reno,OK,USA,35.47,-98.01,False
+F29,Clarence E. Page Municipal,Oklahoma City,OK,USA,35.49,-97.82,False
+F30,Sulphur Municipal,Sulphur,OK,USA,34.52,-96.99,False
+F31,Lake Texoma State Park,Kingston,OK,USA,33.99,-96.64,False
+F32,Healdton Municipal,Healdton,OK,USA,34.25,-97.47,False
+F36,Cordell Municipal,Cordell,OK,USA,35.30,-98.97,False
+F37,Wauchula Municipal,Wauchula,FL,USA,27.51,-81.88,False
+F39,Grayson County,Sherman/Denison,TX,USA,33.71,-96.67,False
+F41,Ennis Municipal,Ennis,TX,USA,32.33,-96.66,False
+F44,Athens Jones Municipal,Athens,TX,USA,32.16,-95.83,False
+F45,North Palm Beach County General Aviation,West Palm Beach,FL,USA,26.85,-80.22,False
+F46,Rockwall Municipal,Rockwall,TX,USA,32.93,-96.44,False
+F49,Slaton Municipal,Slaton,TX,USA,33.48,-101.66,False
+F51,Winnsboro Municipal,Winnsboro,TX,USA,32.94,-95.28,False
+F53,Franklin County,Mount Vernon,TX,USA,33.22,-95.24,False
+F55,Granbury Municipal,Granbury,TX,USA,32.44,-97.82,False
+F56,Arledge,Stamford,TX,USA,32.91,-99.73,False
+F70,French Valley,Murieta/Temecula,CA,USA,33.58,-117.13,False
+F80,Atoka Municipal,Atoka,OK,USA,34.40,-96.15,False
+F81,Okemah Flying,Okemah,OK,USA,35.43,-96.29,False
+F84,Stigler Municipal,Stigler,OK,USA,35.29,-95.09,False
+F85,Morton-Cochran County,Morton,TX,USA,33.73,-102.73,False
+F87,Farmerville,Farmerville,LA,USA,32.72,-92.34,False
+F88,Jonesboro,Jonesboro,LA,USA,32.20,-92.73,False
+F89,Winnsboro Municipal,Winnsboro,LA,USA,32.15,-91.70,False
+F91,Thomas P Stafford,Weatherford,OK,USA,35.54,-98.67,False
+F99,Holdenville Municipal,Holdenville,OK,USA,35.09,-96.42,False
+FAI,Fairbanks International,Fairbanks,AK,USA,64.81,-147.86,False
+FAM,Farmington Regional,Farmington,MO,USA,37.76,-90.43,False
+FAQ,Fitiuta,Fitiuta Village,AS,USA,14.22,-169.42,False
+FAR,Hector International,Fargo,ND,USA,46.92,-96.81,False
+FAT,Fresno Yosemite International,Fresno,CA,USA,36.78,-119.72,False
+FAY,Fayetteville Municipal,Fayetteville,NC,USA,34.99,-78.88,False
+FBL,Faribault Municipal,Faribault,MN,USA,44.32,-93.31,False
+FBR,Fort Bridger,Fort Bridger,WY,USA,41.39,-110.41,False
+FBY,Fairbury Municipal,Fairbury,NE,USA,40.18,-97.17,False
+FCA,Glacier Park Intl,Kalispell,MT,USA,48.31,-114.26,False
+FCH,Fresno-Chandler Downtown,Fresno,CA,USA,36.73,-119.82,False
+FCI,Chesterfield County,Richmond,VA,USA,37.41,-77.52,False
+FCM,Flying Cloud,Minneapolis,MN,USA,44.83,-93.46,False
+FCY,Forrest City Municipal,Forrest City,AR,USA,34.94,-90.77,False
+FDK,Frederick Municipal,Frederick,MD,USA,39.42,-77.37,False
+FDR,Frederick Municipal,Frederick,OK,USA,34.35,-98.98,False
+FDW,Fairfield County,Winnsboro,SC,USA,34.32,-81.11,False
+FDY,Findlay,Findlay,OH,USA,41.01,-83.67,False
+FEP,Albertus,Freeport,IL,USA,42.25,-89.58,False
+FET,Fremont Municipal,Fremont,NE,USA,41.45,-96.52,False
+FFA,First Flight,Kill Devil Hills,NC,USA,36.02,-75.67,False
+FFC,Peachtree City - Falcon,Atlanta,GA,USA,33.36,-84.57,False
+FFL,Fairfield Municipal,Fairfield,IA,USA,41.05,-91.98,False
+FFM,Fergus Falls Muni-Einar Mickelson,Fergus Falls,MN,USA,46.28,-96.16,False
+FFT,Capital City,Frankfort,KY,USA,38.18,-84.90,False
+FFZ,Falcon,Mesa,AZ,USA,33.46,-111.73,False
+FGX,Fleming-Mason,Flemingsburg,KY,USA,38.54,-83.74,False
+FHR,Friday Harbor,Friday Harbor,WA,USA,48.52,-123.02,False
+FHU,Libby AAF-Sierra Vista Municipal,Fort Huachuca-Sierra Vista,AZ,USA,31.59,-110.34,False
+FIG,Clearfield-Lawrence,Clearfield,PA,USA,41.05,-78.41,False
+FIT,Fitchburg Municipal,Fitchburg,MA,USA,42.55,-71.76,False
+FKL,Chess-Lamberton,Franklin,PA,USA,41.38,-79.86,False
+FKN,Franklin Municipal-John Beverly Rose,Franklin,VA,USA,36.70,-76.90,False
+FKR,Frankfort Municipal,Frankfort,IN,USA,40.27,-86.56,False
+FLD,Fond Du Lac County,Fond Du Lac,WI,USA,43.77,-88.49,False
+FLG,Flagstaff Pulliam,Flagstaff,AZ,USA,35.14,-111.67,False
+FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA,26.07,-80.15,False
+FLO,Florence Regional,Florence,SC,USA,34.19,-79.72,False
+FLP,Marion County Regional,Flippin,AR,USA,36.29,-92.59,False
+FLT,Flat,Flat,AK,USA,62.45,-157.99,False
+FLX,Fallon Municipal,Fallon,NV,USA,39.50,-118.75,False
+FME,Tipton,Odenton,MD,USA,39.09,-76.76,False
+FMN,Four Corners Regional,Farmington,NM,USA,36.74,-108.23,False
+FMY,Page,Ft. Myers,FL,USA,26.59,-81.86,False
+FMZ,Fairmont State,Fairmont,NE,USA,40.59,-97.57,False
+FNB,Brenner,Falls City,NE,USA,40.08,-95.59,False
+FNL,Fort Collins-Loveland,Fort Collins/Loveland,CO,USA,40.45,-105.01,False
+FNR,Funter Bay SPB,Funter Bay,AK,USA,58.25,-134.90,False
+FNT,Bishop,Flint,MI,USA,42.97,-83.74,False
+FOA,Flora,Flora,IL,USA,38.66,-88.45,False
+FOD,Fort Dodge Municipal,Fort Dodge,IA,USA,42.55,-94.19,False
+FOE,Forbes,Topeka,KS,USA,38.95,-95.66,False
+FOK,Francis Gabreski,Westhampton Beach,NY,USA,40.84,-72.63,False
+FOT,Rohnerville,Fortuna,CA,USA,40.55,-124.13,False
+FPR,St. Lucie County International,Ft. Pierce,FL,USA,27.50,-80.37,False
+FQD,Rutherford County-Marchman,Rutherfordton,NC,USA,35.43,-81.94,False
+FRG,Republic,Farmingdale,NY,USA,40.73,-73.41,False
+FRH,French Lick Municipal,French Lick,IN,USA,38.51,-86.64,False
+FRM,Fairmont Municipal,Fairmont,MN,USA,43.64,-94.42,False
+FRR,Front Royal-Warren County,Front Royal,VA,USA,38.92,-78.25,False
+FSD,Joe Foss,Sioux Falls,SD,USA,43.58,-96.74,False
+FSE,Fosston Municipal,Fosston,MN,USA,47.59,-95.77,False
+FSK,Fort Scott Municipal,Fort Scott,KS,USA,37.80,-94.77,False
+FSM,Fort Smith Regional,Fort Smith,AR,USA,35.34,-94.37,False
+FSO,Franklin County State,Highgate,VT,USA,44.94,-73.10,False
+FST,Fort Stockton - Pecos County,Fort Stockton,TX,USA,30.92,-102.92,False
+FSU,Fort Sumner Municipal,Fort Sumner,NM,USA,34.48,-104.22,False
+FSW,Fort Madison Municipal,Fort Madison,IA,USA,40.66,-91.33,False
+FTG,Front Range,Denver,CO,USA,39.79,-104.54,False
+FTT,Elton Hensley Memorial,Fulton,MO,USA,38.84,-92.00,False
+FTW,Fort Worth Meacham International,Fort Worth,TX,USA,32.82,-97.36,False
+FTY,Fulton County - Brown,Atlanta,GA,USA,33.78,-84.52,False
+FUL,Fullerton Municipal,Fullerton,CA,USA,33.87,-117.98,False
+FVE,Northern Aroostook Regional,Frenchville,ME,USA,47.29,-68.31,False
+FVX,Farmville Municipal,Farmville,VA,USA,37.36,-78.44,False
+FWA,Fort Wayne International,Fort Wayne,IN,USA,40.98,-85.20,False
+FWC,Fairfield Municipal,Fairfield,IL,USA,38.38,-88.41,False
+FWN,Sussex,Sussex,NJ,USA,41.20,-74.62,False
+FWS,Spinks,Fort Worth,TX,USA,32.57,-97.31,False
+FXE,Fort Lauderdale Executive,Ft. Lauderdale,FL,USA,26.20,-80.17,False
+FXY,Forest City Municipal,Forest City,IA,USA,43.23,-93.62,False
+FYE,Fayette County,Somerville,TN,USA,35.21,-89.39,False
+FYM,Fayetteville Municipal,Fayetteville,TN,USA,35.06,-86.56,False
+FYU,Fort Yukon,Fort Yukon,AK,USA,66.57,-145.25,False
+FYV,Fayetteville Municipal,Fayetteville,AR,USA,36.01,-94.17,False
+FZG,Fitzgerald Municipal,Fitzgerald,GA,USA,31.68,-83.27,False
+FZI,Fostoria Metropolitan,Fostoria,OH,USA,41.19,-83.39,False
+FZY,Oswego Cty,Fulton,NY,USA,43.35,-76.39,False
+GAB,Gabbs,Gabbs,NV,USA,38.92,-117.96,False
+GAD,Gadsden Municipal,Gadsden,AL,USA,33.97,-86.09,False
+GAF,Grafton Municipal,Grafton,ND,USA,48.40,-97.37,False
+GAG,Gage,Gage,OK,USA,36.30,-99.78,False
+GAI,Montgomery Co Airpark,Gaithersburg,MD,USA,39.17,-77.17,False
+GAL,Edward G. Pitka Sr.,Galena,AK,USA,64.74,-156.94,False
+GAM,Gambell,Gambell,AK,USA,63.77,-171.73,False
+GAS,Gallia - Meigs Regional,Gallipolis,OH,USA,38.83,-82.16,False
+GBD,Great Bend Municipal,Great Bend,KS,USA,38.34,-98.86,False
+GBG,Galesburg Municipal,Galesburg,IL,USA,40.94,-90.43,False
+GBH,Galbraith Lake,Galbraith Lake,AK,USA,68.48,-149.49,False
+GBR,Great Barrington,Great Barrington,MA,USA,42.18,-73.40,False
+GCC,Gillette-Campbell County,Gillette,WY,USA,44.35,-105.54,False
+GCK,Garden City Regional,Garden City,KS,USA,37.93,-100.72,False
+GCM,Claremore Regional,Claremore,OK,USA,36.29,-95.48,False
+GCN,Grand Canyon National Park,Grand Canyon,AZ,USA,35.95,-112.15,False
+GCT,Guthrie County Regional,Guthrie Center,IA,USA,41.69,-94.44,False
+GCY,Greeneville Municipal,Greeneville,TN,USA,36.19,-82.82,False
+GDM,Gardner Municipal,Gardner,MA,USA,42.55,-72.02,False
+GDV,Dawson Community,Glendive,MT,USA,47.14,-104.81,False
+GDW,Gladwin,Gladwin,MI,USA,43.97,-84.48,False
+GDY,Grundy Municipal,Grundy,VA,USA,37.23,-82.12,False
+GED,Sussex Cty Arpt,Georgetown,DE,USA,38.69,-75.36,False
+GEG,Spokane Intl,Spokane,WA,USA,47.62,-117.53,False
+GEO,Brown County,Georgetown,OH,USA,38.88,-83.88,False
+GEU,Glendale Municipal,Glendale,AZ,USA,33.53,-112.30,False
+GEY,South Big Horn County,Greybull,WY,USA,44.52,-108.08,False
+GEZ,Shelbyville Municipal,Shelbyville,IN,USA,39.58,-85.80,False
+GFK,Grand Forks International,Grand Forks,ND,USA,47.95,-97.18,False
+GFL,Floyd D. Bennett,Glens Falls,NY,USA,43.34,-73.61,False
+GFZ,Greenfield Municipal,Greenfield,IA,USA,41.33,-94.45,False
+GGE,Georgetown County,Georgetown,SC,USA,33.31,-79.32,False
+GGF,Grant Municipal,Grant,NE,USA,40.87,-101.73,False
+GGG,Gregg County,Longview,TX,USA,32.38,-94.71,False
+GGI,Grinnell Municipal,Grinnell,IA,USA,41.71,-92.73,False
+GGP,Logansport Municipal,Logansport,IN,USA,40.71,-86.37,False
+GGW,Wokal Field/Glasgow Intl,Glasgow,MT,USA,48.21,-106.61,False
+GHM,Centerville Municipal,Centerville,TN,USA,35.84,-87.45,False
+GHW,Glenwood Municipal,Glenwood,MN,USA,45.64,-95.32,False
+GIF,Winter Havens Gilbert,Winter Haven,FL,USA,28.06,-81.75,False
+GJT,Walker,Grand Junction,CO,USA,39.12,-108.53,False
+GKJ,Port Meadville,Meadville,PA,USA,41.63,-80.21,False
+GKN,Gulkana,Gulkana,AK,USA,62.15,-145.46,False
+GKT,Gatlinburg-Pigeon Forge,Sevierville,TN,USA,35.86,-83.53,False
+GKY,Arlington Municipal,Arlington,TX,USA,32.66,-97.09,False
+GLD,Renner Field/Goodland Municipal,Goodland,KS,USA,39.37,-101.70,False
+GLE,Gainesville Municipal,Gainesville,TX,USA,33.65,-97.20,False
+GLH,Mid Delta Regional,Greenville,MS,USA,33.48,-90.99,False
+GLR,Otsego County,Gaylord,MI,USA,45.01,-84.70,False
+GLS,Galveston-Scholes,Galveston,TX,USA,29.27,-94.86,False
+GLW,Glasgow Municipal,Glasgow,KY,USA,37.03,-85.95,False
+GLY,Clinton Memorial,Clinton,MO,USA,38.36,-93.68,False
+GMJ,Grove Municipal,Grove,OK,USA,36.61,-94.74,False
+GMU,Greenville Downtown,Greenville,SC,USA,34.85,-82.35,False
+GNB,Granby-Grand County,Granby,CO,USA,40.09,-105.92,False
+GNF,Grenada Municipal,Grenada,MS,USA,33.83,-89.80,False
+GNG,Gooding Municipal,Gooding,ID,USA,42.92,-114.77,False
+GNT,Grants-Milan Municipal,Grants,NM,USA,35.17,-107.90,False
+GNU,Goodnews,Goodnews,AK,USA,59.12,-161.58,False
+GNV,Gainesville Regional,Gainesville,FL,USA,29.69,-82.27,False
+GOK,Guthrie Municipal,Guthrie,OK,USA,35.85,-97.42,False
+GON,Groton-New London,Groton,CT,USA,41.33,-72.05,False
+GPH,Clay County Regional,Mosby,MO,USA,39.33,-94.31,False
+GPM,Grand Prairie Municipal,Grand Prairie,TX,USA,32.70,-97.05,False
+GPT,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,USA,30.41,-89.07,False
+GPZ,Grand Rapids-Itasca County,Grand Rapids,MN,USA,47.21,-93.51,False
+GQQ,Galion Municipal,Galion,OH,USA,40.75,-82.72,False
+GRB,Austin Straubel International,Green Bay,WI,USA,44.49,-88.13,False
+GRD,Greenwood County,Greenwood,SC,USA,34.25,-82.16,False
+GRE,Greenville,Greenville,IL,USA,38.84,-89.38,False
+GRI,Central Nebraska Regional,Grand Island,NE,USA,40.97,-98.31,False
+GRK,Robert Gray AAF,Killeen,TX,USA,31.06,-97.83,False
+GRN,Gordon Municipal,Gordon,NE,USA,42.81,-102.18,False
+GRO,Rota International,Rota Island,CQ,USA,14.17,-145.24,False
+GRR,Kent County International,Grand Rapids,MI,USA,42.88,-85.52,False
+GSH,Goshen Municipal,Goshen,IN,USA,41.53,-85.79,False
+GSN,Saipan International,Obyan,CQ,USA,15.12,-145.73,False
+GSO,Piedmont Triad International,Greensboro,NC,USA,36.10,-79.94,False
+GSP,Greenville-Spartanburg,Greer,SC,USA,34.90,-82.22,False
+GST,Gustavus,Gustavus,AK,USA,58.42,-135.71,False
+GTF,Great Falls Intl,Great Falls,MT,USA,47.48,-111.37,False
+GTR,Golden Triangle Regional,Columbus-Starkville-West Point,MS,USA,33.45,-88.59,False
+GTU,Georgetown Municipal,Georgetown,TX,USA,30.68,-97.68,False
+GUC,Gunnison County,Gunnison,CO,USA,38.53,-106.93,False
+GUM,Guam International,Agana,GU,USA,13.48,-144.80,False
+GUP,Gallup Municipal,Gallup,NM,USA,35.51,-108.79,False
+GUY,Guymon Municipal,Guymon,OK,USA,36.69,-101.51,False
+GVL,Lee Gilmer Memorial,Gainesville,GA,USA,34.27,-83.83,False
+GVQ,Genesee Cty,Batavia,NY,USA,43.03,-78.17,False
+GVT,Majors,Greenville,TX,USA,33.07,-96.07,False
+GWO,Greenwood-Leflore,Greenwood,MS,USA,33.49,-90.08,False
+GWR,Gwinner-Roger Melroe,Gwinner,ND,USA,46.22,-97.64,False
+GWW,Goldsboro-Wayne Municipal,Goldsboro,NC,USA,35.46,-77.96,False
+GXY,Greeley-Weld County,Greeley,CO,USA,40.44,-104.63,False
+GYH,Donaldson Center,Greenville,SC,USA,34.76,-82.38,False
+GYR,Phoenix Goodyear,Goodyear,AZ,USA,33.42,-112.38,False
+GYY,Gary/Chicago,Gary,IN,USA,41.62,-87.41,False
+GZH,Middleton,Evergreen,AL,USA,31.42,-87.04,False
+GZS,Abernathy,Pulaski,TN,USA,35.15,-87.06,False
+H04,Vinita Municipal,Vinita,OK,USA,36.63,-95.15,False
+H05,Wilburton Municipal,Wilburton,OK,USA,34.92,-95.39,False
+H19,Bowling Green Municipal,Bowling Green,MO,USA,39.37,-91.22,False
+H21,Camdenton Memorial,Camdenton,MO,USA,37.97,-92.69,False
+H30,Hamilton Municipal,Hamilton,NY,USA,42.84,-75.56,False
+H35,Clarksville Municipal,Clarksville,AR,USA,35.47,-93.43,False
+H41,Memorial,Mexico,MO,USA,39.16,-91.82,False
+H45,Seminole Municipal,Seminole,OK,USA,35.27,-96.68,False
+H66,Nowata Municipal,Nowata,OK,USA,36.72,-95.63,False
+H71,Mid-America Industrial,Pryor,OK,USA,36.23,-95.33,False
+H79,Eldon Model Airpark,Eldon,MO,USA,38.36,-92.57,False
+H88,Municipal,Fredericktown,MO,USA,37.61,-90.29,False
+H92,Hominy,Hominy,OK,USA,36.43,-96.38,False
+H96,Benton Municipal,Benton,IL,USA,38.01,-88.93,False
+H97,Pawnee Municipal,Pawnee,OK,USA,36.38,-96.81,False
+HAB,Marion County,Hamilton,AL,USA,34.12,-88.00,False
+HAE,Hannibal Municipal,Hannibal,MO,USA,39.72,-91.44,False
+HAF,Half Moon Bay,Half Moon Bay,CA,USA,37.51,-122.50,False
+HAI,Three Rivers Municipal,Three Rivers,MI,USA,41.96,-85.59,False
+HAO,Hamilton-Fairfield,Hamilton,OH,USA,39.36,-84.52,False
+HAY,Haycock,Haycock,AK,USA,65.20,-161.16,False
+HBC,Mohall Municipal,Mohall,ND,USA,48.77,-101.54,False
+HBG,Bobby L. Chain Municipal,Hattiesburg,MS,USA,31.27,-89.25,False
+HBR,Hobart Municipal,Hobart,OK,USA,34.99,-99.05,False
+HBV,Jim Hogg County,Hebbronville,TX,USA,27.35,-98.74,False
+HBZ,Heber Springs Municipal,Heber Springs,AR,USA,35.51,-92.01,False
+HCD,Hutchinson Municipal,Hutchinson,MN,USA,44.86,-94.38,False
+HCO,Hallock Municipal,Hallock,MN,USA,48.75,-96.94,False
+HDC,Hammond Municipal,Hammond,LA,USA,30.52,-90.42,False
+HDE,Brewster,Holdredge,NE,USA,40.45,-99.34,False
+HDH,Dillingham Airfield,Mokuleia,HI,USA,21.58,-158.20,False
+HDI,Hardwick,Cleveland,TN,USA,35.22,-84.83,False
+HDN,Yampa Valley,Hayden,CO,USA,40.48,-107.22,False
+HDO,Hondo Municipal,Hondo,TX,USA,29.36,-99.18,False
+HEE,Thompson-Robbins,Helena-West Helena,AR,USA,34.58,-90.68,False
+HEF,Manassas Reg./Harry P Davis,Manassas,VA,USA,38.72,-77.52,False
+HEI,Hettinger Municipal,Hettinger,ND,USA,46.01,-102.66,False
+HEQ,Holyoke,Holyoke,CO,USA,40.57,-102.27,False
+HEZ,Natchez-Adams County,Natchez,MS,USA,31.61,-91.30,False
+HFD,Hartford Brainard,Hartford,CT,USA,41.74,-72.65,False
+HFY,Greenwood Municipal,Indianapolis/Greenwood,IN,USA,39.63,-86.09,False
+HGR,Hagerstown Regional-Richard Henson,Hagerstown,MD,USA,39.71,-77.73,False
+HHF,Hemphill County,Canadian,TX,USA,35.90,-100.40,False
+HHG,Huntington Municipal,Huntington,IN,USA,40.85,-85.46,False
+HHH,Hilton Head,,,USA,32.22,-80.70,False
+HHR,Jack Northrop Field/Hawthorne Municipal,Hawthorne,CA,USA,33.92,-118.34,False
+HHW,Stan Stamper Municipal,Hugo,OK,USA,34.03,-95.54,False
+HI01,Princeville,Hanalei,HI,USA,22.21,-159.45,False
+HIB,Chisholm-Hibbing,Hibbing,MN,USA,47.39,-92.84,False
+HIE,Mt Washington Regional,Whitefield,NH,USA,44.37,-71.54,False
+HIG,Higginsville Industrial Municipal,Higginsville,MO,USA,39.07,-93.68,False
+HII,Lake Havasu City,Lake Havasu City,AZ,USA,34.57,-114.36,False
+HIO,Portland-Hillsboro,Hillsboro (Portland),OR,USA,45.54,-122.95,False
+HJH,Hebron Municipal,Hebron,NE,USA,40.15,-97.59,False
+HJO,Hanford Municipal,Hanford,CA,USA,36.32,-119.63,False
+HKA,Blytheville Municipal,Blytheville,AR,USA,35.94,-89.83,False
+HKS,Hawkins,Jackson,MS,USA,32.33,-90.22,False
+HKY,Hickory Municipal,Hickory,NC,USA,35.74,-81.39,False
+HLC,Hill City Municipal,Hill City,KS,USA,39.38,-99.83,False
+HLG,Wheeling-Ohio Cty,Wheeling,WV,USA,40.17,-80.65,False
+HLN,Helena Regional,Helena,MT,USA,46.61,-111.98,False
+HLX,Twin County,Galax,VA,USA,36.77,-80.82,False
+HMT,Hemet-Ryan,Hemet,CA,USA,33.73,-117.02,False
+HMZ,Bedford County,Bedford,PA,USA,40.09,-78.51,False
+HNB,Huntingburg,Huntingburg,IN,USA,38.25,-86.95,False
+HNH,Hoonah,Hoonah,AK,USA,58.10,-135.41,False
+HNL,Honolulu International,Honolulu,HI,USA,21.32,-157.92,False
+HNM,Hana,Hana,HI,USA,20.80,-156.01,False
+HNR,Harlan Municipal,Harlan,IA,USA,41.58,-95.34,False
+HNS,Haines,Haines,AK,USA,59.25,-135.52,False
+HNZ,Henderson-Oxford,Oxford,NC,USA,36.36,-78.53,False
+HOB,Lea County Regional,Hobbs,NM,USA,32.69,-103.22,False
+HOC,Highland County,Hillsboro,OH,USA,39.19,-83.54,False
+HOE,Homerville,Homerville,GA,USA,31.06,-82.77,False
+HOM,Homer,Homer,AK,USA,59.65,-151.48,False
+HON,Huron Regional,Huron,SD,USA,44.39,-98.23,False
+HOT,Memorial,Hot Springs,AR,USA,34.48,-93.10,False
+HOU,William P Hobby,Houston,TX,USA,29.65,-95.28,False
+HPB,Hooper Bay,Hooper Bay,AK,USA,61.52,-166.15,False
+HPN,Westchester Cty,White Plains,NY,USA,41.07,-73.71,False
+HPT,Hampton Municipal,Hampton,IA,USA,42.72,-93.23,False
+HQG,Hugoton Municipal,Hugoton,KS,USA,37.16,-101.37,False
+HQM,Bowerman,Hoquiam,WA,USA,46.97,-123.94,False
+HQU,Thomson-McDuffie County,Thomson,GA,USA,33.53,-82.52,False
+HQZ,Mesquite Metro,Mesquite,TX,USA,32.75,-96.53,False
+HRI,Hermiston Muni,Hermiston,OR,USA,45.83,-119.26,False
+HRL,Valley International,Harlingen,TX,USA,26.23,-97.65,False
+HRO,Boone County,Harrison,AR,USA,36.26,-93.15,False
+HRR,Healy River,Healy,AK,USA,63.87,-148.97,False
+HRU,Herington Municipal,Herington,KS,USA,38.68,-96.81,False
+HRX,Hereford Municipal,Hereford,TX,USA,34.86,-102.33,False
+HSA,Stennis International,Bay St Louis,MS,USA,30.37,-89.45,False
+HSB,Harrisburg-Raleigh,Harrisburg,IL,USA,37.81,-88.55,False
+HSE,Billy Mitchell,Hatteras,NC,USA,35.23,-75.62,False
+HSI,Hastings Municipal,Hastings,NE,USA,40.61,-98.43,False
+HSL,Huslia,Huslia,AK,USA,65.70,-156.39,False
+HSP,Ingalls,Hot Springs,VA,USA,37.95,-79.83,False
+HSR,Hot Springs Municipal,Hot Springs,SD,USA,43.37,-103.39,False
+HSV,Huntsville International,Huntsville,AL,USA,34.64,-86.77,False
+HTH,Hawthorne Municipal,Hawthorne,NV,USA,38.54,-118.63,False
+HTL,Roscommon County,Houghton Lake,MI,USA,44.36,-84.67,False
+HTO,East Hampton,East Hampton,NY,USA,40.96,-72.25,False
+HTS,Tri-State/Walker-Long,Huntington,WV,USA,38.37,-82.56,False
+HTW,Lawrence County Airpark Inc,Chesapeake,OH,USA,38.42,-82.49,False
+HUF,Terre Haute International-Hulman,Terre Haute,IN,USA,39.45,-87.31,False
+HUL,Houlton International,Houlton,ME,USA,46.12,-67.79,False
+HUM,Houma-Terrebonne,Houma,LA,USA,29.57,-90.66,False
+HUS,Hughes,Hughes,AK,USA,66.04,-154.26,False
+HUT,Hutchinson Municipal,Hutchinson,KS,USA,38.07,-97.86,False
+HVC,Hopkinsville-Christian County,Hopkinsville,KY,USA,36.86,-87.46,False
+HVE,Hanksville,Hanksville,UT,USA,38.42,-110.70,False
+HVN,Tweed-New Haven,New Haven,CT,USA,41.26,-72.89,False
+HVR,Havre City-County,Havre,MT,USA,48.54,-109.76,False
+HVS,Hartsville Municipal,Hartsville,SC,USA,34.40,-80.12,False
+HWD,Hayward Executive,Hayward,CA,USA,37.66,-122.12,False
+HWI,Hawk Inlet SPB,Hawk Inlet,AK,USA,58.13,-134.76,False
+HWO,North Perry,Hollywood,FL,USA,26.00,-80.24,False
+HWQ,Wheatland County  At Harlowton,Harlowton,MT,USA,46.45,-109.85,False
+HWV,Brookhaven,Shirley,NY,USA,40.82,-72.86,False
+HXD,Hilton Head,Hilton Head Island,SC,USA,32.22,-80.70,False
+HXF,Hartford Municipal,Hartford,WI,USA,43.35,-88.39,False
+HYA,Barnstable Mun Boardman/Polando,Hyannis,MA,USA,41.67,-70.28,False
+HYG,Hydaburg SPB,Hydaburg,AK,USA,55.21,-132.83,False
+HYI,San Marcos Municipal,San Marcos,TX,USA,29.89,-97.86,False
+HYL,Hollis SPB,Hollis,AK,USA,55.48,-132.65,False
+HYR,Sawyer County,Hayward,WI,USA,46.03,-91.44,False
+HYS,Hays Municipal,Hays,KS,USA,38.84,-99.27,False
+HYW,Conway-Horry County,Conway,SC,USA,33.83,-79.12,False
+HZD,Carroll County,Huntingdon,TN,USA,36.09,-88.46,False
+HZE,Mercer County Regional,Hazen,ND,USA,47.29,-101.58,False
+HZL,Hazleton Muni,Hazleton,PA,USA,40.99,-75.99,False
+HZR,False River Air Park,New Roads,LA,USA,30.72,-91.48,False
+HZY,Ashtabula County,Ashtabula,OH,USA,41.78,-80.70,False
+I05,Sturgis Municipal,Sturgis,KY,USA,37.54,-87.95,False
+I12,Sidney Municipal,Sidney,OH,USA,40.24,-84.15,False
+I16,Kee,Pineville,WV,USA,37.60,-81.56,False
+I18,Jackson County,Ravenswood,WV,USA,38.93,-81.82,False
+I19,Greene County,Dayton,OH,USA,39.69,-83.99,False
+I22,Randolph County,Winchester,IN,USA,40.17,-84.93,False
+I23,Fayette County,Washington Court House,OH,USA,39.57,-83.42,False
+I25,Welch Muni,Welch,WV,USA,37.42,-81.53,False
+I32,Morehead-Rowan County,Morehead,KY,USA,38.13,-83.54,False
+I34,Greensburg-Decatur County,Greensburg,IN,USA,39.33,-85.52,False
+I35,Tucker-Guthrie Memorial,Harlan,KY,USA,36.86,-83.36,False
+I39,Madison County,Richmond,KY,USA,37.63,-84.33,False
+I40,Richard Downing,Coshocton,OH,USA,40.31,-81.85,False
+I42,Paoli Municipal,Paoli,IN,USA,38.58,-86.46,False
+I43,James A Rhodes,Jackson,OH,USA,38.98,-82.58,False
+I50,Stanton,Stanton,KY,USA,37.85,-83.85,False
+I57,Pike County,Waverly,OH,USA,39.17,-82.93,False
+I63,Mt. Sterling Municipal,Mt. Sterling,IL,USA,39.99,-90.80,False
+I66,Clinton,Wilmington,OH,USA,39.50,-83.86,False
+I67,Cincinnati West,Harrison,OH,USA,39.26,-84.77,False
+I68,Lebanon-Warren County,Lebanon,OH,USA,39.46,-84.25,False
+I69,Clermont County,Batavia,OH,USA,39.08,-84.21,False
+I74,Grimes,Urbana,OH,USA,40.13,-83.75,False
+I75,Osceola Municipal,Osceola,IA,USA,41.05,-93.69,False
+I76,Peru Municipal,Peru,IN,USA,40.79,-86.15,False
+I78,Union County,Marysville,OH,USA,40.22,-83.35,False
+I83,Salem Municipal,Salem,IN,USA,38.60,-86.14,False
+I86,Perry County,New Lexington,OH,USA,39.69,-82.20,False
+I88,Pontiac Municipal,Pontiac,IL,USA,40.92,-88.63,False
+I93,Breckinridge County,Hardinsburg,KY,USA,37.79,-86.44,False
+I95,Hardin County,Kenton,OH,USA,40.61,-83.64,False
+IAD,Washington Dulles International,Chantilly,VA,USA,38.94,-77.46,False
+IAG,Niagara Falls Intl,Niagara Falls,NY,USA,43.11,-78.95,False
+IAH,George Bush Intercontinental,Houston,TX,USA,29.98,-95.34,False
+IAN,Bob Baker Memorial,Kiana,AK,USA,66.98,-160.44,False
+IBM,Robert E. Arraj,Kimball,NE,USA,41.19,-103.68,False
+ICL,Schenck,Clarinda,IA,USA,40.72,-95.03,False
+ICT,Wichita Mid-Continent,Wichita,KS,USA,37.65,-97.43,False
+IDA,Idaho Falls Regional,Idaho Falls,ID,USA,43.51,-112.07,False
+IDI,Indiana Cty/Jimmy Stewart,Indiana,PA,USA,40.63,-79.11,False
+IDL,Indianola Municipal,Indianola,MS,USA,33.49,-90.68,False
+IDP,Independence Municipal,Independence,KS,USA,37.16,-95.78,False
+IEM,Whittier,Whittier,AK,USA,60.78,-148.72,False
+IEN,Pine Ridge,Pine Ridge,SD,USA,43.02,-102.51,False
+IER,Natchitoches Municipal,Natchitoches,LA,USA,31.74,-93.10,False
+IFA,Iowa Falls Municipal,Iowa Falls,IA,USA,42.47,-93.27,False
+IFP,Laughlin/Bullhead International,Bullhead City,AZ,USA,35.16,-114.56,False
+IGG,Igiugig,Igiugig,AK,USA,59.32,-155.90,False
+IGM,Kingman,Kingman,AZ,USA,35.26,-113.94,False
+IGQ,Lansing Municipal,Chicago/Lansing,IL,USA,41.54,-87.53,False
+IGT,Nightmute,Nightmute,AK,USA,60.47,-164.69,False
+IIB,Independence Municipal,Independence,IA,USA,42.45,-91.95,False
+IIK,Kipnuk,Kipnuk,AK,USA,59.93,-164.03,False
+IIY,Washington-Wilkes County,Washington,GA,USA,33.78,-82.82,False
+IJD,Windham,Willimantic,CT,USA,41.74,-72.18,False
+IJX,Jacksonville Municipal,Jacksonville,IL,USA,39.77,-90.24,False
+IKK,Greater Kankakee,Kankakee,IL,USA,41.07,-87.85,False
+IKV,Ankeny Regional,Ankeny,IA,USA,41.69,-93.57,False
+ILE,Killeen Municipal,Killeen,TX,USA,31.09,-97.69,False
+ILG,New Castle County,Wilmington,DE,USA,39.68,-75.61,False
+ILI,Iliamna,Iliamna,AK,USA,59.75,-154.91,False
+ILM,Wilmington International,Wilmington,NC,USA,34.27,-77.90,False
+IML,Imperial Municipal,Imperial,NE,USA,40.51,-101.62,False
+IMM,Immokalee,Immokalee,FL,USA,26.43,-81.40,False
+IMS,Madison Municipal,Madison,IN,USA,38.76,-85.47,False
+IMT,Ford,Iron Mountain/Kingsford,MI,USA,45.82,-88.11,False
+IN03,Indianapolis Downtown,Indianapolis,IN,USA,39.77,-86.15,False
+IND,Indianapolis International,Indianapolis,IN,USA,39.72,-86.29,False
+INK,Winkler County,Wink,TX,USA,31.78,-103.20,False
+INL,Falls International,International Falls,MN,USA,48.57,-93.40,False
+INT,Smith Reynolds,Winston-Salem,NC,USA,36.13,-80.22,False
+INW,Winslow-Lindbergh Regional,Winslow,AZ,USA,35.02,-110.72,False
+IOB,Mt Sterling-Montgomery County,Mount Sterling,KY,USA,38.06,-83.98,False
+IOW,Iowa City Municipal,Iowa City,IA,USA,41.64,-91.55,False
+IPJ,Lincoln County,Lincolnton,NC,USA,35.48,-81.16,False
+IPL,Imperial County,Imperial,CA,USA,32.83,-115.58,False
+IPT,Williamsport-Lycoming Cty,Williamsport,PA,USA,41.24,-76.92,False
+IRK,Kirksville Regional,Kirksville,MO,USA,40.09,-92.54,False
+IRS,Kirsch Municipal,Sturgis,MI,USA,41.81,-85.44,False
+ISM,Kissimmee Municipal,Orlando,FL,USA,28.29,-81.44,False
+ISN,Sloulin Field International,Williston,ND,USA,48.18,-103.64,False
+ISO,Kinston Regional Jetport At Stallin,Kinston,NC,USA,35.33,-77.62,False
+ISP,Long Island - MacArthur,Islip,NY,USA,40.80,-73.10,False
+ISQ,Schoolcraft County,Manistique,MI,USA,45.97,-86.17,False
+ISW,Alexander,Wisconsin Rapids,WI,USA,44.36,-89.84,False
+ISZ,Cincinnati-Blue Ash,Cincinnati,OH,USA,39.25,-84.39,False
+ITH,Tompkins Cty,Ithaca,NY,USA,42.49,-76.46,False
+ITO,Hilo International,Hilo,HI,USA,19.72,-155.05,False
+ITR,Kit Carson County,Burlington,CO,USA,39.24,-102.29,False
+IWA,Williams Gateway,Phoenix,AZ,USA,33.31,-111.66,False
+IWD,Gogebic County,Ironwood,MI,USA,46.53,-90.13,False
+IWH,Wabash Municipal,Wabash,IN,USA,40.76,-85.80,False
+IWI,Wiscasset,Wiscasset,ME,USA,43.96,-69.71,False
+IWK,Wales,Wales,AK,USA,65.62,-168.10,False
+IWS,West Houston,Houston,TX,USA,29.82,-95.67,False
+IXD,New Century Aircenter,Olathe,KS,USA,38.83,-94.89,False
+IYK,Inyokern,Inyokern,CA,USA,35.66,-117.83,False
+IYS,Wasilla,Wasilla,AK,USA,61.57,-149.54,False
+IZA,Santa Ynez,Santa Ynez,CA,USA,34.61,-120.08,False
+IZG,Eastern Slopes Regional,Fryeburg,ME,USA,43.99,-70.95,False
+JAC,Jackson Hole,Jackson,WY,USA,43.61,-110.74,False
+JAN,Jackson International,Jackson,MS,USA,32.31,-90.08,False
+JAS,Jasper County -Bell,Jasper,TX,USA,30.89,-94.03,False
+JAU,Campbell County,Jacksboro,TN,USA,36.33,-84.16,False
+JAX,Jacksonville International,Jacksonville,FL,USA,30.49,-81.69,False
+JBR,Jonesboro Municipal,Jonesboro,AR,USA,35.83,-90.65,False
+JCT,Kimble County,Junction,TX,USA,30.51,-99.76,False
+JDN,Jordan,Jordan,MT,USA,47.33,-106.93,False
+JEF,Jefferson City Memorial,Jefferson City,MO,USA,38.59,-92.16,False
+JER,Jerome County,Jerome,ID,USA,42.73,-114.46,False
+JES,Jesup-Wayne County,Jesup,GA,USA,31.55,-81.88,False
+JFK,John F Kennedy Intl,New York,NY,USA,40.64,-73.78,True
+JFX,Walker County,Jasper,AL,USA,33.90,-87.31,False
+JHM,Kapalua,Lahaina,HI,USA,20.96,-156.67,False
+JHW,Chautauqua Cty,Jamestown,NY,USA,42.15,-79.26,False
+JKA,Jack Edwards,Gulf Shores,AL,USA,30.29,-87.67,False
+JKJ,Moorhead Municipal,Moorhead,MN,USA,46.84,-96.66,False
+JKL,Julian Carroll,Jackson,KY,USA,37.59,-83.32,False
+JLN,Joplin Regional,Joplin,MO,USA,37.15,-94.50,False
+JMR,Mora Municipal,Mora,MN,USA,45.89,-93.27,False
+JMS,Jamestown Municipal,Jamestown,ND,USA,46.93,-98.68,False
+JNU,Juneau International,Juneau,AK,USA,58.35,-134.58,False
+JNX,Johnston County,Smithfield,NC,USA,35.54,-78.39,False
+JOT,Joliet Park District,Chicago/Joliet,IL,USA,41.52,-88.18,False
+JQF,Concord Regional,Concord,NC,USA,35.39,-80.71,False
+JRA,Port Authority-W 30th St Midtown Heliport,New York,NY,USA,40.75,-74.01,False
+JRB,Downtown Manhattan/Wall St. Heliport,New York,NY,USA,40.70,-74.01,False
+JRF,Kalaeloa (John Rodgers ),Kapolei,HI,USA,21.31,-158.07,False
+JSO,Jacksonville-Cherokee County,Jacksonville,TX,USA,31.87,-95.22,False
+JST,Johnstown-Cambria Cty,Johnstown,PA,USA,40.32,-78.83,False
+JVL,Rock County,Janesville,WI,USA,42.62,-89.04,False
+JVY,Clark County,Jeffersonville,IN,USA,38.37,-85.74,False
+JWG,Watonga,Watonga,OK,USA,35.86,-98.42,False
+JWN,John C. Tune,Nashville,TN,USA,36.18,-86.89,False
+JXN,Jackson County Reynolds,Jackson,MI,USA,42.26,-84.46,False
+JYG,St James Municipal,St James,MN,USA,43.99,-94.56,False
+JYL,Plantation Airpark,Sylvania,GA,USA,32.65,-81.60,False
+JYM,Hillsdale Municipal,Hillsdale,MI,USA,41.92,-84.59,False
+JYO,Leesburg Executive,Leesburg,VA,USA,39.08,-77.56,False
+JYR,Municipal,York,NE,USA,40.90,-97.62,False
+JZI,Charleston Executive,Charleston,SC,USA,32.70,-80.00,False
+JZP,Pickens County,Jasper,GA,USA,34.45,-84.46,False
+JZZ,Koliganek,Koliganek,AK,USA,59.73,-157.26,False
+K01,Farington,Auburn,NE,USA,40.39,-95.79,False
+K02,Perryville Municipal,Perryville,MO,USA,37.87,-89.86,False
+K06,Greater Beardstown,Beardstown,IL,USA,39.97,-90.40,False
+K09,Piseco Muni,Piseco,NY,USA,43.45,-74.52,False
+K15,Linn Creek-Grand Glaize Memorial,Osage Beach,MO,USA,38.11,-92.68,False
+K20,Wendell H. Ford,Hazard,KY,USA,37.39,-83.26,False
+K22,Big Sandy Regional,Prestonburg,KY,USA,37.75,-82.64,False
+K24,Russell County,Jamestown,KY,USA,37.01,-85.10,False
+K29,Council,Council,AK,USA,64.90,-163.70,False
+K33,Salem Memorial,Salem,MO,USA,37.62,-91.60,False
+K34,Municipal,Gardner,KS,USA,38.81,-94.96,False
+K39,St Clair Memorial,St Clair,MO,USA,38.38,-90.97,False
+K46,Blair Municipal,Blair,NE,USA,41.42,-96.11,False
+K54,Teller,Teller,AK,USA,65.24,-166.34,False
+K57,Gould Peterson Municipal,Tarkio,MO,USA,40.45,-95.36,False
+K59,Amelia Earhart,Atchison,KS,USA,39.57,-95.18,False
+K61,Moritz Memorial,Beloit,KS,USA,39.47,-98.13,False
+K62,Falmouth Pendleton County,Falmouth,KY,USA,38.70,-84.39,False
+K67,Oswego Municipal,Oswego,KS,USA,37.16,-95.04,False
+K68,Garnett Municipal,Garnett,KS,USA,38.28,-95.22,False
+K78,Abilene Municipal,Abilene.,KS,USA,38.90,-97.24,False
+K81,Miami County,Paola,KS,USA,38.54,-94.93,False
+K82,Smith Center Municipal,Smith Center,KS,USA,39.76,-98.79,False
+K83,Sabetha Municipal,Sabetha,KS,USA,39.90,-95.78,False
+K88,Allen County,Iola,KS,USA,37.87,-95.39,False
+K89,Macon-Fower Memorial,Macon,MO,USA,39.73,-92.46,False
+K96,Tuscola,Tuscola,IL,USA,39.78,-88.31,False
+KAE,Kake SPB,Kake,AK,USA,56.97,-133.95,False
+KAL,Kaltag,Kaltag,AK,USA,64.33,-158.74,False
+KCC,Coffman Cove SPB,Coffman Cove,AK,USA,56.00,-132.84,False
+KCL,Chignik Lagoon,Chignik Flats,AK,USA,56.31,-158.54,False
+KEB,English Bay,English Bay,AK,USA,59.35,-151.93,False
+KEK,Ekwok,Ekwok,AK,USA,59.35,-157.47,False
+KFP,False Pass,False Pass,AK,USA,54.85,-163.41,False
+KGX,Grayling,Grayling,AK,USA,62.89,-160.06,False
+KIB,Ivanof Bay SPB,Ivanof Bay,AK,USA,55.90,-159.49,False
+KIC,Mesa Del Rey,King City,CA,USA,36.23,-121.12,False
+KKA,Koyuk,Koyuk,AK,USA,64.93,-161.16,False
+KKB,Kitoi Bay SPB,Kitoi Bay,AK,USA,58.19,-152.37,False
+KLG,Kalskag,Kalskag,AK,USA,61.54,-160.34,False
+KLL,Levelock,Levelock,AK,USA,59.12,-156.87,False
+KLS,Kelso-Longview,Kelso,WA,USA,46.12,-122.90,False
+KNB,Kanab Muni,Kanab,UT,USA,37.01,-112.53,False
+KNW,Stuyahok,New Stuyahok,AK,USA,59.45,-157.33,False
+KOA,Kona International At Keahole,Kailua/Kona,HI,USA,19.74,-156.05,False
+KPB,Point Baker SPB,Point Baker,AK,USA,56.35,-133.62,False
+KPH,Pauloff Harbor SPB,Pauloff Harbor,AK,USA,54.46,-162.69,False
+KQA,Akutan SPB,Akutan,AK,USA,54.13,-165.79,False
+KSM,St. Mary's,St. Mary's,AK,USA,62.06,-163.30,False
+KTB,Thorne Bay,Thorne Bay,AK,USA,55.69,-132.54,False
+KTN,Ketchikan International,Ketchikan,AK,USA,55.36,-131.71,False
+KTS,Brevig Mission,Brevig Mission,AK,USA,65.33,-166.46,False
+KVC,King Cove,King Cove,AK,USA,55.12,-162.27,False
+KVL,Kivalina,Kivalina,AK,USA,67.73,-164.55,False
+KWT,Kwethluk,Kwethluk,AK,USA,60.80,-161.45,False
+KXA,Kasaan SPB,Kasaan,AK,USA,55.54,-132.40,False
+KYK,Karluk,Karluk,AK,USA,57.57,-154.45,False
+KYU,Koyukuk,Koyukuk,AK,USA,64.88,-157.72,False
+L04,Holtville,Holtville,CA,USA,32.84,-115.27,False
+L05,Kern Valley,Kernville,CA,USA,35.73,-118.42,False
+L06,Furnace Creek,Death Valley National Park,CA,USA,36.46,-116.88,False
+L08,Borrego Valley,Borrego Springs,CA,USA,33.26,-116.32,False
+L12,Redlands Municipal,Redlands,CA,USA,34.09,-117.15,False
+L15,Henderson,Las Vegas,NV,USA,35.98,-115.13,False
+L17,Taft-Kern County,Taft,CA,USA,35.14,-119.44,False
+L18,Fallbrook Community Airpark,Fallbrook,CA,USA,33.35,-117.25,False
+L19,Wasco-Kern County,Wasco,CA,USA,35.62,-119.35,False
+L26,Hesperia,Hesperia,CA,USA,34.38,-117.32,False
+L31,Greater St. Tammany Parish,Covington,LA,USA,30.45,-89.99,False
+L35,Big Bear City,Big Bear,CA,USA,34.26,-116.85,False
+L38,Louisiana Regional,Gonzales,LA,USA,30.17,-90.94,False
+L39,Leesville,Leesville,LA,USA,31.17,-93.34,False
+L42,Allen Parish,Oakdale,LA,USA,30.75,-92.69,False
+L45,Bakersfield Municipal,Bakersfield,CA,USA,35.32,-119.00,False
+L49,South Lafourche,Galliano,LA,USA,29.44,-90.26,False
+L52,Oceano County,Oceano,CA,USA,35.10,-120.62,False
+L67,Rialto Municipal,Rialto,CA,USA,34.13,-117.40,False
+L70,Agua Dulce Airpark,Agua Dulce,CA,USA,34.50,-118.31,False
+L71,California City Municipal,California City,CA,USA,35.15,-118.02,False
+L72,Trona,Trona,CA,USA,35.81,-117.33,False
+L75,Southland,Sulphur,LA,USA,30.13,-93.38,False
+L83,Thibodaux Municipal,Thibodaux,LA,USA,29.75,-90.83,False
+L84,Lost Hills-Kern County,Lost Hills,CA,USA,35.62,-119.69,False
+L92,Alamo Landing,Alamo,NV,USA,37.36,-115.19,False
+LAA,Lamar Muni,Lamar,CO,USA,38.07,-102.69,False
+LAF,Purdue University,Lafayette,IN,USA,40.41,-86.94,False
+LAL,Lakeland Linder Regional,Lakeland,FL,USA,27.99,-82.02,False
+LAM,Los Alamos,Los Alamos,NM,USA,35.88,-106.27,False
+LAN,Capital City,Lansing,MI,USA,42.78,-84.59,False
+LAR,Laramie Regional,Laramie,WY,USA,41.31,-105.67,False
+LAS,McCarran International,Las Vegas,NV,USA,36.08,-115.15,False
+LAW,Lawton-Ft Sill Regional,Lawton,OK,USA,34.57,-98.42,False
+LAX,Los Angeles International,Los Angeles,CA,USA,33.94,-118.41,True
+LBB,Lubbock International,Lubbock,TX,USA,33.66,-101.82,False
+LBE,Arnold Palmer Regional,Latrobe,PA,USA,40.28,-79.40,False
+LBF,North Platte Regional,North Platte,NE,USA,41.13,-100.68,False
+LBL,Liberal Municipal,Liberal,KS,USA,37.04,-100.96,False
+LBO,Floyd W Jones Lebanon,Lebanon,MO,USA,37.65,-92.65,False
+LBT,Lumberton Municipal,Lumberton,NC,USA,34.61,-79.06,False
+LBX,Brazoria County,Angleton,TX,USA,29.11,-95.46,False
+LCG,Wayne Municipal,Wayne,NE,USA,42.24,-96.98,False
+LCH,Lake Charles Regional,Lake Charles,LA,USA,30.13,-93.22,False
+LCI,Laconia Municipal,Laconia,NH,USA,43.57,-71.42,False
+LCK,Rickenbacker International,Columbus,OH,USA,39.81,-82.93,False
+LCQ,Lake City Municipal,Lake City,FL,USA,30.18,-82.58,False
+LDJ,Linden,Linden,NJ,USA,40.62,-74.24,False
+LDM,Mason County,Ludington,MI,USA,43.96,-86.41,False
+LEB,Lebanon Municipal,Lebanon,NH,USA,43.63,-72.30,False
+LEE,Leesburg Regional,Leesburg,FL,USA,28.82,-81.81,False
+LEM,Lemmon Municipal,Lemmon,SD,USA,45.92,-102.11,False
+LEW,Auburn-Lewiston Municipal,Auburn-Lewiston,ME,USA,44.05,-70.28,False
+LEX,Blue Grass,Lexington,KY,USA,38.04,-84.61,False
+LFK,Lufkin-Angelina County,Lufkin,TX,USA,31.23,-94.75,False
+LFT,Lafayette Regional,Lafayette,LA,USA,30.21,-91.99,False
+LGA,LaGuardia,New York,NY,USA,40.78,-73.87,False
+LGB,Long Beach (Daugherty ),Long Beach,CA,USA,33.82,-118.15,False
+LGC,LaGrange-Callaway,Lagrange,GA,USA,33.01,-85.07,False
+LGD,La Grande/Union County,La Grande,OR,USA,45.29,-118.01,False
+LGU,Logan-Cache,Logan,UT,USA,41.79,-111.85,False
+LHD,Lake Hood SPB,Anchorage,AK,USA,61.18,-149.97,False
+LHM,Lincoln Regional,Lincoln,CA,USA,38.91,-121.35,False
+LHQ,Fairfield County,Lancaster,OH,USA,39.76,-82.66,False
+LHV,Wm T Piper Memorial,Lock Haven,PA,USA,41.14,-77.42,False
+LHX,La Junta Muni,La Junta,CO,USA,38.05,-103.51,False
+LHZ,Franklin County,Louisburg,NC,USA,36.02,-78.33,False
+LIC,Limon Municipal,Limon,CO,USA,39.27,-103.67,False
+LIH,Lihue,Lihue,HI,USA,21.98,-159.34,False
+LIT,Adams,Little Rock,AR,USA,34.73,-92.22,False
+LJF,Litchfield Municipal,Litchfield,MN,USA,45.10,-94.51,False
+LKP,Lake Placid,Lake Placid,NY,USA,44.26,-73.96,False
+LKR,Lancaster County,Lancaster,SC,USA,34.72,-80.85,False
+LKU,Louisa County / Freeman,Louisa,VA,USA,38.01,-77.97,False
+LKV,Lake County,Lakeview,OR,USA,42.16,-120.40,False
+LLJ,Challis,Challis,ID,USA,44.52,-114.22,False
+LLQ,Monticello Municipal,Monticello,AR,USA,33.64,-91.75,False
+LLU,Lamar Municipal,Lamar,MO,USA,37.49,-94.31,False
+LMS,Louisville-Winston County,Louisville,MS,USA,33.15,-89.06,False
+LMT,Klamath Falls International,Klamath Falls,OR,USA,42.16,-121.73,False
+LNA,Palm Beach County Park,Lantana,FL,USA,26.59,-80.09,False
+LNC,Lancaster,Lancaster,TX,USA,32.58,-96.72,False
+LND,Hunt,Lander,WY,USA,42.82,-108.73,False
+LNK,Lincoln Municipal,Lincoln,NE,USA,40.85,-96.76,False
+LNL,Kings Land O' Lakes,Land O' Lakes,WI,USA,46.15,-89.21,False
+LNN,Lost Nation,Willoughby,OH,USA,41.68,-81.39,False
+LNP,Lonesome Pine,Wise,VA,USA,36.99,-82.53,False
+LNS,Lancaster,Lancaster,PA,USA,40.12,-76.30,False
+LNY,Lanai,Lanai City,HI,USA,20.79,-156.95,False
+LOL,Derby,Lovelock,NV,USA,40.07,-118.57,False
+LOT,Lewis University,Chicago/Romeoville,IL,USA,41.61,-88.09,False
+LOU,Bowman,Louisville,KY,USA,38.23,-85.66,False
+LOZ,London-Corbin  Magee,London,KY,USA,37.09,-84.08,False
+LPC,Lompoc,Lompoc,CA,USA,34.67,-120.47,False
+LPR,Lorain Co Regional,Lorain/Elyria,OH,USA,41.34,-82.18,False
+LQK,Pickens County,Pickens,SC,USA,34.81,-82.70,False
+LQR,Larned-Pawnee County,Larned,KS,USA,38.21,-99.09,False
+LRD,Laredo International,Laredo,TX,USA,27.54,-99.46,False
+LRG,Lincoln Regional,Lincoln,ME,USA,45.36,-68.53,False
+LRJ,Le Mars Municipal,Le Mars,IA,USA,42.78,-96.19,False
+LRU,Las Cruces International,Las Cruces,NM,USA,32.29,-106.92,False
+LSB,Lordsburg Municipal,Lordsburg,NM,USA,32.33,-108.69,False
+LSE,La Crosse Municipal,La Crosse,WI,USA,43.88,-91.26,False
+LSK,Lusk Muni,Lusk,WY,USA,42.75,-104.40,False
+LSN,Los Banos Municipal,Los Banos,CA,USA,37.06,-120.87,False
+LUG,Ellington,Lewisburg,TN,USA,35.51,-86.80,False
+LUK,Cincinnati Muni-Lunken,Cincinnati,OH,USA,39.10,-84.42,False
+LUL,Hesler-Noble,Laurel,MS,USA,31.67,-89.17,False
+LUP,Kalaupapa,Kalaupapa,HI,USA,21.21,-156.97,False
+LVJ,Clover,Houston,TX,USA,29.52,-95.24,False
+LVK,Livermore Municipal,Livermore,CA,USA,37.69,-121.82,False
+LVM,Mission,Livingston,MT,USA,45.70,-110.45,False
+LVN,Airlake,Minneapolis,MN,USA,44.63,-93.23,False
+LVS,Las Vegas Municipal,Las Vegas,NM,USA,35.65,-105.14,False
+LWB,Greenbrier Valley,Lewisburg,WV,USA,37.86,-80.40,False
+LWC,Lawrence Municipal,Lawrence,KS,USA,39.01,-95.22,False
+LWD,Lamoni Municipal,Lamoni,IA,USA,40.63,-93.90,False
+LWL,Wells Municipal/Harriet,Wells,NV,USA,41.12,-114.92,False
+LWM,Lawrence Municipal,Lawrence,MA,USA,42.72,-71.12,False
+LWS,Lewiston-Nez Perce County,Lewiston,ID,USA,46.37,-117.02,False
+LWT,Lewistown Muni,Lewistown,MT,USA,47.05,-109.47,False
+LWV,Lawrenceville-Vincennes Municipal,Lawrenceville,IL,USA,38.76,-87.61,False
+LXL,Little Falls - Morrison County,Little Falls,MN,USA,45.95,-94.35,False
+LXN,Lexington (Jim Kelly ),Lexington,NE,USA,40.79,-99.78,False
+LXT,Lee's Summit Municipal,Lee's Summit,MO,USA,38.96,-94.37,False
+LXV,Lake County,Leadville,CO,USA,39.22,-106.32,False
+LXY,Mexia-Limestone County,Mexia,TX,USA,31.64,-96.51,False
+LYH,Lynchburg Municipal-Preston Glenn,Lynchburg,VA,USA,37.33,-79.20,False
+LYO,Lyons-Rice County Municipal,Lyons,KS,USA,38.34,-98.23,False
+LZU,Gwinnett County,Lawrenceville,GA,USA,33.98,-83.96,False
+M01,General Dewitt Spain,Memphis,TN,USA,35.20,-90.05,False
+M02,Dickson Municipal,Dickson,TN,USA,36.13,-87.43,False
+M03,Dennis F Cantrell,Conway,AR,USA,35.08,-92.42,False
+M04,Covington Municipal,Covington,TN,USA,35.58,-89.59,False
+M05,Caruthersville Memorial,Caruthersville,MO,USA,36.18,-89.68,False
+M08,William L. Whitehurst,Bolivar,TN,USA,35.21,-89.04,False
+M09,Piedmont Municipal,Piedmont,MO,USA,37.13,-90.71,False
+M11,Copiah County,Crystal Springs,MS,USA,31.90,-90.37,False
+M13,Poplarville-Pearl River County,Poplarville,MS,USA,30.79,-89.50,False
+M15,Perry County,Linden,TN,USA,35.60,-87.88,False
+M16,John Bell Williams,Raymond,MS,USA,32.30,-90.41,False
+M17,Bolivar Municipal,Bolivar,MO,USA,37.60,-93.35,False
+M18,Hope Municipal,Hope,AR,USA,33.72,-93.66,False
+M19,Newport Municipal,Newport,AR,USA,35.64,-91.18,False
+M21,Muhlenberg County,Greenville,KY,USA,37.23,-87.16,False
+M22,Russellville Municipal,Russellville,AL,USA,34.45,-87.71,False
+M23,James H. Easom,Newton,MS,USA,32.31,-89.14,False
+M24,Dean Griffin Memorial,Wiggins,MS,USA,30.84,-89.16,False
+M25,Mayfield-Graves County,Mayfield,KY,USA,36.77,-88.58,False
+M27,Waldron Municipal,Waldron,AR,USA,34.88,-94.11,False
+M29,Hassel,Clifton,TN,USA,35.39,-87.97,False
+M30,Metropolis Municipal,Metropolis,IL,USA,37.19,-88.75,False
+M32,Lake Village Municipal,Lake Village,AR,USA,33.35,-91.32,False
+M33,Sumner County Regional,Gallatin,TN,USA,36.38,-86.41,False
+M34,Kentucky Dam State Park,Gilbertsville,KY,USA,37.01,-88.30,False
+M36,Frank Federer Memorial,Brinkley,AR,USA,34.88,-91.18,False
+M37,Ruleville-Drew,Drew,MS,USA,33.78,-90.53,False
+M39,Mena Intermountain Municipal,Mena,AR,USA,34.55,-94.20,False
+M40,Monroe County,Aberdeen-Amory,MS,USA,33.87,-88.49,False
+M41,Holly Springs-Marshall County,Holly Springs,MS,USA,34.80,-89.52,False
+M43,Prentiss-Jefferson Davis County,Prentiss,MS,USA,31.60,-89.91,False
+M44,Houston Municipal,Houston,MS,USA,33.89,-89.02,False
+M46,Colstrip,Colstrip,MT,USA,45.85,-106.71,False
+M48,Houston Memorial,Houston,MO,USA,37.33,-91.97,False
+M52,Franklin-Wilkins,Lexington,TN,USA,35.65,-88.38,False
+M53,Humboldt Municipal,Humboldt,TN,USA,35.80,-88.87,False
+M54,Lebanon Municipal,Lebanon,TN,USA,36.19,-86.32,False
+M58,Monett Municipal,Monett,MO,USA,36.91,-94.01,False
+M59,Richton-Perry County,Richton,MS,USA,31.32,-88.94,False
+M60,Woodruff County,Augusta,AR,USA,35.27,-91.27,False
+M65,Wynne Municipal,Wynne,AR,USA,35.23,-90.76,False
+M70,Pocahontas Municipal,Pocahontas,AR,USA,36.25,-90.96,False
+M72,New Albany-Union County,New Albany,MS,USA,34.55,-89.02,False
+M73,Almyra Municipal,Almyra,AR,USA,34.41,-91.47,False
+M75,Malta,Malta,MT,USA,48.37,-107.92,False
+M76,Picayune Municipal,Picayune,MS,USA,30.49,-89.65,False
+M77,Howard County,Nashville,AR,USA,34.00,-93.84,False
+M78,Malvern Municipal,Malvern,AR,USA,34.33,-92.76,False
+M79,John H Hooks Jr Memorial,Rayville,LA,USA,32.49,-91.77,False
+M82,Madison County Executive,Huntsville,AL,USA,34.86,-86.56,False
+M83,McCharen,West Point,MS,USA,33.58,-88.67,False
+M89,Dexter B. Florence Memorial,Arkadelphia,AR,USA,34.10,-93.07,False
+M91,Springfield-Robertson County,Springfield,TN,USA,36.54,-86.92,False
+M95,Richard Arthur,Fayette,AL,USA,33.71,-87.82,False
+M97,Tunica Municipal,Tunica,MS,USA,34.69,-90.35,False
+M99,Saline County/Watts,Benton,AR,USA,34.56,-92.61,False
+MAC,Herbert Smart Downtown,Macon,GA,USA,32.82,-83.56,False
+MAE,Madera Municipal,Madera,CA,USA,36.99,-120.11,False
+MAF,Midland International,Midland,TX,USA,31.94,-102.20,False
+MAI,Marianna Municipal,Marianna,FL,USA,30.84,-85.18,False
+MAL,Malone-Dufort,Malone,NY,USA,44.85,-74.33,False
+MAO,Marion County,Marion,SC,USA,34.18,-79.33,False
+MAW,Malden Municipal,Malden,MO,USA,36.60,-89.99,False
+MAZ,Eugenio Maria De Hostos,Mayaguez,PR,USA,18.26,-67.15,False
+MBG,Mobridge Municipal,Mobridge,SD,USA,45.55,-100.41,False
+MBL,Manistee County Blacker,Manistee,MI,USA,44.27,-86.25,False
+MBO,Bruce Campbell,Madison,MS,USA,32.44,-90.10,False
+MBS,Mbs International,Saginaw,MI,USA,43.53,-84.08,False
+MBT,Murfreesboro Municipal,Murfreesboro,TN,USA,35.88,-86.38,False
+MBY,Omar N Bradley,Moberly,MO,USA,39.46,-92.43,False
+MCB,McComb-Pike County,McComb,MS,USA,31.18,-90.47,False
+MCD,Mackinac Island,Mackinac Island,MI,USA,45.86,-84.64,False
+MCE,Merced Municipal/MacReady,Merced,CA,USA,37.28,-120.51,False
+MCG,McGrath,McGrath,AK,USA,62.95,-155.61,False
+MCI,Kansas City International,Kansas City,MO,USA,39.30,-94.71,False
+MCK,McCook Municipal,McCook,NE,USA,40.21,-100.59,False
+MCN,Middle Georgia Regional,Macon,GA,USA,32.69,-83.65,False
+MCO,Orlando International,Orlando,FL,USA,28.43,-81.32,False
+MCW,Mason City Municipal,Mason City,IA,USA,43.16,-93.33,False
+MCX,White County,Monticello,IN,USA,40.71,-86.77,False
+MCZ,Martin County,Williamston,NC,USA,35.86,-77.18,False
+MDD,Midland Airpark,Midland,TX,USA,32.04,-102.10,False
+MDF,Mooreland Municipal,Mooreland,OK,USA,36.48,-99.19,False
+MDH,Southern Illinois,Carbondale,IL,USA,37.78,-89.25,False
+MDR,Medfra,Medfra,AK,USA,63.11,-154.72,False
+MDS,Madison Municipal,Madison,SD,USA,44.02,-97.09,False
+MDT,Harrisburg Intl,Harrisburg,PA,USA,40.19,-76.76,False
+MDW,Chicago Midway,Chicago,IL,USA,41.79,-87.75,False
+MDZ,Taylor County,Medford,WI,USA,45.10,-90.30,False
+MEB,Laurinburg-Maxton,Maxton,NC,USA,34.79,-79.37,False
+MEI,Key,Meridian,MS,USA,32.33,-88.75,False
+MEJ,Meade Municipal,Meade,KS,USA,37.28,-100.36,False
+MEM,Memphis International,Memphis,TN,USA,35.04,-89.98,False
+MER,Castle,Atwater,CA,USA,37.38,-120.57,False
+MEV,Minden-Tahoe,Minden,NV,USA,39.00,-119.75,False
+MEY,Mapleton Municipal,Mapleton,IA,USA,42.18,-95.79,False
+MFD,Mansfield Lahm Municipal,Mansfield,OH,USA,40.82,-82.52,False
+MFE,McAllen Miller International,McAllen,TX,USA,26.18,-98.24,False
+MFI,Marshfield Municipal,Marshfield,WI,USA,44.64,-90.19,False
+MFR,Rogue Valley International,Medford,OR,USA,42.37,-122.87,False
+MFV,Accomack County,Melfa,VA,USA,37.65,-75.76,False
+MGC,Michigan City Municipal,Michigan City,IN,USA,41.70,-86.82,False
+MGJ,Orange Cty,Montgomery,NY,USA,41.51,-74.26,False
+MGM,Montgomery Regional Apt,Montgomery,AL,USA,32.30,-86.39,False
+MGR,Moultrie Municipal,Moultrie,GA,USA,31.08,-83.80,False
+MGW,Morgantown Muni-Walter L. Bill Hart Fld.,Morgantown,WV,USA,39.64,-79.92,False
+MGY,Dayton Wright Brothers,Dayton,OH,USA,39.59,-84.22,False
+MHE,Mitchell Municipal,Mitchell,SD,USA,43.77,-98.04,False
+MHK,Manhattan Regional,Manhattan,KS,USA,39.14,-96.67,False
+MHL,Marshall Memorial Municipal,Marshall,MO,USA,39.10,-93.20,False
+MHM,Minchumina,Minchumina,AK,USA,63.88,-152.30,False
+MHP,Metter Municipal,Metter,GA,USA,32.37,-82.08,False
+MHR,Sacramento Mather,Sacramento,CA,USA,38.55,-121.30,False
+MHT,Manchester,Manchester,NH,USA,42.93,-71.44,False
+MHV,Mojave,Mojave,CA,USA,35.06,-118.15,False
+MIA,Miami International,Miami,FL,USA,25.79,-80.29,False
+MIB,Minot AFB,,,USA,48.42,-101.36,False
+MIC,Crystal,Minneapolis,MN,USA,45.06,-93.35,False
+MIE,Delaware County,Muncie,IN,USA,40.24,-85.40,False
+MIO,Miami Municipal,Miami,OK,USA,36.91,-94.89,False
+MIT,Shafter-Minter,Shafter,CA,USA,35.51,-119.19,False
+MIV,Millville Muni,Millville,NJ,USA,39.37,-75.07,False
+MIW,Marshalltown Municipal,Marshalltown,IA,USA,42.11,-92.92,False
+MJQ,Jackson Municipal,Jackson,MN,USA,43.65,-94.99,False
+MJX,Robert J. Miller Airpark,Toms River,NJ,USA,39.93,-74.29,False
+MKA,Miller Municipal,Miller,SD,USA,44.53,-98.96,False
+MKC,Downtown,Kansas City,MO,USA,39.12,-94.59,False
+MKE,General Mitchell International,Milwaukee,WI,USA,42.95,-87.90,False
+MKG,Muskegon County,Muskegon,MI,USA,43.17,-86.24,False
+MKJ,Mountain Empire,Marion,VA,USA,36.89,-81.35,False
+MKK,Molokai,Kaunakakai,HI,USA,21.15,-157.10,False
+MKL,McKellar-Sipes Regional,Jackson,TN,USA,35.60,-88.92,False
+MKO,Davis,Muskogee,OK,USA,35.66,-95.36,False
+MKT,Mankato Regional,Mankato,MN,USA,44.22,-93.92,False
+MKV,Marksville Municipal,Marksville,LA,USA,31.09,-92.07,False
+MKY,Marco Island,Marco Island,FL,USA,26.00,-81.67,False
+MLB,Melbourne International,Melbourne,FL,USA,28.10,-80.65,False
+MLC,McAlester Regional,McAlester,OK,USA,34.88,-95.78,False
+MLE,Millard,Omaha,NE,USA,41.20,-96.11,False
+MLF,Milford Municipal,Milford,UT,USA,38.43,-113.01,False
+MLI,Quad City,Moline,IL,USA,41.45,-90.51,False
+MLJ,Baldwin County,Milledgeville,GA,USA,33.15,-83.24,False
+MLL,Marshall,Marshall,AK,USA,61.87,-162.07,False
+MLS,Frank Wiley,Miles City,MT,USA,46.43,-105.89,False
+MLT,Millinocket Municipal,Millinocket,ME,USA,45.65,-68.69,False
+MLU,Monroe Regional,Monroe,LA,USA,32.51,-92.04,False
+MLY,Manley Hot Springs,Manley Hot Springs,AK,USA,65.00,-150.64,False
+MMH,Mammoth Yosemite,Mammoth Lakes,CA,USA,37.62,-118.84,False
+MMI,McMinn County,Athens,TN,USA,35.40,-84.56,False
+MMK,Meriden-Markham Municipal,Meriden,CT,USA,41.51,-72.83,False
+MML,Marshall Muni - Ryan,Marshall,MN,USA,44.45,-95.82,False
+MMU,Morristown Municipal,Morristown,NJ,USA,40.80,-74.41,False
+MMV,McMinnville Muni,McMinnville,OR,USA,45.19,-123.14,False
+MNF,Mountain View,Mountain View,MO,USA,36.99,-91.71,False
+MNI,Clarendon County,Manning,SC,USA,33.59,-80.21,False
+MNM,Menominee-Marinette Twin County,Menominee,MI,USA,45.13,-87.64,False
+MNN,Marion Municipal,Marion,OH,USA,40.62,-83.06,False
+MNV,Monroe County,Madisonville,TN,USA,35.55,-84.38,False
+MNZ,Hamilton Municipal,Hamilton,TX,USA,31.67,-98.15,False
+MO6,Washington Memorial,Washington,MO,USA,38.59,-91.00,False
+MO85,Lawrence Smith Memorial,Harrisonville,MO,USA,38.61,-94.34,False
+MOB,Mobile Regional,Mobile,AL,USA,30.69,-88.24,False
+MOD,Modesto City-County-Harry Sham,Modesto,CA,USA,37.63,-120.95,False
+MOP,Mount Pleasant Municipal,Mount Pleasant,MI,USA,43.62,-84.74,False
+MOR,Moore-Murrell,Morristown,TN,USA,36.18,-83.38,False
+MOT,Minot International,Minot,ND,USA,48.26,-101.28,False
+MOU,Mountain Village,Mountain Village,AK,USA,62.10,-163.68,False
+MOX,Morris Municipal,Morris,MN,USA,45.57,-95.97,False
+MPE,Philadelphia Municipal,Philadelphia,MS,USA,32.80,-89.13,False
+MPJ,Petit Jean Park,Morrilton,AR,USA,35.14,-92.91,False
+MPO,Pocono Mountains Muni,Mount Pocono,PA,USA,41.14,-75.38,False
+MPR,McPherson,McPherson,KS,USA,38.35,-97.69,False
+MPV,Edward F Knapp State,Barre-Montpelier,VT,USA,44.20,-72.56,False
+MPZ,Mount Pleasant Municipal,Mount Pleasant,IA,USA,40.95,-91.51,False
+MQB,Macomb Municipal,Macomb,IL,USA,40.52,-90.65,False
+MQI,Dare County Regional,Manteo,NC,USA,35.92,-75.70,False
+MQJ,Mount Comfort,Indianapolis,IN,USA,39.84,-85.90,False
+MQT,Marquette County Airport,,,USA,46.35,-87.40,False
+MQW,Telfair-Wheeler,McRae,GA,USA,32.10,-82.88,False
+MQY,Smyrna,Smyrna,TN,USA,36.01,-86.52,False
+MRB,Eastern Wv Reg/Shephard,Martinsburg,WV,USA,39.40,-77.98,False
+MRC,Maury County,Columbia-Mt Pleasant,TN,USA,35.55,-87.18,False
+MRF,Marfa Municipal,Marfa,TX,USA,30.37,-104.02,False
+MRH,Michael J. Smith,Beaufort,NC,USA,34.73,-76.66,False
+MRI,Merrill,Anchorage,AK,USA,61.21,-149.85,False
+MRJ,Iowa County,Mineral Point,WI,USA,42.89,-90.23,False
+MRN,Morganton-Lenoir,Morganton,NC,USA,35.82,-81.61,False
+MRY,Monterey Peninsula,Monterey,CA,USA,36.59,-121.84,False
+MSA,Mount Pleasant Municipal,Mount Pleasant,TX,USA,33.13,-94.98,False
+MSL,Northwest Alabama Regional,Muscle Shoals,AL,USA,34.75,-87.61,False
+MSN,Dane County Regional,Madison,WI,USA,43.14,-89.34,False
+MSO,Missoula International,Missoula,MT,USA,46.92,-114.09,False
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA,44.88,-93.22,False
+MSS,Massena Int'l-Richards,Massena,NY,USA,44.94,-74.85,False
+MSV,Sullivan Cty Intl,Monticello,NY,USA,41.70,-74.80,False
+MSY,New Orleans International,New Orleans,LA,USA,29.99,-90.26,False
+MTH,Florida Keys Marathon,Marathon,FL,USA,24.73,-81.05,False
+MTJ,Montrose Regional,Montrose,CO,USA,38.51,-107.89,False
+MTM,Metlakatla SPB,Metlakatla,AK,USA,55.13,-131.58,False
+MTN,Martin State,Baltimore,MD,USA,39.33,-76.41,False
+MTO,Coles County Memorial,Mattoon-Charleston,IL,USA,39.48,-88.28,False
+MTP,Montauk,Montauk,NY,USA,41.08,-71.92,False
+MTV,Blue Ridge,Martinsville,VA,USA,36.63,-80.02,False
+MTW,Manitowoc County,Manitowoc,WI,USA,44.13,-87.68,False
+MUE,Waimea-Kohala,Kamuela,HI,USA,20.00,-155.67,False
+MUT,Muscatine Municipal,Muscatine,IA,USA,41.37,-91.15,False
+MVC,Monroe County,Monroeville,AL,USA,31.46,-87.35,False
+MVE,Montevideo-Chippewa County,Montevideo,MN,USA,44.97,-95.71,False
+MVI,Monte Vista Muni,Monte Vista,CO,USA,37.53,-106.05,False
+MVL,Morrisville-Stowe State,Morrisville,VT,USA,44.53,-72.61,False
+MVM,Machias Valley,Machias,ME,USA,44.70,-67.48,False
+MVN,Mt Vernon-Outland,Mt. Vernon,IL,USA,38.32,-88.86,False
+MVY,Marthas Vineyard,Marthas Vineyard,MA,USA,41.39,-70.61,False
+MWA,Williamson County,Marion,IL,USA,37.75,-89.01,False
+MWC,Lawrence J Timmerman,Milwaukee,WI,USA,43.11,-88.03,False
+MWH,Grant County,Moses Lake,WA,USA,47.21,-119.32,False
+MWK,Mount Airy-Surry County,Mount Airy,NC,USA,36.46,-80.55,False
+MWL,Mineral Wells Municipal,Mineral Wells,TX,USA,32.78,-98.06,False
+MWM,Windom Municipal,Windom,MN,USA,43.91,-95.11,False
+MWO,Hook Field Municipal,Middletown,OH,USA,39.53,-84.40,False
+MXA,Manila Municipal,Manila,AR,USA,35.89,-90.15,False
+MXO,Monticello Municipal,Monticello,IA,USA,42.23,-91.17,False
+MYF,Montgomery,San Diego,CA,USA,32.82,-117.14,False
+MYK,May Creek,May Creek,AK,USA,61.34,-142.69,False
+MYL,McCall,McCall,ID,USA,44.89,-116.10,False
+MYR,Myrtle Beach International,Myrtle Beach,SC,USA,33.68,-78.93,False
+MYU,Mekoryuk,Mekoryuk,AK,USA,60.37,-166.27,False
+MYV,Yuba County,Marysville,CA,USA,39.10,-121.57,False
+MYZ,Marysville Municipal,Marysville,KS,USA,39.85,-96.63,False
+MZJ,Pinal Airpark,Marana,AZ,USA,32.51,-111.33,False
+MZZ,Marion Municipal,Marion,IN,USA,40.49,-85.68,False
+N00,Maben,Lexington,NY,USA,42.27,-74.39,False
+N03,Cortland Cty-Chase,Cortland,NY,USA,42.59,-76.21,False
+N04,Griswold,Madison,CT,USA,41.27,-72.55,False
+N07,Lincoln Park,Lincoln Park,NJ,USA,40.95,-74.31,False
+N10,Perkiomen Valley,Collegeville,PA,USA,40.20,-75.43,False
+N12,Lakewood,Lakewood,NJ,USA,40.07,-74.18,False
+N13,Bloomsburg Muni,Bloomsburg,PA,USA,41.00,-76.44,False
+N14,Flying W,Lumbrerton,NJ,USA,39.93,-74.81,False
+N23,Sidney Muni,Sidney,NY,USA,42.30,-75.42,False
+N24,Questa Municipal Nr 2,Questa,NM,USA,36.80,-105.60,False
+N25,Westport,Westport NY,NY,USA,44.16,-73.43,False
+N27,Bradford County,Towanda,PA,USA,41.74,-76.44,False
+N29,Magdalena,Magdalena,NM,USA,34.09,-107.30,False
+N30,Cherry Ridge,Honesdale,PA,USA,41.52,-75.25,False
+N35,Punxsutawney Muni,Punxsutawney,PA,USA,40.97,-78.93,False
+N37,Monticello,Monticello,NY,USA,41.62,-74.70,False
+N38,Grand Canyon State,Wellsboro,PA,USA,41.73,-77.40,False
+N40,Sky Manor,Pittstown,NJ,USA,40.57,-74.98,False
+N47,Pottstown Muni,Pottstown,PA,USA,40.26,-75.67,False
+N51,Solberg-Hunterdon,Readington,NJ,USA,40.58,-74.74,False
+N53,Stroudsburg-Pocono,East Stroudsburg,PA,USA,41.04,-75.16,False
+N57,New Garden Flying,Toughkenamon,PA,USA,39.83,-75.77,False
+N66,Oneonta Muni,Oneonta,NY,USA,42.52,-75.06,False
+N67,Wings,Ambler,PA,USA,40.14,-75.27,False
+N68,Chambersburg Muni,Chambersburg,PA,USA,39.97,-77.64,False
+N69,Stormville,Stormville,NY,USA,41.58,-73.73,False
+N72,Warwick Muni,Warwick,NY,USA,41.29,-74.29,False
+N73,Red Lion,Vincentown,NJ,USA,39.90,-74.75,False
+N79,Northumberland Cty,Shamokin,PA,USA,40.84,-76.55,False
+N81,Hammonton Muni,Hammonton,NJ,USA,39.67,-74.76,False
+N82,Wurtsboro-Sullivan Cty,Wurtsboro,NY,USA,41.60,-74.46,False
+N85,Alexandria,Pittstown,NJ,USA,40.59,-75.02,False
+N87,Trenton-Robbinsville,Robbinsville,NJ,USA,40.21,-74.60,False
+N89,Joseph Y. Resnick,Ellenville,NY,USA,41.73,-74.38,False
+N93,New Golovin,Golovin,AK,USA,64.55,-163.01,False
+N99,Brandywine,West Chester,PA,USA,39.99,-75.58,False
+NC14,Rockingham County NC Shiloh,Reidsville,NC,USA,36.44,-79.85,False
+NC67,Ashe County,West Jefferson,NC,USA,36.43,-81.42,False
+ND06,Cavalier Municipal,Cavalier,ND,USA,48.78,-97.63,False
+ND12,Ellendale Municipal,Ellendale,ND,USA,46.01,-98.51,False
+ND17,Harvey Municipal,Harvey,ND,USA,47.79,-99.93,False
+ND26,Kenmare Municipal,Kenmare,ND,USA,48.67,-102.05,False
+ND28,Lakota Municipal,Lakota,ND,USA,48.03,-98.33,False
+ND29,La Moure Rott Municipal,La Moure (New Site),ND,USA,46.35,-98.28,False
+ND33,Linton Municipal,Linton,ND,USA,46.22,-100.25,False
+ND44,Mott Municipal,Mott,ND,USA,46.36,-102.32,False
+ND66,Washburn Municipal,Washburn,ND,USA,47.35,-101.03,False
+NEW,Lakefront,New Orleans,LA,USA,30.04,-90.03,False
+NH12,Plymouth Municipal,Plymouth,NH,USA,43.78,-71.75,False
+NK03,Kamp,Durhamville,NY,USA,43.13,-75.65,False
+NQA,Millington Municipal,Millington,TN,USA,35.36,-89.87,False
+NRN,Norton Municipal,Norton,KS,USA,39.85,-99.89,False
+NUL,Nulato,Nulato,AK,USA,64.73,-158.07,False
+NVD,Nevada Municipal,Nevada,MO,USA,37.85,-94.30,False
+NY0,Fulton Cty,Johnstown,NY,USA,43.00,-74.33,False
+O02,Nervino,Beckwourth,CA,USA,39.82,-120.35,False
+O05,Rogers,Chester,CA,USA,40.28,-121.24,False
+O08,Colusa County,Colusa,CA,USA,39.18,-121.99,False
+O09,Round Valley,Covelo,CA,USA,39.79,-123.27,False
+O11,Cherokee Nation,Stilwell,OK,USA,35.76,-94.65,False
+O15,Turlock Municipal,Turlock,CA,USA,37.49,-120.70,False
+O16,Garberville,Garberville,CA,USA,40.09,-123.81,False
+O17,Nevada County  Air Park,Grass Valley,CA,USA,39.22,-121.00,False
+O19,Kneeland,Eureka,CA,USA,40.72,-123.93,False
+O21,Hoopa,Hoopa,CA,USA,41.04,-123.67,False
+O22,Columbia,Columbia,CA,USA,38.03,-120.41,False
+O24,Lee Vining,Lee Vining,CA,USA,37.96,-119.11,False
+O26,Lone Pine,Lone Pine,CA,USA,36.59,-118.05,False
+O27,Oakdale,Oakdale,CA,USA,37.76,-120.80,False
+O28,Ells Field-Willits Municipal,Willits,CA,USA,39.45,-123.37,False
+O31,Healdsburg Municipal,Healdsburg,CA,USA,38.65,-122.90,False
+O32,Reedley Municipal,Reedley,CA,USA,36.67,-119.45,False
+O35,Hollis Municipal,Hollis,OK,USA,34.71,-99.91,False
+O37,Haigh,Orland,CA,USA,39.72,-122.15,False
+O41,Watts-Woodland,Woodland,CA,USA,38.67,-121.87,False
+O42,Woodlake,Woodlake,CA,USA,36.40,-119.11,False
+O43,Yerington Municipal,Yerington,NV,USA,39.00,-119.16,False
+O45,Hooker Municipal,Hooker,OK,USA,36.86,-101.23,False
+O46,Weed,Weed,CA,USA,41.47,-122.45,False
+O47,Prague Municipal,Prague,OK,USA,35.48,-96.72,False
+O48,Little River,Little River,CA,USA,39.26,-123.75,False
+O52,Sutter County,Yuba City,CA,USA,39.13,-121.61,False
+O53,Medford Municipal,Medford,OK,USA,36.79,-97.75,False
+O54,Lonnie Pool /Weaverville,Weaverville,CA,USA,40.75,-122.92,False
+O57,Bryant,Bridgeport,CA,USA,38.26,-119.23,False
+O59,Cedarville,Cedarville,CA,USA,41.55,-120.17,False
+O60,Cloverdale Municipal,Cloverdale,CA,USA,38.77,-122.99,False
+O61,Cameron Airpark,Cameron Park,CA,USA,38.68,-120.99,False
+O65,Okeene Municipal,Okeene,OK,USA,36.11,-98.31,False
+O68,Mariposa-Yosemite,Mariposa,CA,USA,37.51,-120.04,False
+O69,Petaluma Municipal,Petaluma,CA,USA,38.26,-122.61,False
+O70,Westover Field Amador County,Jackson,CA,USA,38.38,-120.79,False
+O81,Tulelake Municipal,Tulelake,CA,USA,41.89,-121.36,False
+O85,Benton,Redding,CA,USA,40.57,-122.41,False
+O86,Trinity Center,Trinity Center,CA,USA,40.98,-122.69,False
+O88,Rio Vista Municipal,Rio Vista,CA,USA,38.19,-121.70,False
+O89,Fall River Mills,Fall River Mills,CA,USA,41.02,-121.43,False
+OAJ,Albert J Ellis,Jacksonville,NC,USA,34.83,-77.61,False
+OAK,Metropolitan Oakland International,Oakland,CA,USA,37.72,-122.22,False
+OAR,Marina Municipal,Marina,CA,USA,36.68,-121.76,False
+OBE,Okeechobee County,Okeechobee,FL,USA,27.26,-80.85,False
+OBU,Kobuk,Kobuk,AK,USA,66.91,-156.86,False
+OCF,Ocala Regional/Jim Taylor,Ocala,FL,USA,29.17,-82.22,False
+OCH,Nacogdoches-A.L. Mangham Jr. Regional,Nacogdoches,TX,USA,31.58,-94.71,False
+OCQ,Oconto Municipal,Oconto,WI,USA,44.87,-87.91,False
+OCW,Warren,Washington,NC,USA,35.57,-77.05,False
+ODO,Odessa-Schlemeyer,Odessa,TX,USA,31.92,-102.39,False
+ODX,Evelyn Sharp,Ord,NE,USA,41.62,-98.95,False
+OEB,Branch County Memorial,Coldwater,MI,USA,41.93,-85.05,False
+OEL,Oakley Municipal,Oakley,KS,USA,39.11,-100.82,False
+OEO,L. O. Simenstad Municipal,Osceola,WI,USA,45.31,-92.69,False
+OFK,Karl Stefan Memorial,Norfolk,NE,USA,41.99,-97.44,False
+OFP,Hanover County Municipal,Richmond,VA,USA,37.71,-77.44,False
+OGA,Searle,Ogallala,NE,USA,41.12,-101.77,False
+OGB,Orangeburg Municipal,Orangeburg,SC,USA,33.46,-80.86,False
+OGD,Ogden-Hinckley,Ogden,UT,USA,41.20,-112.01,False
+OGG,Kahului,Kahului,HI,USA,20.90,-156.43,False
+OGM,Ontonagon County,Ontonagon,MI,USA,46.85,-89.37,False
+OGS,Ogdensburg Intl,Ogdensburg,NY,USA,44.68,-75.47,False
+OH17,Henry County,Napoleon,OH,USA,41.37,-84.07,False
+OH21,Huron County,Norwalk,OH,USA,41.24,-82.55,False
+OH30,Put In Bay,Put In Bay,OH,USA,41.64,-82.83,False
+OIC,Lt Warren Eaton,Norwich,NY,USA,42.57,-75.52,False
+OIN,Oberlin Municipal,Oberlin,KS,USA,39.83,-100.54,False
+OJC,Johnson County Executive,Olathe,KS,USA,38.85,-94.74,False
+OKB,Oceanside Municipal,Oceanside,CA,USA,33.22,-117.35,False
+OKC,Will Rogers World,Oklahoma City,OK,USA,35.39,-97.60,False
+OKK,Kokomo Municipal,Kokomo,IN,USA,40.53,-86.06,False
+OKM,Okmulgee Municipal,Okmulgee,OK,USA,35.67,-95.95,False
+OKS,Garden County,Oshkosh,NE,USA,41.40,-102.36,False
+OKV,Winchester Regional,Winchester,VA,USA,39.14,-78.14,False
+OKZ,Kaolin,Sandersville,GA,USA,32.97,-82.84,False
+OLD,Dewitt Field-Old Town Municipal,Old Town,ME,USA,44.95,-68.67,False
+OLE,Olean Muni,Olean,NY,USA,42.24,-78.37,False
+OLF,L M Clayton,Wolf Point,MT,USA,48.09,-105.58,False
+OLM,Olympia,Olympia,WA,USA,46.97,-122.90,False
+OLS,Nogales International,Nogales,AZ,USA,31.42,-110.85,False
+OLU,Columbus Municipal,Columbus,NE,USA,41.45,-97.34,False
+OLV,Olive Branch,Olive Branch,MS,USA,34.98,-89.79,False
+OLY,Olney-Noble,Olney-Noble,IL,USA,38.72,-88.18,False
+OLZ,Oelwein Municipal,Oelwein,IA,USA,42.68,-91.97,False
+OMA,Eppley Airfield,Omaha,NE,USA,41.30,-95.89,False
+OME,Nome,Nome,AK,USA,64.51,-165.45,False
+OMH,Orange County,Orange,VA,USA,38.25,-78.05,False
+OMK,Omak,Omak,WA,USA,48.46,-119.52,False
+OMN,Ormond Beach Municipal,Ormond Beach,FL,USA,29.30,-81.11,False
+ONA,Winona Muni-Max Conrad,Winona,MN,USA,44.08,-91.71,False
+ONL,O Neill Municipal,O Neill,NE,USA,42.47,-98.69,False
+ONM,Socorro Municipal,Socorro,NM,USA,34.02,-106.90,False
+ONO,Ontario Muni,Ontario,OR,USA,44.02,-117.01,False
+ONP,Newport Muni,Newport,OR,USA,44.58,-124.06,False
+ONT,Ontario International,Ontario,CA,USA,34.06,-117.60,False
+ONY,Olney Municipal,Olney,TX,USA,33.35,-98.82,False
+ONZ,Grosse Ile Municipal,Detroit - Grosse Ile,MI,USA,42.10,-83.16,False
+OOA,Oskaloosa Municipal,Oskaloosa,IA,USA,41.23,-92.49,False
+OOH,Hoonah SPB,Hoonah,AK,USA,58.11,-135.45,False
+OOK,Toksook Bay,Toksook Bay,AK,USA,60.53,-165.11,False
+OPF,Opa-Locka,Miami,FL,USA,25.91,-80.28,False
+OPL,St Landry Parish - Ahart,Opelousas,LA,USA,30.56,-92.10,False
+OPN,Thomaston-Upton County,Thomaston,GA,USA,32.95,-84.26,False
+OQU,Quonset State,North Kingstown,RI,USA,41.60,-71.41,False
+OQW,Maquoketa Municipal,Maquoketa,IA,USA,42.05,-90.74,False
+OR33,Boardman,Boardman,OR,USA,45.81,-119.82,False
+ORB,Orr Regional,Orr,MN,USA,48.02,-92.86,False
+ORC,Orange City Municipal,Orange City,IA,USA,42.99,-96.06,False
+ORD,Chicago O'Hare International,Chicago,IL,USA,41.98,-87.90,True
+ORE,Orange Municipal,Orange,MA,USA,42.57,-72.29,False
+ORF,Norfolk International,Norfolk,VA,USA,36.89,-76.20,False
+ORG,Orange County,Orange,TX,USA,30.07,-93.80,False
+ORH,Worcester Regional,Worcester,MA,USA,42.27,-71.88,False
+ORI,Port Lions,Port Lions,AK,USA,57.89,-152.85,False
+ORL,Executive,Orlando,FL,USA,28.55,-81.33,False
+ORS,Orcas Island,Eastsound,WA,USA,48.71,-122.91,False
+ORT,Northway,Northway,AK,USA,62.96,-141.93,False
+ORV,Robert(Bob) Curtis Memorial,Noorvik,AK,USA,66.83,-161.03,False
+OSC,Oscoda - Wurtsmith,Oscoda,MI,USA,44.45,-83.38,False
+OSH,Wittman Regional,Oshkosh,WI,USA,43.98,-88.56,False
+OSU,Ohio State University,Columbus,OH,USA,40.08,-83.07,False
+OSX,Kosciusko-Attala County,Kosciusko,MS,USA,33.09,-89.54,False
+OTG,Worthington Municipal,Worthington,MN,USA,43.66,-95.58,False
+OTH,North Bend Muni,North Bend,OR,USA,43.42,-124.25,False
+OTM,Ottumwa Industrial,Ottumwa,IA,USA,41.11,-92.45,False
+OTZ,Ralph Wien Memorial,Kotzebue,AK,USA,66.88,-162.60,False
+OUN,University of Oklahoma Westheimer,Norman,OK,USA,35.25,-97.47,False
+OVE,Oroville Municipal,Oroville,CA,USA,39.49,-121.62,False
+OVO,North Vernon,North Vernon,IN,USA,39.05,-85.61,False
+OVS,Boscobel,Boscobel,WI,USA,43.16,-90.67,False
+OWA,Owatonna Degner Regional,Owatonna,MN,USA,44.12,-93.26,False
+OWB,Owensboro-Daviess County,Owensboro,KY,USA,37.74,-87.17,False
+OWD,Norwood Memorial,Norwood,MA,USA,42.19,-71.17,False
+OWI,Ottawa Municipal,Ottawa,KS,USA,38.54,-95.25,False
+OWK,Central Maine,Norridgewock,ME,USA,44.72,-69.87,False
+OWX,Putnam County,Ottawa,OH,USA,41.04,-83.98,False
+OXB,Ocean City,Ocean City,MD,USA,38.31,-75.12,False
+OXC,Waterbury-Oxford,Oxford,CT,USA,41.48,-73.14,False
+OXD,Miami University,Oxford,OH,USA,39.50,-84.78,False
+OXI,Starke County,Knox,IN,USA,41.33,-86.66,False
+OXR,Oxnard,Oxnard,CA,USA,34.20,-119.21,False
+OXV,Knoxville Municipal,Knoxville,IA,USA,41.30,-93.11,False
+OYM,St Marys Muni,St Marys,PA,USA,41.41,-78.50,False
+OZA,Ozona Municipal,Ozona,TX,USA,30.74,-101.20,False
+OZW,Livingston County,Howell,MI,USA,42.63,-83.98,False
+P01,Ajo Municipal,Ajo,AZ,USA,32.45,-112.87,False
+P04,Bisbee Municipal,Bisbee,AZ,USA,31.36,-109.88,False
+P08,Coolidge Municipal,Coolidge,AZ,USA,32.94,-111.43,False
+P13,San Carlos Apache,Globe,AZ,USA,33.35,-110.67,False
+P14,Holbrook Municipal,Holbrook,AZ,USA,34.94,-110.14,False
+P20,Avi Suquilla,Parker,AZ,USA,34.15,-114.27,False
+P32,H.A. Clark Memorial,Williams,AZ,USA,35.30,-112.19,False
+P33,Cochise County,Willcox,AZ,USA,32.25,-109.89,False
+P45,Mount Pleasant-Scottdale,Mount Pleasant,PA,USA,40.11,-79.54,False
+P52,Cottonwood,Cottonwood,AZ,USA,34.73,-112.04,False
+P53,Rostraver,Monongahela,PA,USA,40.21,-79.83,False
+PAE,Snohomish County,Everett,WA,USA,47.91,-122.28,False
+PAH,Barkley Regional,Paducah,KY,USA,37.06,-88.77,False
+PAK,Port Allen,Hanapepe,HI,USA,21.90,-159.60,False
+PAN,Payson,Payson,AZ,USA,34.26,-111.34,False
+PAO,Palo Alto Arpt of Santa Clara Co,Palo Alto,CA,USA,37.46,-122.12,False
+PAQ,Palmer Municipal,Palmer,AK,USA,61.59,-149.09,False
+PBF,Grider,Pine Bluff,AR,USA,34.17,-91.93,False
+PBH,Price County,Phillips,WI,USA,45.71,-90.40,False
+PBI,Palm Beach International,West Palm Beach,FL,USA,26.68,-80.10,False
+PBV,St. George,St. George,AK,USA,56.58,-169.66,False
+PCK,Porcupine Creek,Porcupine Creek,AK,USA,67.24,-150.29,False
+PCM,Plant City Municipal,Plant City,FL,USA,28.00,-82.16,False
+PCW,Carl R. Keller,Port Clinton,OH,USA,41.52,-82.87,False
+PCZ,Waupaca Municipal,Waupaca,WI,USA,44.33,-89.02,False
+PDC,Prairie Du Chien Municipal,Prairie Du Chien,WI,USA,43.02,-91.12,False
+PDK,Dekalb-Peachtree,Atlanta,GA,USA,33.88,-84.30,False
+PDT,Eastern Oregon Regional At Pendleton,Pendleton,OR,USA,45.70,-118.84,False
+PDX,Portland Intl,Portland,OR,USA,45.59,-122.60,False
+PEA,Pella Municipal,Pella,IA,USA,41.40,-92.95,False
+PEC,Pelican SPB,Pelican,AK,USA,57.96,-136.24,False
+PEO,Penn Yan,Penn Yan,NY,USA,42.64,-77.05,False
+PEQ,Pecos Municipal,Pecos City,TX,USA,31.38,-103.51,False
+PEZ,Pleasanton Municipal,Pleasanton,TX,USA,28.95,-98.52,False
+PFN,Panama City-Bay County International,Panama City,FL,USA,30.21,-85.68,False
+PGA,Page Municipal,Page,AZ,USA,36.93,-111.45,False
+PGD,Charlotte County,Punta Gorda,FL,USA,26.92,-81.99,False
+PGM,Port Graham,Port Graham,AK,USA,59.35,-151.83,False
+PGR,Kirk,Paragould,AR,USA,36.06,-90.51,False
+PGV,Pitt-Greenville,Greenville,NC,USA,35.64,-77.39,False
+PHD,Harry Clever,New Philadelphia,OH,USA,40.47,-81.42,False
+PHF,Newport News/Williamsburg International,Newport News,VA,USA,37.13,-76.49,False
+PHG,Phillipsburg Municipal,Phillipsburg,KS,USA,39.74,-99.32,False
+PHH,Andrews Municipal,Andrews,SC,USA,33.45,-79.53,False
+PHK,Palm Beach County Glades,Pahokee,FL,USA,26.79,-80.69,False
+PHL,Philadelphia Intl,Philadelphia,PA,USA,39.87,-75.24,False
+PHN,St Clair County International,Port Huron,MI,USA,42.91,-82.53,False
+PHO,Point Hope,Point Hope,AK,USA,68.35,-166.80,False
+PHP,Philip,Philip,SD,USA,44.05,-101.60,False
+PHT,Henry County,Paris,TN,USA,36.34,-88.38,False
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA,33.43,-112.01,False
+PIA,Greater Peoria Regional,Peoria,IL,USA,40.66,-89.69,False
+PIB,Hattiesburg-Laurel Regional,Hattiesburg-Laurel,MS,USA,31.47,-89.34,False
+PIE,St. Petersburg-Clearwater International,St. Petersburg,FL,USA,27.91,-82.69,False
+PIH,Pocatello Regional,Pocatello,ID,USA,42.91,-112.60,False
+PIL,Port Isabel-Cameron County,Port Isabel,TX,USA,26.17,-97.35,False
+PIM,Callaway Gardens-Harris County,Pine Mountain,GA,USA,32.84,-84.88,False
+PIR,Pierre Regional,Pierre,SD,USA,44.38,-100.29,False
+PIT,Pittsburgh International,Pittsburgh,PA,USA,40.49,-80.23,False
+PIZ,Point Lay Dew Station,Point Lay,AK,USA,69.73,-163.01,False
+PJY,Pinckneyville-Duquoin,Pinckneyville-Duquoin,IL,USA,37.98,-89.36,False
+PKA,Napaskiak,Napaskiak,AK,USA,60.70,-161.78,False
+PKB,Wood Cty/Gill Robb Wilson,Parkersburg,WV,USA,39.35,-81.44,False
+PKD,Park Rapids Municipal,Park Rapids,MN,USA,46.90,-95.07,False
+PKF,Park Falls Municipal,Park Falls,WI,USA,45.96,-90.42,False
+PLB,Clinton Cty,Plattsburgh,NY,USA,44.69,-73.52,False
+PLD,Portland Municipal,Portland,IN,USA,40.45,-84.99,False
+PLN,Pellston Regional  of Emmet County,Pellston,MI,USA,45.57,-84.80,False
+PLR,St Clair County,Pell City,AL,USA,33.56,-86.25,False
+PMB,Pembina Municipal,Pembina,ND,USA,48.94,-97.24,False
+PMD,Palmdale Production Flight,Palmdale,CA,USA,34.63,-118.08,False
+PMH,Greater Portsmouth Regional,Portsmouth,OH,USA,38.84,-82.85,False
+PMP,Pompano Beach Airpark,Pompano Beach,FL,USA,26.25,-80.11,False
+PMV,Plattsmouth Municipal,Plattsmouth,NE,USA,40.95,-95.92,False
+PMX,Metropolitan,Palmer,MA,USA,42.22,-72.31,False
+PMZ,Plymouth Municipal,Plymouth,NC,USA,35.81,-76.76,False
+PNA,Ralph Wenz,Pinedale,WY,USA,42.80,-109.81,False
+PNC,Ponca City Municipal,Ponca City,OK,USA,36.73,-97.10,False
+PNE,Northeast Philadelphia,Philadelphia,PA,USA,40.08,-75.01,False
+PNM,Princeton Municipal,Princeton,MN,USA,45.56,-93.61,False
+PNN,Princeton Municipal,Princeton,ME,USA,45.20,-67.56,False
+PNP,Pilot Point,Pilot Point,AK,USA,57.58,-157.57,False
+PNS,Pensacola Regional,Pensacola,FL,USA,30.47,-87.19,False
+POC,Brackett,La Verne,CA,USA,34.09,-117.78,False
+POF,Poplar Bluff Municipal,Poplar Bluff,MO,USA,36.77,-90.32,False
+POH,Pocahontas Municipal,Pocahontas,IA,USA,42.74,-94.65,False
+POU,Dutchess Cty,Poughkeepsie,NY,USA,41.63,-73.88,False
+POY,Powell Muni,Powell,WY,USA,44.87,-108.79,False
+PPA,Perry Lefors,Pampa,TX,USA,35.61,-101.00,False
+PPC,Prospect Creek,Prospect Creek,AK,USA,66.81,-150.64,False
+PPF,Tri City,Parsons,KS,USA,37.33,-95.51,False
+PPG,Pago Pago International,Pago Pago,AS,USA,14.33,-170.71,False
+PPO,La Porte Municipal,La Porte,IN,USA,41.57,-86.73,False
+PPQ,Pittsfield Penstone Municipal,Pittsfield,IL,USA,39.64,-90.78,False
+PQI,Northern Maine Regional,Presque Isle,ME,USA,46.69,-68.04,False
+PQL,Trent Lott International,Pascagoula,MS,USA,30.46,-88.53,False
+PQN,Pipestone Municipal,Pipestone,MN,USA,43.98,-96.30,False
+PR03,Fajardo Harbor Seaplane Base,Fajardo,PR,USA,18.34,-65.62,False
+PRB,Paso Robles Municipal,Paso Robles,CA,USA,35.67,-120.63,False
+PRC,Ernest A. Love,Prescott,AZ,USA,34.65,-112.42,False
+PRG,Edgar County,Paris,IL,USA,39.70,-87.67,False
+PRN,Greenville Municipal,Greenville,AL,USA,31.85,-86.61,False
+PRO,Perry Municipal,Perry,IA,USA,41.83,-94.16,False
+PRX,Cox,Paris,TX,USA,33.64,-95.45,False
+PSB,Mid-State,Philipsburg,PA,USA,40.88,-78.09,False
+PSC,Tri-Cities,Pasco,WA,USA,46.26,-119.12,False
+PSE,Mercedita,Ponce,PR,USA,18.01,-66.56,False
+PSF,Pittsfield Municipal,Pittsfield,MA,USA,42.43,-73.29,False
+PSG,James C. Johnson Petersburg,Petersburg,AK,USA,56.80,-132.95,False
+PSK,New River Valley,Dublin,VA,USA,37.14,-80.68,False
+PSM,Pease International Tradeport,Portsmouth,NH,USA,43.08,-70.82,False
+PSN,Palestine Municipal,Palestine,TX,USA,31.78,-95.71,False
+PSP,Palm Springs International,Palm Springs,CA,USA,33.83,-116.51,False
+PSX,Palacios Municipal,Palacios,TX,USA,28.73,-96.25,False
+PTB,Dinwiddie County,Petersburg,VA,USA,37.18,-77.51,False
+PTD,Potsdam Muni-Damon,Potsdam,NY,USA,44.68,-74.95,False
+PTH,Port Heiden,Port Heiden,AK,USA,56.96,-158.63,False
+PTK,Oakland-Pontiac,Pontiac,MI,USA,42.67,-83.42,False
+PTN,Harry P. Williams Memorial,Patterson,LA,USA,29.71,-91.34,False
+PTS,Atkinson Municipal,Pittsburg,KS,USA,37.45,-94.73,False
+PTT,Pratt Industrial,Pratt,KS,USA,37.70,-98.75,False
+PTU,Platinum,Platinum,AK,USA,59.01,-161.82,False
+PTV,Porterville Municipal,Porterville,CA,USA,36.03,-119.06,False
+PTW,Pottstown Limerick,Pottstown,PA,USA,40.24,-75.56,False
+PUB,Pueblo Memorial,Pueblo,CO,USA,38.29,-104.50,False
+PUC,Carbon County,Price,UT,USA,39.61,-110.75,False
+PUW,Pullman/Moscow Regional,Pullman/Moscow_ID,WA,USA,46.74,-117.11,False
+PVB,Platteville Municipal,Platteville,WI,USA,42.69,-90.44,False
+PVC,Provincetown Municipal,Provincetown,MA,USA,42.07,-70.22,False
+PVD,Theodore F Green State,Providence,RI,USA,41.72,-71.43,False
+PVF,Placerville,Placerville,CA,USA,38.72,-120.75,False
+PVG,Hampton Roads Executive,Portsmouth,VA,USA,36.78,-76.45,False
+PVJ,Pauls Valley Municipal,Pauls Valley,OK,USA,34.71,-97.22,False
+PVU,Provo Muni,Provo,UT,USA,40.22,-111.72,False
+PVW,Hale County,Plainview,TX,USA,34.17,-101.72,False
+PWA,Wiley Post,Oklahoma City,OK,USA,35.53,-97.65,False
+PWC,Pine River Regional,Pine River,MN,USA,46.72,-94.38,False
+PWD,Sher-Wood,Plentywood,MT,USA,48.79,-104.53,False
+PWG,McGregor Exectuive,Waco,TX,USA,31.48,-97.32,False
+PWK,Palwaukee,Chicago/Wheeling/Prospect Heights,IL,USA,42.11,-87.90,False
+PWM,Portland International Jetport,Portland,ME,USA,43.65,-70.31,False
+PWT,Bremerton National,Bremerton,WA,USA,47.49,-122.76,False
+PXE,Perry-Houston Couty,Perry,GA,USA,32.51,-83.77,False
+PYG,Pageland,Pageland,SC,USA,34.74,-80.35,False
+PYM,Plymouth Municipal,Plymouth,MA,USA,41.91,-70.73,False
+PYX,Perryton Ochiltree County,Perryton,TX,USA,36.41,-100.75,False
+PZQ,Presque Isle County,Rogers City,MI,USA,45.41,-83.81,False
+Q00,Littlefield Municipal,Littlefield,TX,USA,33.92,-102.39,False
+Q06,City of Tulia/Swisher County Municipal,Tulia,TX,USA,34.57,-101.78,False
+Q14,San Juan Pueblo,Espanola,NM,USA,36.03,-106.05,False
+Q16,Reserve,Reserve,NM,USA,33.70,-108.85,False
+Q17,Boonville,Boonville,CA,USA,39.01,-123.38,False
+Q21,Brownsville,Brownsville,CA,USA,39.46,-121.29,False
+Q24,Levelland Municipal,Levelland,TX,USA,33.55,-102.37,False
+Q25,Dinsmore,Dinsmore,CA,USA,40.49,-123.60,False
+Q26,Terry County,Brownfield,TX,USA,33.17,-102.19,False
+Q31,Sequoia,Visalia,CA,USA,36.45,-119.32,False
+Q34,Portales Municipal,Portales,NM,USA,34.15,-103.41,False
+Q35,Springerville Babbitt,Springerville,AZ,USA,34.13,-109.31,False
+Q37,Carrizozo Municipal,Carrizozo,NM,USA,33.65,-105.90,False
+Q41,Floydada Municipal,Floydada,TX,USA,34.00,-101.33,False
+Q42,Springer Municipal,Springer,NM,USA,36.33,-104.62,False
+Q44,Beaver Municipal,Beaver,OK,USA,36.80,-100.53,False
+Q49,Firebaugh,Firebaugh,CA,USA,36.86,-120.46,False
+Q53,Franklin,Franklin,CA,USA,38.30,-121.43,False
+Q55,Dimmitt Municipal,Dimmitt,TX,USA,34.57,-102.32,False
+Q58,Santa Rosa Municipal,Santa Rosa,NM,USA,34.93,-104.64,False
+Q61,Georgetown,Georgetown,CA,USA,38.92,-120.86,False
+Q68,Pine Mountain Lake,Groveland,CA,USA,37.86,-120.18,False
+Q72,Hayfork,Hayfork,CA,USA,40.55,-123.18,False
+Q84,Mendota,Mendota,CA,USA,36.76,-120.37,False
+Q88,Paradise Skypark,Paradise,CA,USA,39.71,-121.62,False
+Q94,Rio Linda,Rio Linda,CA,USA,38.68,-121.45,False
+Q95,Ruth,Ruth,CA,USA,40.21,-123.30,False
+Q99,South County  of Santa Clara Co,San Martin,CA,USA,37.08,-121.60,False
+RAC,John H Batten,Racine,WI,USA,42.76,-87.81,False
+RAL,Riverside Municipal,Riverside,CA,USA,33.95,-117.45,False
+RAP,Rapid City Regional,Rapid City,SD,USA,44.05,-103.06,False
+RBD,Redbird,Dallas,TX,USA,32.68,-96.87,False
+RBE,Bassett Municipal,Bassett,NE,USA,42.57,-99.57,False
+RBG,Roseburg Regional,Roseburg,OR,USA,43.24,-123.36,False
+RBL,Red Bluff Municipal,Red Bluff,CA,USA,40.15,-122.25,False
+RBW,Walterboro Municipal,Walterboro,SC,USA,32.92,-80.64,False
+RBY,Ruby,Ruby,AK,USA,64.73,-155.47,False
+RCA,Ellsworth AFB,,,USA,44.15,-103.10,False
+RCR,Fulton County,Rochester,IN,USA,41.07,-86.18,False
+RCX,Rusk County,Ladysmith,WI,USA,45.50,-91.00,False
+RDD,Redding Municipal,Redding,CA,USA,40.51,-122.29,False
+RDG,Reading Muni_Gen Carl A Spaatz,Reading,PA,USA,40.38,-75.97,False
+RDK,Red Oak Municipal,Red Oak,IA,USA,41.01,-95.26,False
+RDM,Roberts,Redmond,OR,USA,44.25,-121.15,False
+RDR,Grand Forks AFB,,,USA,47.96,-97.40,False
+RDU,Raleigh-Durham International,Raleigh,NC,USA,35.88,-78.79,False
+RDV,Red Devil,Red Devil,AK,USA,61.79,-157.35,False
+RED,Red Lodge,Red Lodge,MT,USA,45.19,-109.27,False
+RFD,Greater Rockford,Rockford,IL,USA,42.20,-89.10,False
+RFG,Refugio-Rooke,Refugio,TX,USA,28.29,-97.32,False
+RGK,Red Wing Municipal,Red Wing,MN,USA,44.59,-92.48,False
+RHI,Rhinelander-Oneida County,Rhinelander,WI,USA,45.63,-89.47,False
+RHV,Reid-Hillview of Santa Clara Co,San Jose,CA,USA,37.33,-121.82,False
+RIC,Richmond International,Richmond,VA,USA,37.51,-77.32,False
+RID,Richmond Municipal,Richmond,IN,USA,39.76,-84.84,False
+RIF,Richfield Muni,Richfield,UT,USA,38.74,-112.10,False
+RIL,Garfield County Regional,Rifle,CO,USA,39.53,-107.73,False
+RIU,Rancho Murieta,Rancho Murieta,CA,USA,38.49,-121.10,False
+RIV,March,Riverside,CA,USA,33.88,-117.26,False
+RIW,Riverton Regional,Riverton,WY,USA,43.06,-108.46,False
+RKD,Knox County Regional,Rockland,ME,USA,44.06,-69.10,False
+RKP,Aransas County,Rockport,TX,USA,28.09,-97.04,False
+RKR,Robert S Kerr,Poteau,OK,USA,35.02,-94.62,False
+RKS,Rock Springs-Sweetwater County,Rock Springs,WY,USA,41.59,-109.07,False
+RKW,Rockwood Municipal,Rockwood,TN,USA,35.92,-84.69,False
+RLD,Richland,Richland,WA,USA,46.31,-119.30,False
+RME,Griffis Airpark,Rome,NY,USA,43.23,-75.41,False
+RMG,Richard B Russell,Rome,GA,USA,34.35,-85.16,False
+RMP,Rampart,Rampart,AK,USA,65.51,-150.14,False
+RMY,Brooks,Marshall,MI,USA,42.25,-84.96,False
+RNC,Warren County Memorial,McMinnville,TN,USA,35.70,-85.84,False
+RNH,New Richmond Municipal,New Richmond,WI,USA,45.15,-92.54,False
+RNM,Ramona,Ramona,CA,USA,33.04,-116.91,False
+RNO,Reno/Tahoe International,Reno,NV,USA,39.50,-119.77,False
+RNT,Renton Municipal,Renton,WA,USA,47.49,-122.22,False
+RNV,Cleveland Municipal,Cleveland,MS,USA,33.76,-90.76,False
+ROA,Roanoke Regional/ Woodrum,Roanoke,VA,USA,37.33,-79.98,False
+ROC,Greater Rochester Int'l,Rochester,NY,USA,43.12,-77.67,False
+ROG,Rogers Municipal-Carter,Rogers,AR,USA,36.37,-94.11,False
+ROP,Prachinburi,,,Thailand,14.08,101.38,False
+ROR,Babelthoup/Koror,,,Palau,7.37,134.54,False
+ROS,Rush City Regional,Rush City,MN,USA,45.70,-92.95,False
+ROW,Roswell Industrial Air Center,Roswell,NM,USA,33.30,-104.53,False
+ROX,Roseau Municipal,Roseau,MN,USA,48.86,-95.70,False
+RPB,Belleville Municipal,Belleville,KS,USA,39.82,-97.66,False
+RPD,Rice Lake Regional-Carl's,Rice Lake,WI,USA,45.42,-91.77,False
+RPX,Roundup,Roundup,MT,USA,46.47,-108.56,False
+RQB,Roben-Hood,Big Rapids,MI,USA,43.72,-85.50,False
+RQE,Window Rock,Window Rock,AZ,USA,35.65,-109.07,False
+RRL,Merrill Municipal,Merrill,WI,USA,45.20,-89.71,False
+RRT,Warroad Intl Swede Carlson,Warroad,MN,USA,48.94,-95.35,False
+RSH,Russian Mission,Russian Mission,AK,USA,61.78,-161.32,False
+RSL,Russell Municipal,Russell,KS,USA,38.87,-98.81,False
+RSN,Ruston Regional,Ruston,LA,USA,32.51,-92.59,False
+RST,Rochester International,Rochester,MN,USA,43.91,-92.50,False
+RSV,Robinson Municipal,Robinson,IL,USA,39.02,-87.65,False
+RSW,Southwest Florida International,Ft. Myers,FL,USA,26.54,-81.76,False
+RTN,Raton Municipal/Crews,Raton,NM,USA,36.74,-104.50,False
+RUE,Russellville Municipal,Russellville,AR,USA,35.26,-93.09,False
+RUG,Rugby Municipal,Rugby,ND,USA,48.39,-100.02,False
+RUQ,Rowan County,Salisbury,NC,USA,35.65,-80.52,False
+RUT,Rutland State,Rutland,VT,USA,43.53,-72.95,False
+RVJ,Reidsville,Reidsville,GA,USA,32.06,-82.15,False
+RVL,Mifflin Cty,Reedsville,PA,USA,40.68,-77.63,False
+RVN,Hawkins County,Rogersville,TN,USA,36.46,-82.89,False
+RVS,Richard Lloyd Jones Jr.,Tulsa,OK,USA,36.04,-95.98,False
+RWF,Redwood Falls Muni,Redwood Falls,MN,USA,44.55,-95.08,False
+RWI,Rocky Mount Wilson,Rocky Mount,NC,USA,35.85,-77.89,False
+RWL,Rawlins Muni,Rawlins,WY,USA,41.81,-107.20,False
+RWN,Arens,Winamac,IN,USA,41.09,-86.61,False
+RXE,Rexburg-Madison County,Rexburg,ID,USA,43.83,-111.81,False
+RYN,Ryan,Tucson,AZ,USA,32.14,-111.17,False
+RYV,Watertown Municipal,Watertown,WI,USA,43.17,-88.72,False
+RYY,Cobb County-McCollum,Marietta,GA,USA,34.01,-84.60,False
+RZL,Jasper County,Rensselaer,IN,USA,40.95,-87.18,False
+RZN,Burnett County,Siren,WI,USA,45.82,-92.37,False
+RZT,Ross County,Chillicothe,OH,USA,39.44,-83.02,False
+RZZ,Halifax County,Roanoke Rapids,NC,USA,36.44,-77.71,False
+S01,Conrad,Conrad,MT,USA,48.17,-111.98,False
+S03,Ashland Muni-Sumner Parker,Ashland,OR,USA,42.19,-122.66,False
+S05,Bandon State,Bandon,OR,USA,43.09,-124.41,False
+S07,Bend Muni,Bend,OR,USA,44.09,-121.20,False
+S10,Chelan Muni,Chelan,WA,USA,47.87,-119.94,False
+S12,Albany Municipal,Albany,OR,USA,44.64,-123.06,False
+S18,Forks,Forks,WA,USA,47.94,-124.39,False
+S21,Sunriver,Sunriver,OR,USA,43.88,-121.45,False
+S23,Ione Municipal,Ione,WA,USA,48.71,-117.41,False
+S24,Sandusky Co,Fremont,OH,USA,41.30,-83.04,False
+S25,Watford City Municipal,Watford City,ND,USA,47.80,-103.25,False
+S27,Kalispell City,Kalispell,MT,USA,48.18,-114.30,False
+S28,International Peace Garden,Dunseith,ND,USA,49.00,-100.04,False
+S30,Lebanon State,Lebanon,OR,USA,44.53,-122.93,False
+S31,Lopez Island,Lopez,WA,USA,48.48,-122.94,False
+S32,Cooperstown Municipal,Cooperstown,ND,USA,47.42,-98.11,False
+S33,City-County,Madras,OR,USA,44.67,-121.16,False
+S34,Plains,Plains,MT,USA,47.47,-114.90,False
+S39,Prineville,Prineville,OR,USA,44.29,-120.90,False
+S40,Prosser,Prosser,WA,USA,46.21,-119.79,False
+S43,Harvey,Snohomish,WA,USA,47.91,-122.11,False
+S45,Siletz Bay State,Siletz Bay (Gleneden Beach),OR,USA,44.88,-124.03,False
+S47,Tillamook,Tillamook,OR,USA,45.42,-123.81,False
+S50,Auburn Municipal,Auburn,WA,USA,47.33,-122.23,False
+S52,Methow Valley State,Winthrop,WA,USA,48.42,-120.15,False
+S59,Libby,Libby,MT,USA,48.28,-115.49,False
+S60,Kenmore Air Harbor Inc,Kenmore,WA,USA,47.75,-122.26,False
+S64,Stanford,Stanford,MT,USA,47.15,-110.23,False
+S66,Homedale Municipal,Homedale,ID,USA,43.61,-116.92,False
+S67,Nampa Muni,Nampa,ID,USA,43.58,-116.52,False
+S68,Orofino Municipal,Orofino,ID,USA,46.49,-116.28,False
+S69,Lincoln,Lincoln,MT,USA,46.97,-112.64,False
+S70,Othello Muni,Othello,WA,USA,46.79,-119.08,False
+S71,Edgar G Obie,Chinook,MT,USA,48.59,-109.25,False
+S72,St Maries Municipal,St Maries,ID,USA,47.33,-116.58,False
+S73,Kamiah Municipal,Kamiah,ID,USA,46.22,-116.01,False
+S80,Idaho County,Grangeville,ID,USA,45.94,-116.12,False
+S83,Shoshone County,Kellogg,ID,USA,47.55,-116.19,False
+S85,Big Sky,Culbertson,MT,USA,48.15,-104.50,False
+S87,Weiser Municipal,Weiser,ID,USA,44.21,-116.96,False
+S89,Craigmont Municipal,Craigmont,ID,USA,46.25,-116.48,False
+S93,Cle Elum Municipal,Cle Elum,WA,USA,47.18,-120.88,False
+S94,Whitman County Memorial,Colfax,WA,USA,46.86,-117.41,False
+S97,Anderson,Brewster,WA,USA,48.10,-119.72,False
+SAA,Shively,Saratoga,WY,USA,41.44,-106.82,False
+SAC,Sacramento Executive,Sacramento,CA,USA,38.51,-121.49,False
+SAD,Safford Regional,Safford,AZ,USA,32.85,-109.63,False
+SAF,Santa Fe Municipal,Santa Fe,NM,USA,35.62,-106.09,False
+SAN,San Diego International-Lindbergh,San Diego,CA,USA,32.73,-117.19,False
+SAR,Sparta Community-Hunter,Sparta,IL,USA,38.15,-89.70,False
+SAT,San Antonio International,San Antonio,TX,USA,29.53,-98.47,False
+SAV,Savannah International,Savannah,GA,USA,32.13,-81.20,False
+SAW,Sawyer,Gwinn,MI,USA,46.35,-87.40,False
+SAZ,Staples Municipal,Staples,MN,USA,46.38,-94.81,False
+SBA,Santa Barbara Municipal,Santa Barbara,CA,USA,34.43,-119.84,False
+SBD,San Bernardino International,San Bernardino,CA,USA,34.10,-117.23,False
+SBM,Sheboygan County Memorial,Sheboygan,WI,USA,43.77,-87.85,False
+SBN,South Bend Regional,South Bend,IN,USA,41.71,-86.32,False
+SBO,Emanuel County,Swainsboro,GA,USA,32.61,-82.37,False
+SBP,San Luis Obispo Co-McChesney,San Luis Obispo,CA,USA,35.24,-120.64,False
+SBS,Steamboat Springs,Steamboat Springs,CO,USA,40.52,-106.87,False
+SBU,Blue Earth Municipal,Blue Earth,MN,USA,43.60,-94.09,False
+SBX,Shelby,Shelby,MT,USA,48.54,-111.87,False
+SBY,Salisbury-Ocean City: Wicomico Regional,Salisbury,MD,USA,38.34,-75.51,False
+SCB,Scribner State,Scribner,NE,USA,41.61,-96.63,False
+SCC,Deadhorse,Deadhorse,AK,USA,70.19,-148.47,False
+SCD,Merkel Field Sylacauga Municipal,Sylacauga,AL,USA,33.17,-86.31,False
+SCE,University Park,,,USA,40.85,-77.85,False
+SCH,Schenectady Cty,Schenectady,NY,USA,42.85,-73.93,False
+SCK,Stockton Metro,Stockton,CA,USA,37.89,-121.24,False
+SCM,Scammon Bay,Scammon Bay,AK,USA,61.84,-165.57,False
+SCX,Scott Municipal,Oneida,TN,USA,36.46,-84.59,False
+SD07,Bison Municipal,Bison,SD,USA,45.52,-102.47,False
+SD10,Canton Municipal,Canton,SD,USA,43.31,-96.57,False
+SD12,Wilder,De Smet,SD,USA,44.43,-97.56,False
+SD16,Eureka Municipal,Eureka,SD,USA,45.80,-99.64,False
+SD18,Flandreau Municipal,Flandreau,SD,USA,44.00,-96.59,False
+SD22,Hoven Municipal,Hoven,SD,USA,45.26,-99.80,False
+SD28,McLaughlin Municipal,McLaughlin,SD,USA,45.80,-100.78,False
+SD32,Murdo Municipal,Murdo,SD,USA,43.85,-100.71,False
+SD33,Parkston Municipal,Parkston,SD,USA,43.38,-97.97,False
+SD34,Presho Municipal,Presho,SD,USA,43.91,-100.04,False
+SDA,Shenandoah Municipal,Shenandoah,IA,USA,40.75,-95.41,False
+SDF,Louisville International-Standiford,Louisville,KY,USA,38.17,-85.74,False
+SDL,Scottsdale,Scottsdale,AZ,USA,33.62,-111.91,False
+SDM,Brown  Municipal,San Diego,CA,USA,32.57,-116.98,False
+SDP,Sand Point Municipal,Sand Point,AK,USA,55.32,-160.52,False
+SDY,Sidney-Richland Municipal,Sidney,MT,USA,47.71,-104.19,False
+SEA,Seattle-Tacoma Intl,Seattle,WA,USA,47.45,-122.31,False
+SEE,Gillespie,San Diego (El Cajon),CA,USA,32.83,-116.97,False
+SEF,Sebring  And Industrial Park,Sebring,FL,USA,27.46,-81.34,False
+SEG,Penn Valley,Selinsgrove,PA,USA,40.82,-76.86,False
+SEM,Craig,Selma,AL,USA,32.34,-86.99,False
+SEP,Clark Field Municipal,Stephenville,TX,USA,32.22,-98.18,False
+SER,Freeman Municipal,Seymour,IN,USA,38.92,-85.91,False
+SET,St Charles County Smart,St Charles,MO,USA,38.93,-90.43,False
+SEZ,Sedona,Sedona,AZ,USA,34.85,-111.79,False
+SFB,Orlando Sanford,Orlando,FL,USA,28.78,-81.24,False
+SFD,Bob Wiley,Winner,SD,USA,43.39,-99.84,False
+SFF,Felts,Spokane,WA,USA,47.68,-117.32,False
+SFM,Sanford Regional,Sanford,ME,USA,43.39,-70.71,False
+SFO,San Francisco International,San Francisco,CA,USA,37.62,-122.37,True
+SFQ,Suffolk Municipal,Suffolk,VA,USA,36.68,-76.60,False
+SFY,Tri-Township,Savanna,IL,USA,42.05,-90.11,False
+SFZ,North Central State,Pawtucket,RI,USA,41.92,-71.49,False
+SGF,Springfield-Branson Regional,Springfield,MO,USA,37.24,-93.39,False
+SGH,Springfield-Beckley Municipal,Springfield,OH,USA,39.84,-83.84,False
+SGJ,St. Augustine,St. Augustine,FL,USA,29.96,-81.34,False
+SGR,Sugar Land Municipal/Hull,Houston,TX,USA,29.62,-95.66,False
+SGS,South St.Paul Municipal,South St Paul,MN,USA,44.86,-93.03,False
+SGT,Stuttgart Municipal,Stuttgart,AR,USA,34.60,-91.57,False
+SGU,St George Muni,St George,UT,USA,37.09,-113.59,False
+SGY,Skagway,Skagway,AK,USA,59.46,-135.32,False
+SHD,Shenandoah Valley Regional,Staunton/Harrisonburg,VA,USA,38.26,-78.90,False
+SHG,Shungnak,Shungnak,AK,USA,66.89,-157.15,False
+SHH,Shishmaref,Shishmaref,AK,USA,66.25,-166.09,False
+SHL,Sheldon Municipal,Sheldon,IA,USA,43.21,-95.83,False
+SHN,Sanderson,Shelton,WA,USA,47.23,-123.15,False
+SHR,Sheridan County,Sheridan,WY,USA,44.77,-106.98,False
+SHV,Shreveport Regional,Shreveport,LA,USA,32.45,-93.83,False
+SHX,Shageluk,Shageluk,AK,USA,62.70,-159.57,False
+SIG,Fernando Luis Ribas Dominicci,San Juan,PR,USA,18.46,-66.10,False
+SIK,Sikeston Memorial Municipal,Sikeston,MO,USA,36.90,-89.56,False
+SIT,Sitka,Sitka,AK,USA,57.05,-135.36,False
+SIV,Sullivan County,Sullivan,IN,USA,39.11,-87.45,False
+SIY,Siskiyou County,Montague,CA,USA,41.78,-122.47,False
+SJC,San Jose International,San Jose,CA,USA,37.36,-121.93,False
+SJN,St Johns Industrial Air Park,St Johns,AZ,USA,34.52,-109.38,False
+SJT,San Angelo Regional /Mathis,San Angelo,TX,USA,31.36,-100.50,False
+SJU,Luis Munoz Marin International,San Juan,PR,USA,18.44,-66.00,False
+SJX,Beaver Island,St James,MI,USA,45.69,-85.57,False
+SKA,Fairchild AFB,,,USA,47.62,-117.66,False
+SKI,Sac City Municipal,Sac City,IA,USA,42.38,-94.98,False
+SKW,Skwentna,Skwentna,AK,USA,61.97,-151.19,False
+SKX,Taos Municipal,Taos,NM,USA,36.46,-105.67,False
+SLB,Storm Lake Municipal,Storm Lake,IA,USA,42.60,-95.24,False
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA,40.79,-111.98,False
+SLE,McNary Fld,Salem,OR,USA,44.91,-123.00,False
+SLG,Smith,Siloam Springs,AR,USA,36.19,-94.49,False
+SLK,Adirondack,Saranac Lake,NY,USA,44.39,-74.21,False
+SLN,Salina Municipal,Salina,KS,USA,38.79,-97.65,False
+SLO,Salem-Leckrone,Salem,IL,USA,38.64,-88.96,False
+SLQ,Sleetmute,Sleetmute,AK,USA,61.71,-157.16,False
+SLR,Sulphur Springs Municipal,Sulphur Springs,TX,USA,33.16,-95.62,False
+SMD,Smith,Fort Wayne,IN,USA,41.14,-85.15,False
+SME,Somerset-Pulaski County,Somerset,KY,USA,37.05,-84.61,False
+SMF,Sacramento International,Sacramento,CA,USA,38.70,-121.59,False
+SMN,Lemhi County,Salmon,ID,USA,45.12,-113.88,False
+SMO,Santa Monica Municipal,Santa Monica,CA,USA,34.02,-118.45,False
+SMQ,Somerset,Somerville,NJ,USA,40.63,-74.67,False
+SMS,Sumter Municipal,Sumter,SC,USA,34.00,-80.36,False
+SMX,Santa Maria Pub/Capt G Allan Hancock,Santa Maria,CA,USA,34.90,-120.46,False
+SNA,John Wayne /Orange Co,Santa Ana,CA,USA,33.68,-117.87,False
+SNH,Savannah Hardin County,Savannah,TN,USA,35.17,-88.22,False
+SNK,Winston,Snyder,TX,USA,32.69,-100.95,False
+SNL,Shawnee Municipal,Shawnee,OK,USA,35.36,-96.94,False
+SNP,St. Paul,St. Paul,AK,USA,57.17,-170.22,False
+SNS,Salinas Municipal,Salinas,CA,USA,36.66,-121.61,False
+SNY,Sidney Municipal,Sidney,NE,USA,41.10,-102.99,False
+SOP,Moore County,Pinehurst/Southern Pines,NC,USA,35.24,-79.39,False
+SOV,Seldovia,Seldovia,AK,USA,59.44,-151.70,False
+SOW,Show Low Municipal,Show Low,AZ,USA,34.27,-110.01,False
+SPA,Spartanburg Downtown Memorial,Spartanburg,SC,USA,34.92,-81.96,False
+SPB,Scappoose Industrial Airpark,Scappoose,OR,USA,45.77,-122.86,False
+SPF,Black Hills-Clyde Ice,Spearfish,SD,USA,44.48,-103.78,False
+SPG,Albert Whitted Municipal,St. Petersburg,FL,USA,27.77,-82.63,False
+SPH,Springhill,Springhill,LA,USA,32.98,-93.41,False
+SPI,Capital,Springfield,IL,USA,39.84,-89.68,False
+SPN,Tinian International Airport,,,N Mariana Islands,15.00,145.62,False
+SPS,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,TX,USA,33.99,-98.49,False
+SPW,Spencer Municipal,Spencer,IA,USA,43.17,-95.20,False
+SPX,Houston-Gulf,Houston,TX,USA,29.51,-95.05,False
+SQI,Whiteside Co,Sterling Rockfalls,IL,USA,41.74,-89.68,False
+SQL,San Carlos,San Carlos,CA,USA,37.51,-122.25,False
+SRB,Upper Cumberland Regional,Sparta,TN,USA,36.06,-85.53,False
+SRC,Searcy Municipal,Searcy,AR,USA,35.21,-91.74,False
+SRQ,Sarasota Bradenton International,Sarasota,FL,USA,27.40,-82.55,False
+SRR,Sierra Blanca Regional,Ruidoso,NM,USA,33.46,-105.53,False
+SRV,Stony River 2,Stony River,AK,USA,61.79,-156.59,False
+SSF,Stinson Municipal,San Antonio,TX,USA,29.34,-98.47,False
+SSI,Malcolm McKinnon,Brunswick,GA,USA,31.15,-81.39,False
+SSQ,Shell Lake Municipal,Shell Lake,WI,USA,45.73,-91.92,False
+STC,St Cloud Regional,St Cloud,MN,USA,45.55,-94.06,False
+STE,Stevens Point Municipal,Stevens Point,WI,USA,44.55,-89.53,False
+STF,George M Bryan,Starkville,MS,USA,33.43,-88.85,False
+STJ,Rosecrans Memorial,St Joseph,MO,USA,39.77,-94.91,False
+STK,Crosson,Sterling,CO,USA,40.62,-103.26,False
+STL,Lambert-St Louis International,St Louis,MO,USA,38.75,-90.36,False
+STP,St Paul Downtown Holman,St Paul,MN,USA,44.93,-93.06,False
+STS,Sonoma Co,Santa Rosa,CA,USA,38.51,-122.81,False
+STT,Cyril E. King,Charlotte Amalie,VI,USA,18.34,-64.97,False
+STX,Henry E. Rohlsen,Christiansted,VI,USA,17.70,-64.80,False
+SUA,Witham,Stuart,FL,USA,27.18,-80.22,False
+SUD,Stroud Municipal,Stroud,OK,USA,35.79,-96.66,False
+SUE,Door County Cherryland,Sturgeon Bay,WI,USA,44.84,-87.42,False
+SUN,Friedman Memorial,Hailey,ID,USA,43.50,-114.30,False
+SUS,Spirit of St Louis,St Louis,MO,USA,38.66,-90.65,False
+SUT,Brunswick County,Southport,NC,USA,33.93,-78.07,False
+SUW,Richard I Bong,Superior,WI,USA,46.69,-92.09,False
+SUX,Sioux Gateway,Sioux City,IA,USA,42.40,-96.38,False
+SVA,Savoonga,Savoonga,AK,USA,63.69,-170.49,False
+SVC,Grant County,Silver City,NM,USA,32.64,-108.16,False
+SVE,Susanville Municipal,Susanville,CA,USA,40.38,-120.57,False
+SVH,Statesville Municipal,Statesville,NC,USA,35.77,-80.96,False
+SVS,Stevens Village,Stevens Village,AK,USA,66.01,-149.10,False
+SWD,Seward,Seward,AK,USA,60.13,-149.42,False
+SWF,Stewart,Newburgh,NY,USA,41.50,-74.10,False
+SWO,Stillwater Regional,Stillwater,OK,USA,36.16,-97.09,False
+SWT,Seward Municipal,Seward,NE,USA,40.87,-97.11,False
+SWW,Avenger,Sweetwater,TX,USA,32.47,-100.47,False
+SXL,Summersville,Summersville,WV,USA,38.23,-80.87,False
+SXP,Sheldon Point,Sheldon Point,AK,USA,62.52,-164.85,False
+SXQ,Soldotna,Soldotna,AK,USA,60.48,-151.03,False
+SYF,Cheyenne County Municipal,St Francis,KS,USA,39.76,-101.80,False
+SYI,Bomar Field-Shelbyville Municipal,Shelbyville,TN,USA,35.56,-86.44,False
+SYR,Syracuse-Hancock Intl,Syracuse,NY,USA,43.11,-76.11,False
+SYV,Sylvester,Sylvester,GA,USA,31.56,-83.90,False
+SZP,Santa Paula,Santa Paula,CA,USA,34.35,-119.06,False
+SZT,Sandpoint,Sandpoint,ID,USA,48.30,-116.56,False
+SZY,Robert Sibley,Selmer,TN,USA,35.20,-88.50,False
+T00,Chambers County,Anahauac,TX,USA,29.77,-94.66,False
+T03,Tuba City,Tuba City,AZ,USA,36.09,-111.38,False
+T08,Tomahawk Regional,Tomahawk,WI,USA,45.47,-89.81,False
+T18,Brooks County,Falfurrias,TX,USA,27.21,-98.12,False
+T28,Lampasas Municipal,Lampasas,TX,USA,31.11,-98.20,False
+T35,Cameron Municipal Airpark,Cameron,TX,USA,30.88,-96.97,False
+T36,Paul Pittman Memorial,Tylertown,MS,USA,31.15,-90.17,False
+T41,La Porte Municipal,La Porte,TX,USA,29.67,-95.06,False
+T44,Trident Basin,Kodiak,AK,USA,57.78,-152.39,False
+T47,Kickapoo Downtown Airpark,Wichita Falls,TX,USA,33.86,-98.49,False
+T49,Big Spring McMahon-Wrinkle,Big Spring,TX,USA,32.21,-101.52,False
+T53,Robstown-Nueces County,Robstown,TX,USA,27.78,-97.69,False
+T56,Crockett-Houston County,Crockett,TX,USA,31.31,-95.40,False
+T57,Garland Heliport,Garland,TX,USA,32.89,-96.68,False
+T60,Stonewall County,Aspermont,TX,USA,33.17,-100.20,False
+T65,Mid Valley,Weslaco,TX,USA,26.18,-97.97,False
+T69,Sinton-San Patricio County,Sinton,TX,USA,28.04,-97.54,False
+T71,Cuero Municipal,Cuero,TX,USA,29.08,-97.27,False
+T72,Hearne Municipal,Hearne,TX,USA,30.87,-96.62,False
+T74,Taylor Municipal,Taylor,TX,USA,30.57,-97.44,False
+T78,Liberty Municipal,Liberty,TX,USA,30.08,-94.70,False
+T80,Kleberg County,Kingsville,TX,USA,27.55,-98.03,False
+T82,Gillespie County,Fredericksburg,TX,USA,30.24,-98.91,False
+T89,Castroville Municipal,Castroville,TX,USA,29.34,-98.85,False
+T90,Chambers County,Winnie/Stowell,TX,USA,29.80,-94.43,False
+T97,Calhoun County,Port Lavaca,TX,USA,28.65,-96.68,False
+TAD,Perry Stokes,Trinidad,CO,USA,37.26,-104.34,False
+TAL,Ralph M Calhoun Memorial,Tanana,AK,USA,65.17,-152.11,False
+TAN,Taunton Municipal,Taunton,MA,USA,41.87,-71.02,False
+TAZ,Taylorville Municipal,Taylorville,IL,USA,39.53,-89.33,False
+TBN,Forney AAF,Fort Leonard Wood,MO,USA,37.74,-92.14,False
+TBR,Statesboro Municipal,Statesboro,GA,USA,32.48,-81.74,False
+TCC,Tucumcari Municipal,Tucumcari,NM,USA,35.18,-103.60,False
+TCL,Tuscaloosa Municipal,Tuscaloosa,AL,USA,33.22,-87.61,False
+TCS,Truth Or Consequences Municipal,Truth Or Consequences,NM,USA,33.24,-107.27,False
+TCT,Takotna,Takotna,AK,USA,62.99,-156.07,False
+TCY,Tracy Municipal,Tracy,CA,USA,37.69,-121.44,False
+TDF,Person County,Roxboro,NC,USA,36.28,-78.98,False
+TDO,Toledo-Winlock Ed Carlson Memorial,Toledo,WA,USA,46.48,-122.81,False
+TDZ,Toledo Metcalf,Toledo,OH,USA,41.56,-83.48,False
+TEB,Teterboro,Teterboro,NJ,USA,40.85,-74.06,False
+TEL,Perry County Municipal,Tell City,IN,USA,38.02,-86.69,False
+TEW,Mason Jewett,Mason,MI,USA,42.57,-84.42,False
+TEX,Telluride Regional,Telluride,CO,USA,37.95,-107.91,False
+TGC,Gibson County,Trenton,TN,USA,35.93,-88.85,False
+TGI,Tangier Island,Tangier,VA,USA,37.83,-76.00,False
+THA,Tullahoma Regional,Tullahoma,TN,USA,35.38,-86.25,False
+THM,Thompson Falls,Thompson Falls,MT,USA,47.57,-115.28,False
+THP,Hot Springs County-Thermopolis Municipal,Thermopolis,WY,USA,43.66,-108.21,False
+THV,York,York,PA,USA,39.92,-76.87,False
+TIW,Tacoma Narrows,Tacoma,WA,USA,47.27,-122.58,False
+TIX,Space Cost Regional,Titusville,FL,USA,28.51,-80.80,False
+TKA,Talkeetna,Talkeetna,AK,USA,62.32,-150.09,False
+TKE,Tenakee SPB,Tenakee Springs,AK,USA,57.78,-135.22,False
+TKI,McKinney Municipal,McKinney,TX,USA,33.18,-96.59,False
+TKX,Kennett Memorial,Kennett,MO,USA,36.23,-90.03,False
+TLH,Tallahassee Regional,Tallahassee,FL,USA,30.40,-84.35,False
+TLR,Mefford,Tulare,CA,USA,36.16,-119.33,False
+TLT,Tuluksak,Tuluksak,AK,USA,61.10,-160.97,False
+TMA,Henry Tift Myers,Tifton,GA,USA,31.43,-83.49,False
+TMB,Kendall-Tamiami Executive,Miami,FL,USA,25.65,-80.43,False
+TNI,West Tinian,Peipeinimaru,CQ,USA,15.00,-145.62,False
+TNP,Twentynine Palms,Twentynine Palms,CA,USA,34.13,-115.95,False
+TNT,Dade Collier T And T,Miami,FL,USA,25.86,-80.90,False
+TNU,Newton Municipal,Newton,IA,USA,41.67,-93.02,False
+TOA,Zamperini,Torrance,CA,USA,33.80,-118.34,False
+TOB,Dodge Center,Dodge Center,MN,USA,44.02,-92.83,False
+TOC,Toccoa R G Le Tourneau,Toccoa,GA,USA,34.59,-83.30,False
+TOG,Togiak Village,Togiak,AK,USA,59.05,-160.40,False
+TOI,Troy Municipal,Troy,AL,USA,31.86,-86.01,False
+TOL,Toledo Express,Toledo,OH,USA,41.59,-83.81,False
+TOP,Philip Billard Municipal,Topeka,KS,USA,39.07,-95.62,False
+TOR,Torrington Muni,Torrington,WY,USA,42.06,-104.15,False
+TPA,Tampa International,Tampa,FL,USA,27.98,-82.53,False
+TPF,Peter O. Knight,Tampa,FL,USA,27.92,-82.45,False
+TPH,Tonopah,Tonopah,NV,USA,38.06,-117.09,False
+TPL,Draughon-Miller Central Texas Regional,Temple,TX,USA,31.15,-97.41,False
+TPO,Port Alsworth,Port Alsworth,AK,USA,60.20,-154.32,False
+TQE,Municipal,Tekamah,NE,USA,41.76,-96.18,False
+TQH,Tahlequah Municipal,Tahlequah,OK,USA,35.93,-95.00,False
+TQK,Scott City Municipal,Scott City,KS,USA,38.47,-100.88,False
+TRI,Tri-Cities Regional,Bristol,TN,USA,36.48,-82.41,False
+TRK,Truckee-Tahoe,Truckee,CA,USA,39.32,-120.14,False
+TRL,Terrell Municipal,Terrell,TX,USA,32.71,-96.27,False
+TRM,Desert Resorts Regional,Palm Springs,CA,USA,33.63,-116.16,False
+TRX,Trenton Municipal,Trenton,MO,USA,40.08,-93.59,False
+TSO,Carroll County-Tolson,Carrollton,OH,USA,40.56,-81.08,False
+TSP,Tehachapi Municipal,Tehachapi,CA,USA,35.13,-118.44,False
+TT01,Pagan Airstrip,Shomu-Shon,CQ,USA,18.12,-145.77,False
+TTA,Sanford-Lee County Regional,Sanford,NC,USA,35.58,-79.10,False
+TTD,Portland-Troutdale,Portland,OR,USA,45.55,-122.40,False
+TTF,Monroe Custer,Monroe,MI,USA,41.94,-83.43,False
+TTN,Trenton-Mercer County,Trenton,NJ,USA,40.28,-74.81,False
+TUL,Tulsa International,Tulsa,OK,USA,36.20,-95.89,False
+TUP,Tupelo Municipal,Tupelo,MS,USA,34.27,-88.77,False
+TUS,Tucson International,Tucson,AZ,USA,32.12,-110.94,False
+TVB,Cabool Memorial,Cabool,MO,USA,37.13,-92.08,False
+TVC,Cherry Capital,Traverse City,MI,USA,44.74,-85.58,False
+TVF,Thief River Falls Regional,Thief River Falls,MN,USA,48.07,-96.18,False
+TVI,Thomasville Municipal,Thomasville,GA,USA,30.90,-83.88,False
+TVK,Centerville Municipal,Centerville,IA,USA,40.68,-92.90,False
+TVL,Lake Tahoe,South Lake Tahoe,CA,USA,38.89,-120.00,False
+TVR,Vicksburg Tallulah Regional,Tallulah,LA,USA,32.35,-91.03,False
+TVY,Tooele Valley,Tooele,UT,USA,40.61,-112.35,False
+TWF,Joslin Field - Magic Valley,Twin Falls,ID,USA,42.48,-114.49,False
+TWM,Richard B. Helgeson,Two Harbors,MN,USA,47.05,-91.75,False
+TXK,Texarkana Regional-Webb,Texarkana,AR,USA,33.45,-93.99,False
+TYL,Taylor,Taylor,AZ,USA,34.45,-110.11,False
+TYQ,Indianapolis Terry,Indianapolis,IN,USA,40.03,-86.25,False
+TYR,Tyler Pounds,Tyler,TX,USA,32.35,-95.40,False
+TYS,McGhee-Tyson,Knoxville,TN,USA,35.81,-83.99,False
+TZR,Bolton,Columbus,OH,USA,39.90,-83.14,False
+TZT,Belle Plaine Municipal,Belle Plaine,IA,USA,41.88,-92.28,False
+TZV,Tompkinsville-Monroe County,Tompkinsville,KY,USA,36.73,-85.65,False
+U02,McCarley,Blackfoot,ID,USA,43.21,-112.35,False
+U03,Buhl Municipal,Buhl,ID,USA,42.59,-114.80,False
+U05,Riddick,Philipsburg,MT,USA,46.32,-113.31,False
+U08,Perkins,Overton,NV,USA,36.57,-114.44,False
+U10,Preston,Preston,ID,USA,42.11,-111.91,False
+U14,Nephi Municipal,Nephi,UT,USA,39.74,-111.87,False
+U25,Dubois Municipal,Dubois,WY,USA,43.55,-109.69,False
+U30,Temple Bar,Temple Bar,AZ,USA,36.02,-114.34,False
+U34,Green River Muni,Green River,UT,USA,38.96,-110.23,False
+U36,Aberdeen Municipal,Aberdeen,ID,USA,42.92,-112.88,False
+U42,Salt Lake City Municipal 2,Salt Lake City,UT,USA,40.62,-111.99,False
+U43,Monticello,Monticello,UT,USA,37.94,-109.35,False
+U52,Beaver Municipal,Beaver,UT,USA,38.23,-112.68,False
+U55,Panguitch Municipal,Panguitch,UT,USA,37.85,-112.39,False
+U59,Driggs-Reed Memorial,Driggs,ID,USA,43.74,-111.10,False
+U68,North Big Horn County,Cowley/Lovell/Byron,WY,USA,44.91,-108.45,False
+U69,Duchesne Municipal,Duchesne,UT,USA,40.19,-110.38,False
+U70,Cascade,Cascade,ID,USA,44.49,-116.02,False
+U76,Mountain Home Municipal,Mountain Home,ID,USA,43.13,-115.73,False
+U77,Spanish Fork-Springville,Spanish Fork,UT,USA,40.14,-111.66,False
+U82,Council Municipal,Council,ID,USA,44.75,-116.45,False
+U96,Cal Black Memorial,Halls Crossing,UT,USA,37.44,-110.57,False
+UAO,Aurora State,Aurora,OR,USA,45.25,-122.77,False
+UBE,Cumberland Municipal,Cumberland,WI,USA,45.51,-91.98,False
+UBS,Columbus-Lowndes County,Columbus,MS,USA,33.47,-88.38,False
+UBX,Cuba Municipal,Cuba,MO,USA,38.07,-91.43,False
+UCA,Oneida Cty,Utica,NY,USA,43.15,-75.38,False
+UCP,New Castle Muni,New Castle,PA,USA,41.03,-80.41,False
+UCY,Everett-Stewart,Union City,TN,USA,36.38,-88.99,False
+UDD,Bermuda Dunes,Palm Springs,CA,USA,33.75,-116.27,False
+UDG,Darlington County,Darlington,SC,USA,34.45,-79.89,False
+UES,Waukesha County,Waukesha,WI,USA,43.04,-88.24,False
+UGN,Waukegan Regional,Chicago/Waukegan,IL,USA,42.42,-87.87,False
+UIL,Quillayute,Forks,WA,USA,47.94,-124.56,False
+UIN,Quincy Municipal-Baldwin,Quincy,IL,USA,39.94,-91.19,False
+UIZ,Berz-Macomb,Utica,MI,USA,42.66,-82.97,False
+UKF,Wilkes County,North Wilkesboro,NC,USA,36.22,-81.10,False
+UKI,Ukiah Municipal,Ukiah,CA,USA,39.13,-123.20,False
+UKL,Coffey County,Burlington,KS,USA,38.30,-95.72,False
+UKT,Quakertown,Quakertown,PA,USA,40.44,-75.38,False
+ULM,New Ulm Municipal,New Ulm,MN,USA,44.32,-94.50,False
+ULS,Ulysses,Ulysses,KS,USA,37.60,-101.37,False
+UMP,Indianapolis Metropolitan,Indianapolis,IN,USA,39.94,-86.04,False
+UNI,Ohio University,Athens/Albany,OH,USA,39.21,-82.23,False
+UNK,Unalakleet,Unalakleet,AK,USA,63.89,-160.80,False
+UNO,West Plains Municipal,West Plains,MO,USA,36.88,-91.90,False
+UNU,Dodge County,Juneau,WI,USA,43.43,-88.70,False
+UNV,University Park,State College,PA,USA,40.85,-77.85,False
+UOS,Franklin County,Sewanee,TN,USA,35.20,-85.90,False
+UOX,University-Oxford,Oxford,MS,USA,34.38,-89.54,False
+UPP,Upolu,Hawi,HI,USA,20.27,-155.86,False
+USE,Fulton County,Wauseon,OH,USA,41.61,-84.13,False
+UTS,Huntsville Municipal,Huntsville,TX,USA,30.75,-95.59,False
+UUO,Willow,Willow,AK,USA,61.75,-150.05,False
+UUU,Newport State,Newport,RI,USA,41.53,-71.28,False
+UUV,Sullivan Regional,Sullivan,MO,USA,38.23,-91.16,False
+UVA,Garner,Uvalde,TX,USA,29.21,-99.74,False
+UWL,New Castle-Henry Co,New Castle,IN,USA,39.88,-85.33,False
+UYF,Madison County,London,OH,USA,39.93,-83.46,False
+UZA,Rock Hill Municipal/Bryant,Rock Hill,SC,USA,34.99,-81.06,False
+VAK,Chevak,Chevak,AK,USA,61.53,-165.58,False
+VAY,South Jersey Reg,Mount Holly,NJ,USA,39.94,-74.85,False
+VBT,Bentonville Municipal,Bentonville,AR,USA,36.35,-94.22,False
+VCB,Nut Tree,Vacaville,CA,USA,38.38,-121.96,False
+VCT,Victoria Regional,Victoria,TX,USA,28.85,-96.92,False
+VCV,Southern California Logistic,Victorville,CA,USA,34.59,-117.38,False
+VDI,Vidalia Municipal,Vidalia,GA,USA,32.19,-82.37,False
+VDZ,Valdez,Valdez,AK,USA,61.13,-146.25,False
+VEE,Venetie,Venetie,AK,USA,67.02,-146.41,False
+VEL,Vernal,Vernal,UT,USA,40.44,-109.51,False
+VER,Jesse Viertel Memorial,Boonville,MO,USA,38.95,-92.68,False
+VES,Darke County,Versailles,OH,USA,40.20,-84.53,False
+VGT,North Las Vegas,Las Vegas,NV,USA,36.21,-115.20,False
+VHN,Culberson County,Van Horn,TX,USA,31.06,-104.78,False
+VIH,Rolla National,Rolla/Vichy,MO,USA,38.13,-91.77,False
+VIQ,Neillsville Municipal,Neillsville,WI,USA,44.56,-90.51,False
+VIS,Visalia Municipal,Visalia,CA,USA,36.32,-119.39,False
+VJI,Virginia Highlands,Abingdon,VA,USA,36.69,-82.03,False
+VLA,Vandalia Municipal,Vandalia,IL,USA,38.99,-89.17,False
+VLD,Valdosta Regional,Valdosta,GA,USA,30.78,-83.28,False
+VMR,Harold Davidson,Vermillion,SD,USA,42.77,-96.93,False
+VNC,Venice Municipal,Venice,FL,USA,27.07,-82.44,False
+VNW,Van Wert County,Van Wert,OH,USA,40.86,-84.61,False
+VNY,Van Nuys,Van Nuys,CA,USA,34.21,-118.49,False
+VPC,Cartersville,Cartersville,GA,USA,34.12,-84.85,False
+VPS,Eglin Air Force Base,Valparaiso,FL,USA,30.48,-86.53,False
+VPZ,Porter County Municipal,Valparaiso,IN,USA,41.45,-87.01,False
+VQQ,Cecil,Jacksonville,FL,USA,30.22,-81.88,False
+VQS,Antonio Rivera Rodriguez,Isla De Vieques,PR,USA,18.14,-65.49,False
+VRB,Vero Beach Municipal,Vero Beach,FL,USA,27.66,-80.42,False
+VSF,Springfield State/Hartness,Springfield,VT,USA,43.34,-72.52,False
+VTA,Newark-Heath,Newark,OH,USA,40.02,-82.46,False
+VTI,Vinton Veterans Memorial Airpark,Vinton,IA,USA,42.22,-92.03,False
+VTN,Miller,Valentine,NE,USA,42.86,-100.55,False
+VUJ,Stanly County,Albemarle,NC,USA,35.42,-80.15,False
+VUO,Pearson Airpark,Vancouver,WA,USA,45.62,-122.66,False
+VVV,Ortonville Municipal,Ortonville,MN,USA,45.31,-96.42,False
+VYS,Illinois Valley Regional,Peru/Lasalle,IL,USA,41.35,-89.15,False
+W04,Ocean Shores Municipal,Ocean Shores,WA,USA,47.00,-124.14,False
+W05,Gettysburg  & Travel Center,Gettysburg,PA,USA,39.84,-77.27,False
+W11,Menomonie Municipal - Score,Menomonie,WI,USA,44.89,-91.87,False
+W22,Upshur County Regional,Buckhannon,WV,USA,39.00,-80.27,False
+W29,Bay Bridge Industrial,Stevensville,MD,USA,38.98,-76.33,False
+W31,Lunenburg County,Kenbridge,VA,USA,36.96,-78.18,False
+W33,Friday Harbor,Friday Harbor,WA,USA,48.54,-123.01,False
+W40,Mt Olive Municipal,Mt Olive,NC,USA,35.22,-78.04,False
+W41,Crisfield Municipal,Crisfield,MD,USA,38.02,-75.83,False
+W44,Asheboro Municipal,Asheboro,NC,USA,35.65,-79.90,False
+W45,Luray Caverns,Luray,VA,USA,38.67,-78.50,False
+W66,Warrenton-Fauquier,Warrenton,VA,USA,38.59,-77.71,False
+W78,William M Tuck,South Boston,VA,USA,36.71,-78.85,False
+W95,Ocracoke Island,Ocracoke,NC,USA,35.10,-75.97,False
+W96,New Kent County,Quinton,VA,USA,37.50,-77.13,False
+W97,Middle Peninsula Regional,West Point,VA,USA,37.52,-76.76,False
+W99,Grant County,Petersburg,WV,USA,38.99,-79.14,False
+WA10,Grove,Camas/Washougal,WA,USA,45.63,-122.40,False
+WA21,Grand Coulee Dam,Electric City,WA,USA,47.92,-119.08,False
+WA31,Whidbey Air Park,Langley,WA,USA,48.02,-122.44,False
+WA43,Odessa Municipal,Odessa,WA,USA,47.36,-118.67,False
+WAY,Greene Cty,Waynesburg,PA,USA,39.90,-80.13,False
+WBB,Stebbins,Stebbins,AK,USA,63.52,-162.28,False
+WBQ,Beaver,Beaver,AK,USA,66.36,-147.40,False
+WBW,Wilkes-Barre Wyoming Valley,Wilkes-Barre,PA,USA,41.30,-75.85,False
+WCR,Chandalar Lake,Chandalar Lake,AK,USA,67.50,-148.48,False
+WDG,Enid Woodring Municipal,Enid,OK,USA,36.38,-97.79,False
+WDR,Winder,Winder,GA,USA,33.98,-83.67,False
+WHP,Whiteman,Los Angeles,CA,USA,34.26,-118.41,False
+WJF,General Wm. J. Fox Airfield,Lancaster,CA,USA,34.74,-118.22,False
+WLD,Strother,Winfield/Arkansas City,KS,USA,37.17,-97.04,False
+WLK,Selawik,Selawik,AK,USA,66.60,-159.99,False
+WLW,Willows-Glenn County,Willows,CA,USA,39.52,-122.22,False
+WMC,Winnemucca Municipal,Winnemucca,NV,USA,40.90,-117.81,False
+WMO,White Mountain,White Mountain,AK,USA,64.69,-163.41,False
+WNA,Napakiak,Napakiak,AK,USA,60.69,-161.97,False
+WRG,Wrangell,Wrangell,AK,USA,56.48,-132.37,False
+WRL,Worland Muni,Worland,WY,USA,43.97,-107.95,False
+WSM,Wiseman,Wiseman,AK,USA,67.40,-150.12,False
+WSN,South Naknek 2,South Naknek,AK,USA,58.70,-157.01,False
+WST,Westerly State,Westerly,RI,USA,41.35,-71.80,False
+WTK,Noatak,Noatak,AK,USA,67.56,-162.98,False
+WVI,Watsonville Municipal,Watsonville,CA,USA,36.94,-121.79,False
+WVL,Waterville-Robert Lafleur,Waterville,ME,USA,44.53,-69.68,False
+WWD,Cape May Cty,Wildwood,NJ,USA,39.01,-74.91,False
+WWR,West Woodward,Woodward,OK,USA,36.44,-99.52,False
+WYS,Yellowstone,West Yellowstone,MT,USA,44.69,-111.12,False
+X01,Everglades,Everglades,FL,USA,25.85,-81.39,False
+X06,Arcadia Municipal,Arcadia,FL,USA,27.19,-81.84,False
+X07,Lake Wales Municipal,Lake Wales,FL,USA,27.89,-81.62,False
+X10,Belle Glade Municipal,Belle Glade,FL,USA,26.70,-80.66,False
+X14,Labelle Municipal,Labelle,FL,USA,26.74,-81.43,False
+X16,Vandenberg,Tampa,FL,USA,28.01,-82.35,False
+X21,Arthur Dunn Airpark,Titusville,FL,USA,28.62,-80.84,False
+X23,Umatilla Municipal,Umatilla,FL,USA,28.92,-81.65,False
+X26,Sebastian Municipal,Sebastian,FL,USA,27.81,-80.50,False
+X35,Dunnellon/Marion Co.,Dunellon,FL,USA,29.06,-82.38,False
+X40,Inverness,Inverness,FL,USA,28.81,-82.32,False
+X44,Watson Island Base,Miami,FL,USA,25.78,-80.17,False
+X46,Opa-Locka West,Miami,FL,USA,25.95,-80.42,False
+X47,Flagler County,Bunnell,FL,USA,29.47,-81.21,False
+X51,Homestead General Aviation,Homestead,FL,USA,25.50,-80.55,False
+X59,Valkaria,Valkaria,FL,USA,27.96,-80.56,False
+X60,Williston Municipal,Williston,FL,USA,29.35,-82.47,False
+X63,Humacao,Humacao,PR,USA,18.14,-65.80,False
+X66,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,VI,USA,18.34,-64.94,False
+X67,Christiansted Harbor Seaplane Base,Christiansted,VI,USA,17.75,-64.70,False
+X95,Diego Jimenez Torres,Fajardo,PR,USA,18.31,-65.66,False
+X96,Cruz Bay Harbor Seaplane Base,Cruz Bay,VI,USA,18.34,-64.80,False
+XNA,Northwest Arkansas Regional,Fayetteville/Springdale/Rogers,AR,USA,36.28,-94.31,False
+XVG,Longville Municipal,Longville,MN,USA,46.99,-94.20,False
+Y03,Springfield Municipal,Springfield,SD,USA,42.88,-97.90,False
+Y14,Marv Skie-Lincoln County,Tea,SD,USA,43.46,-96.80,False
+Y15,Cheboygan City-County,Cheboygan,MI,USA,45.65,-84.52,False
+Y19,Mandan Municipal,Mandan,ND,USA,46.77,-100.89,False
+Y27,Standing Rock,Fort Yates,ND,USA,46.07,-100.63,False
+Y31,West Branch Community,West Branch,MI,USA,44.24,-84.18,False
+Y37,Park River Municipal,Park River,ND,USA,48.39,-97.78,False
+Y47,New Hudson,New Hudson,MI,USA,42.50,-83.62,False
+Y50,Wautoma Municipal,Wautoma,WI,USA,44.04,-89.30,False
+Y51,Viroqua Municipal,Viroqua,WI,USA,43.58,-90.90,False
+Y55,Crandon Municipal,Crandon,WI,USA,45.52,-88.93,False
+Y63,Elbow Lake Municipal,Elbow Lake,MN,USA,45.99,-95.99,False
+Y66,Drummond Island,Drummond Island,MI,USA,46.01,-83.74,False
+Y68,Tracy Municipal,Tracy,MN,USA,44.25,-95.60,False
+Y70,Ionia County,Ionia,MI,USA,42.94,-85.06,False
+Y74,Hankins,Parshall,ND,USA,47.94,-102.14,False
+Y83,Sandusky City,Sandusky,MI,USA,43.45,-82.85,False
+Y93,Atlanta Municipal,Atlanta,MI,USA,45.00,-84.13,False
+YAK,Yakutat,Yakutat,AK,USA,59.50,-139.66,False
+YAP,Yap International,,,Federated States of Micronesia,9.52,138.10,False
+YIP,Willow Run,Detroit,MI,USA,42.24,-83.53,False
+YKM,Yakima Air Terminal,Yakima,WA,USA,46.57,-120.54,False
+YKN,Chan Gurney Municipal,Yankton,SD,USA,42.92,-97.39,False
+YNG,Youngstown-Warren Regional,Youngstown,OH,USA,41.26,-80.68,False
+YUM,Yuma MCAS-Yuma International,Yuma,AZ,USA,32.66,-114.61,False
+Z08,Ofu,Ofu Village,AS,USA,14.18,-169.67,False
+Z09,Kasigluk,Kasigluk,AK,USA,60.87,-162.52,False
+Z13,Akiachak,Akiachak,AK,USA,60.90,-161.42,False
+Z17,Ophir,Ophir,AK,USA,63.15,-156.53,False
+Z40,Goose Bay,Goose Bay,AK,USA,61.39,-149.85,False
+Z55,Lake Louise,Lake Louise,AK,USA,62.29,-146.58,False
+Z73,Nelson Lagoon,Nelson Lagoon,AK,USA,56.01,-161.16,False
+Z84,Clear,Clear A.F.B.,AK,USA,64.30,-149.12,False
+Z91,Birch Creek,Birch Creek,AK,USA,66.27,-145.82,False
+Z95,Cibecue,Cibecue,AZ,USA,34.00,-110.44,False
+ZEF,Elkin Municipal,Elkin,NC,USA,36.28,-80.79,False
+ZER,Schuylkill Cty/Joe Zerbey,Pottsville,PA,USA,40.71,-76.37,False
+ZPH,Zephyrhills Municipal,Zephyrhills,FL,USA,28.23,-82.16,False
+ZUN,Black Rock,Zuni,NM,USA,35.08,-108.79,False
+ZZV,Zanesville Municipal,Zanesville,OH,USA,39.94,-81.89,False

@@ -1,11 +1,11 @@
-<!-- <script>
+<script>
     export let data;
 </script>
 
     <ul>
-        {#each data.results as result}
+        {#each data.array as ar}
 
-        <li>{result}</li>
+        <li>{ar}</li>
         {/each}
-    </ul> -->
+    </ul>
 
