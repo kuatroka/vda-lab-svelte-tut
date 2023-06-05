@@ -1,4 +1,3 @@
-
 // fetch data from internet/ online JSON file
 /** @type {import('../$types').PageLoad} */
 

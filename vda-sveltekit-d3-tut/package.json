@@ -28,7 +28,10 @@
 	"dependencies": {
 		"@duckdb/duckdb-wasm": "^1.26.0",
 		"@observablehq/plot": "^0.6.8",
+		"@types/better-sqlite3": "^7.6.4",
 		"apache-arrow": "^12.0.0",
+		"better-sqlite3": "^8.4.0",
+		"knex": "^2.4.2",
 		"nock": "^13.3.1",
 		"papaparse": "^5.4.1"
 	}
