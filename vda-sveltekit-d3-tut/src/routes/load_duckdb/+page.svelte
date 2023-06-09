@@ -48,10 +48,10 @@ if (err) {
   //console.log(res.toString())
 </script>
 
-<pre>
+<!-- <pre>
 {JSON.stringify(data.entries, null, 2)}
 
-</pre>
+</pre> -->
 
 {#each data.entries as entry}
  <ul>
