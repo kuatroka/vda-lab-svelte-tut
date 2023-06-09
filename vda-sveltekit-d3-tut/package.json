@@ -32,13 +32,17 @@
 		"@types/better-sqlite3": "^7.6.4",
 		"@types/d3": "^7.4.0",
 		"apache-arrow": "^12.0.0",
+		"aws-sdk": "^2.1393.0",
 		"better-sqlite3": "^8.4.0",
 		"d3": "^7.8.5",
 		"d3-array": "^3.2.4",
 		"d3-force": "^3.0.0",
 		"d3-scale": "^4.0.2",
+		"duckdb": "^0.8.0",
+		"duckdb-async": "^0.8.0",
 		"knex": "^2.4.2",
 		"leaflet": "^1.9.4",
+		"mock-aws-s3": "^4.0.2",
 		"nock": "^13.3.1",
 		"papaparse": "^5.4.1"
 	}
