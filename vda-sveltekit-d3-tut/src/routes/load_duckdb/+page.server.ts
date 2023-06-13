@@ -1,8 +1,8 @@
 import { Database } from "duckdb-async";
 
 //// working with parquet files
-const one_cik_parquet_file = 'src/routes/load_duckdb/1762068-TICKER-2023-05-31.parquet'
-const query_parquet = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, quarter from read_parquet("${one_cik_parquet_file}") group by quarter, tr_id`;
+// const parquet_file = 'src/routes/load_duckdb/1762068-TICKER-2023-05-31.parquet'
+// const query_parquet = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, quarter from read_parquet("${parquet_file}") group by quarter, tr_id limit 100`;
 
 // export async function load() {
 //   const db = await Database.create(":memory:");
@@ -19,10 +19,10 @@ const query_parquet = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, qu
 
 ////////////////////////////////////////////////////////////////
 //// working with mini consolidated duckdb file
-const duckdb_file = '/Users/yo_macbook/Documents/app_data/TR_05_TEST_FINAL_DB_PARQ_ARROW/concatenated_files_duckdb.duckdb';
-const query_duckdb = `SELECT distinct(tr_id), SUM(value) as amount, quarter from my_table group by quarter, tr_id limit 100`;
+const conso_duckdb_file = '/Users/yo_macbook/Documents/app_data/TR_05_TEST_FINAL_DB_PARQ_ARROW/concatenated_files_duckdb.duckdb';
+const query_duckdb = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, quarter from my_table group by quarter, tr_id limit 100`;
 export async function load() {
-  const db = await Database.create(duckdb_file);
+  const db = await Database.create(conso_duckdb_file);
   console.time(query_duckdb);
   const entries = await db.all(query_duckdb);
   console.timeEnd(query_duckdb);
@@ -37,7 +37,7 @@ export async function load() {
 
 //// //// working with mini consolidated parquet file
 // const conso_parquet_file = '/Users/yo_macbook/Documents/app_data/TR_05_TEST_FINAL_DB_PARQ_ARROW/concatenated_files_duckdb_to_parq.parquet';
-// const query_conso_parq = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, quarter from read_parquet("${conso_parquet_file}") group by quarter, tr_id`;
+// const query_conso_parq = `SELECT distinct(tr_id) as tr_id, SUM(value) as amount, quarter from read_parquet("${conso_parquet_file}") group by quarter, tr_id limit 100`;
 // export async function load() {
 //   const db = await Database.create(":memory:");
 //   console.time(query_conso_parq);

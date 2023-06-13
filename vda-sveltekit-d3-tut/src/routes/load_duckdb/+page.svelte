@@ -52,6 +52,7 @@ if (err) {
 {JSON.stringify(data.entries, null, 2)}
 
 </pre> -->
+<h1>Transactions - Duckdb</h1>
 
 {#each data.entries as entry}
  <ul>
